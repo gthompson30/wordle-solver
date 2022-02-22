@@ -27,6 +27,7 @@ def assess_guess(guess, correct):
 def assess_move(move):
 	dist = {}
 	chars = '012'
+	# this may be the worst code i've written in my life.
 	for first in chars:
 		for second in chars:
 			for third in chars:
