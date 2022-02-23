@@ -14,22 +14,16 @@ To use the Wordle solver, run the command `python treesolver.py` from the root d
 ```
 .
 ├── data
-│   ├── allowed.txt
-│   ├── answers.txt
-│   └── tree.json
-├── treemaker.py
-├── treesolver.py
-├── unused
-│   ├── log.txt
-│   └── tree.txt
 │   ├── allowed.txt
 │   ├── answers.txt
-│   └── tree.json
+│   ├── tree.json
+│   └── tree.txt
+├── README.md
 ├── treemaker.py
 ├── treesolver.py
+├── tutorial.py
 ├── unused
-│   ├── log.txt
-│   └── tree.txt
+│   └── log.txt
 ├── wordle.py
 └── wordletester.py
 ```
@@ -37,10 +31,12 @@ To use the Wordle solver, run the command `python treesolver.py` from the root d
 ## Purpose of each file
 
 ### Main directory
+* **README.md**: This file 😊.
 * **treesolver.py**: Solves any Wordle using the decision tree in `data/tree.json` (runs quickly).
-* **wordle.py**: Solves any Wordle by calculating the optimal solution, on the fly (runs slowly).
 * **treemaker.py**: Generates the `data/tree.json` decision tree, based on the file `data/tree.txt`.
+* **wordle.py**: Solves any Wordle by calculating the optimal solution, on the fly (runs slowly).
 * **wordlesolver.py**: Calculates every possible Wordle solution, and prints out the solution. This was what I pasted into `data/tree.txt`.
+* **tutorial.py**: Prints a tutorial on how to use the solver.
 
 ### data/
 * **allowed.txt**: Contains every accepted Wordle word, not including potential answers. [source](https://gist.github.com/cfreshman/cdcdf777450c5b5301e439061d29694c)
