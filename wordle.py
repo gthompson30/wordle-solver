@@ -1,3 +1,5 @@
+import tutorial
+
 answers = open('data/answers.txt').readlines()
 answers = [answer.replace('\n', '') for answer in answers]
 

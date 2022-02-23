@@ -1,4 +1,5 @@
 import json
+import tutorial
 
 with open('data/tree.json', 'r') as f:
 	data = json.load(f)
