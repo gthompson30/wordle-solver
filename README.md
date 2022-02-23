@@ -14,7 +14,6 @@ To use the Wordle solver, run the command `python treesolver.py` from the root d
 ```
 .
 ├── data
-<<<<<<< HEAD
 │   ├── allowed.txt
 │   ├── answers.txt
 │   └── tree.json
@@ -23,7 +22,6 @@ To use the Wordle solver, run the command `python treesolver.py` from the root d
 ├── unused
 │   ├── log.txt
 │   └── tree.txt
-=======
 │   ├── allowed.txt
 │   ├── answers.txt
 │   └── tree.json
@@ -32,7 +30,6 @@ To use the Wordle solver, run the command `python treesolver.py` from the root d
 ├── unused
 │   ├── log.txt
 │   └── tree.txt
->>>>>>> 28d575f594713853a9e20d216a6251c9acf6a747
 ├── wordle.py
 └── wordletester.py
 ```
