@@ -1,0 +1,4629 @@
+01000 brond|10000 aback
+11010 acari|20200 abase
+01011 chare|00202 aargh|21000 abate
+01020 borna|10001 abbey
+01002 courd|01000 abaca|22000 abbot
+01000 brond|11100 aahed|20200 abhor
+01010 brede|10022 aalii|20010 abide
+01220 aahed|20022 abled
+01010 brede|10022 aalii|20000 abode
+01002 courd|01020 abort
+01002 courd|01100 about
+01010 brede|10002 above
+11010 acari|20000 abaca|22000 abuse
+11000 crabs|00112 abyss
+01000 brond|01210 acorn
+01000 brond|01002 aahed|20002 acrid
+01001 conia|11001 actor
+01011 chare|10102 acute
+01010 brede|00012 adage
+01002 courd|00001 aahed|21001 adapt
+01012 crena|00201 aahed|20011 adept
+01000 brond|00011 admin
+01002 courd|00001 aahed|20001 admit
+01010 brede|10012 adobe
+01002 courd|01001 adopt
+01010 brede|01012 adore
+01000 brond|01211 adorn
+01102 flong|01000 adult
+01000 brond|00000 amuck|20000 affix
+01010 brede|01002 aalii|20010 afire
+01002 courd|01000 abaca|20000 afoot
+01100 corni|01000 adbot|20010 afoul
+01021 after
+01000 brond|00010 abaca|20200 again
+01010 brede|00002 aguna|22001 agape
+01011 chare|00202 aargh|21010 agate
+01012 crena|00221 agent
+01110 gnarl|10101 aahed|20010 agile
+01000 brond|00020 abamp|20000 aging
+01200 aliya|21000 aglow
+01000 brond|00220 abamp|20000 agony
+01000 brond|01200 agora
+01020 borna|00201 agree
+01010 brede|00210 aahed|21112 ahead
+01020 borna|00101 aider
+11110 aahed|20010 aisle
+01100 corni|00100 aahed|21000 alarm
+01100 corni|00000 abamp|21010 album
+01112 repla|11011 alert
+01110 gnarl|10101 aahed|21010 algae
+01100 corni|00002 alibi
+01120 aalii|20110 alien
+01100 corni|00011 aalii|20110 align
+01110 gnarl|00101 kippa|11001 alike
+01110 gnarl|00101 kippa|01001 alive
+01200 aliya|22011 allay
+01220 aahed|20020 alley
+01202 allot
+01200 aliya|22000 allow
+01200 aliya|22010 alloy
+01102 flong|12200 aloft
+01110 gnarl|01101 aahed|20010 alone
+01100 corni|01020 along
+01100 corni|01000 adbot|20020 aloof
+01100 corni|01000 adbot|21010 aloud
+01100 corni|00000 abamp|20101 alpha
+01101 artic|21200 altar
+01121 alter
+11000 crabs|00202 amass
+01010 brede|00002 aguna|20001 abaka|20200 amaze
+01020 borna|10101 amber
+01110 gnarl|00101 kippa|00001 amble
+01010 brede|00210 aahed|20012 amend
+11000 crabs|00102 amiss
+01001 conia|00011 aahed|20000 amity
+01000 brond|00220 abamp|20010 among
+01110 gnarl|00101 kippa|00201 ample
+01100 corni|00000 abamp|20011 amply
+11010 acari|20000 abaca|20000 amuse
+01120 aalii|20100 angel
+01020 borna|00111 anger
+01110 gnarl|12101 angle
+01000 brond|01010 angry
+11002 acerb|20000 angst
+01010 brede|00002 aguna|20010 anime
+01110 gnarl|02101 ankle
+01020 borna|00011 annex
+01000 brond|00110 aalii|20000 annoy
+01100 corni|00010 annul
+01010 brede|00022 anode
+01001 conia|10121 antic
+01100 corni|00011 aalii|20120 anvil
+01001 conia|02002 aorta
+01002 courd|00020 apart
+01000 brond|00002 aphid
+01000 brond|00020 abamp|20001 aping
+01020 borna|00012 apnea
+01110 gnarl|00101 kippa|00211 apple
+01100 corni|00000 abamp|20001 apply
+01000 brond|01110 apron
+01101 artic|20200 aptly
+01000 brond|12100 arbor
+01000 brond|02101 ardor
+01010 brede|02200 cawks|01000 arena
+01010 brede|02002 cezve|00002 aargh|20110 argue
+11010 acari|20011 arise
+01000 brond|02100 aargh|20100 armor
+01000 brond|02200 aahed|21000 aroma
+11010 acari|20010 arose
+01000 brond|02000 copay|00022 array
+01000 brond|02100 aargh|20200 arrow
+11000 crabs|02101 arson
+11001 aahed|20000 artsy
+11002 acerb|21000 ascot
+11020 aahed|20220 ashen
+11010 acari|20001 aside
+11020 aahed|20020 askew
+11000 crabs|00101 assay
+11022 asset
+01101 artic|20100 atoll
+01011 chare|00102 atone
+01001 conia|10021 attic
+01000 brond|00101 aargh|20000 audio
+01002 courd|00101 audit
+01000 brond|01000 chara|00110 augur
+01001 conia|00201 aunty
+01100 corni|00001 adieu|20100 avail
+01012 crena|01201 avert
+01000 brond|00010 abaca|20100 avian
+01000 brond|00202 avoid
+01002 courd|00000 aahed|21000 await
+01010 brede|00002 aguna|20001 abaka|20220 awake
+01000 brond|01002 aahed|21002 award
+01010 brede|01002 aalii|21000 aware
+11000 crabs|00201 aargh|21002 awash
+01100 corni|00000 abamp|20000 awful
+01010 brede|00002 aguna|20000 awoke
+01100 corni|00001 adieu|20200 axial
+01000 brond|00100 abamp|20010 axiom
+01000 brond|00110 aalii|20010 axion
+01010 brede|01002 aalii|20000 azure
+02000 corni|11010 bacon
+02010 brugh|20020 badge
+02100 bingy|20002 badly
+02120 genal|11012 bagel
+02000 corni|00000 midgy|00022 baggy
+02020 gormy|00100 becap|21010 baker
+02220 abaca|11000 baler
+02200 ahold|10010 balmy
+02100 bingy|20200 banal
+02000 corni|01010 aargh|02000 banjo
+02010 brugh|21020 barge
+02000 corni|01210 baron
+12100 abaca|11100 basal
+12000 cissy|11200 basic
+12100 abaca|11000 basil
+12000 cissy|01200 basin
+12000 cissy|01210 basis
+12011 bacha|22000 baste
+02001 boric|20001 batch
+02011 aarti|02010 bathe
+02001 boric|21000 baton
+02001 boric|20000 batty
+02000 corni|00000 midgy|00102 bawdy
+02000 corni|01000 abamp|11000 bayou
+01010 brede|20100 aahed|10110 beach
+01010 brede|20120 beady
+01010 brede|21110 beard
+11012 abaft|01202 beast
+00010 drice|00021 aboon|01000 beech
+00010 drice|00001 banco|20000 beefy
+00012 preif|00121 befit
+01010 brede|20100 aahed|10010 began
+01012 crena|00101 begat
+00022 cerne|02001 beget
+00010 drice|00101 abaci|01001 begin
+00010 drice|00001 banco|20100 begun
+00010 drice|00201 fenny|02020 being
+00210 himbo|10010 belch
+00210 himbo|01010 belie
+00210 himbo|00010 abcee|01012 belle
+00210 himbo|00010 abcee|01010 belly
+00210 himbo|00011 below
+00010 drice|00021 aboon|01001 bench
+00022 cerne|02201 beret
+00010 drice|01001 boeuf|20100 berry
+00011 crith|01022 berth
+10022 abuna|01000 beset
+00121 abmho|01000 betel
+00120 bevor|22200 bevel
+00120 bevor|22000 bezel
+00110 deice|00102 aargh|00000 bible
+00020 nidor|02000 bicep
+00000 courd|00001 banda|20020 biddy
+00002 giron|12020 bigot
+00210 himbo|02010 bilge
+00200 doily|00122 fowth|00000 billy
+00010 drice|00102 bavin|20011 binge
+00000 courd|01000 aboon|01101 bingo
+00010 drice|00102 bavin|20010 biome
+00000 courd|10010 abaka|01000 birch
+00001 routh|10022 abamp|01000 birth
+10000 crios|00121 bison
+00001 routh|00020 aband|01000 bitty
+01100 corni|10000 abaca|01220 black
+01110 gnarl|00201 fehme|00002 aband|01201 blade
+01110 gnarl|00201 fehme|00022 blame
+01100 corni|00020 bifid|20002 bland
+01100 corni|00020 bifid|20000 blank
+01110 gnarl|00221 abaca|01200 blare
+11102 blast
+01110 gnarl|00201 fehme|00002 aband|01200 blaze
+01110 gnarl|00101 kippa|10001 bleak
+01112 repla|01011 abaca|11000 bleat
+00120 bevor|21000 aahed|00022 bleed
+00120 bevor|21000 aahed|00020 bleep
+00110 deice|11000 blend
+10110 aboon|01000 bless
+00100 courd|00000 algin|02010 blimp
+00100 courd|00002 abamp|01000 blind
+00100 courd|00000 algin|02011 blink
+10100 boeuf|20000 bliss
+00101 boils|20210 blitz
+01102 flong|02200 bloat
+00100 courd|11000 abaca|01020 block
+00110 deice|00002 baulk|20011 bloke
+00100 courd|01002 aband|01022 blond
+00100 courd|01002 aband|01002 blood
+00100 courd|01000 aboon|01220 bloom
+00100 courd|01000 aboon|01202 blown
+00120 bevor|21002 bluer
+00100 courd|00200 bumfs|21020 bluff
+00102 bling|22020 blunt
+00100 courd|00220 blurb
+00102 bling|22000 blurt
+10100 boeuf|20010 blush
+01000 brond|21102 board
+11002 acerb|10001 boast
+00000 courd|02000 biogs|20100 bobby
+00020 nidor|10010 chyme|00101 boney
+00000 courd|02000 biogs|20120 bongo
+10000 crios|00012 bonus
+00000 courd|02000 biogs|20200 abbas|01100 booby
+10002 boric|22000 boost
+00001 routh|02022 abamp|01000 booth
+00001 routh|02020 abaca|01000 booty
+00010 drice|00002 fount|02000 booze
+00000 courd|02000 biogs|20200 abbas|01000 boozy
+01000 brond|21100 borax
+00010 drice|01002 mungo|00101 borne
+10000 crios|00021 bosom
+10000 crios|00011 abaca|01000 bossy
+00001 routh|02012 abaca|01020 botch
+00000 courd|02200 aahed|00100 bough
+00110 deice|00002 baulk|20220 boule
+00000 courd|02202 bumph|21000 bound
+00120 bevor|21010 bowel
+00020 nidor|00012 whomp|00100 corby|02110 boxer
+01010 brede|22002 ackee|11002 brace
+01000 brond|22002 braid
+01000 brond|22010 aalii|10020 brain
+01010 brede|22002 ackee|10102 brake
+01000 brond|22022 brand
+11000 crabs|02211 brash
+11000 crabs|02212 brass
+01010 brede|22002 ackee|10002 brave
+01000 brond|22100 bravo
+01100 corni|00100 aahed|10000 brawl
+01000 brond|22010 aalii|10000 brawn
+01010 brede|22210 bread
+01010 brede|22200 break
+00020 nidor|00101 befog|21000 breed
+01000 brond|22000 briar
+00010 drice|02202 pombe|00022 bribe
+00000 courd|10010 abaka|01010 brick
+00010 drice|12202 abaca|01000 bride
+00020 nidor|01001 aargh|00100 brief
+00010 drice|02202 pombe|00012 brine
+00000 courd|00010 beigy|20210 bring
+00000 courd|00010 beigy|20200 brink
+00000 courd|00010 beigy|20202 briny
+10000 crios|02201 abaft|01000 brisk
+01000 brond|22202 broad
+00100 courd|01010 agios|00110 broil
+00010 drice|02002 befog|21010 broke
+00000 courd|01012 abaca|01000 brood
+00000 courd|01010 gimpy|00000 abaka|01010 brook
+00000 courd|01010 gimpy|00100 broom
+00001 routh|11022 abaca|01000 broth
+00000 courd|01010 gimpy|00000 abaka|01000 brown
+00002 giron|00101 brunt
+10000 crios|02001 brush
+00011 crith|02020 abaca|01000 brute
+00000 courd|00101 abamp|01000 buddy
+00010 drice|10002 bundh|22010 budge
+00000 courd|00100 gimpy|10002 buggy
+00110 deice|00002 baulk|20120 bugle
+00100 courd|00102 aargh|00000 build
+00102 bling|21200 built
+00210 himbo|00010 abcee|01002 bulge
+00200 doily|00012 abaca|01000 bulky
+00200 doily|00022 abaft|01000 bully
+00000 courd|10100 hempy|10000 bunch
+00000 courd|00100 gimpy|00002 bhang|20020 bunny
+00100 courd|00110 burly
+00002 giron|00201 burnt
+10002 boric|20200 burst
+10020 mhorr|00000 bused
+10000 crios|00001 hokum|10010 abaca|01000 bushy
+00001 routh|00112 aband|01000 butch
+00011 crith|00020 bapus|20010 butte
+00000 courd|01100 agios|00020 buxom
+00020 nidor|00002 bevue|21010 buyer
+01200 aliya|11010 bylaw
+02100 bingy|10000 aahed|12000 cabal
+02000 corni|20000 aahed|02000 cabby
+02000 corni|20011 cabin
+02110 cadge|22002 cable
+02000 corni|21000 cacao
+02010 brugh|00001 cache
+02001 boric|00011 cacti
+02000 corni|20000 aahed|02001 caddy
+02022 aahed|02021 cadet
+02020 gormy|10002 cagey
+02000 corni|20111 cairn
+02120 genal|01012 abamp|10010 camel
+02020 gormy|01010 cameo
+02100 bingy|00200 canal
+02000 corni|20010 candy
+02000 corni|20020 canny
+02010 brugh|00000 adown|10101 canoe
+02000 corni|21010 canon
+02020 gormy|00100 becap|01111 caper
+02002 teuch|10110 caput
+02002 teuch|10010 carat
+02000 corni|21200 cargo
+02100 bingy|00000 aargh|02200 carol
+02000 corni|20200 carry
+02010 brugh|01000 abaca|10010 carve
+12011 bacha|02100 caste
+02001 boric|00001 campy|22000 catch
+02021 enmew|00020 caphs|22000 cater
+02001 boric|00001 campy|22002 catty
+02100 bingy|00000 aargh|02000 caulk
+12010 ampul|10010 cause
+02100 bingy|01000 cavil
+11010 acari|01200 aahed|10010 cease
+01010 brede|01110 aahed|10011 cedar
+00210 himbo|00002 cello
+01010 brede|00002 aguna|10000 chafe
+01000 brond|00000 amuck|10010 chaff
+01000 brond|00010 abaca|00210 chain
+01000 brond|01000 chara|22210 chair
+01100 corni|20000 abmho|10010 chalk
+01000 brond|00000 amuck|11010 champ
+01002 courd|20000 chant
+11000 crabs|20202 chaos
+01000 brond|01002 aahed|10102 chard
+01000 brond|01000 chara|22220 charm
+01002 courd|20020 chart
+11010 acari|01200 aahed|10110 chase
+11000 crabs|20201 chasm
+01010 brede|00200 aboma|10000 cheap
+01012 crena|20201 cheat
+00010 drice|00021 aboon|00000 check
+00020 nidor|00000 aahed|00120 cheek
+00020 nidor|00002 bevue|01001 aahed|00120 cheer
+10010 rhone|02001 chess
+10012 quich|00011 chest
+00000 courd|20000 abrin|00010 chick
+00010 drice|10212 chide
+00020 nidor|01000 chief
+00100 courd|20002 child
+00100 courd|20000 knell|00020 chili
+00100 courd|20000 knell|00022 chill
+00010 drice|00212 chime
+01000 brond|00020 abamp|10000 china
+00000 courd|20020 chirp
+00000 courd|21000 chock
+00000 courd|21010 anion|00110 choir
+00010 drice|00012 aahed|00110 choke
+00000 courd|21022 chord
+00010 drice|01012 aahed|00110 chore
+10010 rhone|02202 abaca|00010 chose
+00000 courd|20200 acmic|01001 chuck
+00000 courd|20200 acmic|01100 chump
+00000 courd|20200 acmic|01000 chunk
+00000 courd|20220 churn
+00011 crith|20021 chute
+00020 nidor|02202 cahow|20000 cider
+01000 brond|01000 chara|20110 cigar
+00000 courd|20000 abrin|00011 cinch
+01000 brond|01000 chara|20012 circa
+00000 courd|20000 abrin|00020 civic
+00100 courd|20000 knell|00002 civil
+01100 corni|20000 abmho|10000 clack
+01100 corni|20001 claim
+01100 corni|20000 abmho|10100 clamp
+01100 corni|20020 aargh|10010 clang
+01100 corni|20020 aargh|10000 clank
+11100 chals|21211 clash
+11100 chals|20211 clasp
+11100 chals|20212 class
+01110 gnarl|01101 aahed|10010 clean
+01110 gnarl|00111 clear
+01112 repla|01011 abaca|10010 cleat
+00112 aleck|02210 cleft
+00110 deice|01010 clerk
+00100 courd|20000 knell|10010 click
+00100 courd|20000 knell|00010 abaca|00010 cliff
+00100 courd|20000 knell|00010 abaca|01010 climb
+00100 courd|20000 knell|01010 cling
+00100 courd|20000 knell|11010 clink
+01100 corni|21000 cloak
+00100 courd|21000 abaca|00020 clock
+00110 deice|00012 aboon|00201 clone
+10110 aboon|00200 close
+00101 boils|01010 cloth
+00100 courd|21102 cloud
+00102 bling|02000 abaca|00010 clout
+00110 deice|00012 aboon|00200 clove
+00100 courd|21000 abaca|00010 clown
+00100 courd|20200 acmic|01001 cluck
+00120 bevor|01000 chimp|20000 clued
+00100 courd|20200 acmic|01100 clump
+00100 courd|20200 acmic|01000 clung
+01000 brond|00100 abamp|00200 coach
+11002 acerb|11000 coast
+01000 brond|11100 aahed|10000 cobra
+01000 brond|00100 abamp|10000 cocoa
+00200 doily|02010 aargh|00000 colon
+00200 doily|02010 aargh|00100 color
+00022 cerne|21000 abamp|00010 comet
+00000 courd|22000 abrim|00001 comfy
+00000 courd|22000 abrim|00021 comic
+01000 brond|00100 abamp|10020 comma
+00000 courd|22000 abrim|00000 conch
+00000 courd|22001 condo
+00000 courd|22000 abrim|00020 conic
+10010 rhone|00102 appui|00200 copse
+01100 corni|22200 coral
+00020 nidor|00012 whomp|00100 corby|22200 corer
+00000 courd|22010 corny
+00000 courd|22200 aargh|00002 couch
+00000 courd|22200 aargh|00022 cough
+00100 courd|22202 could
+00002 giron|00011 ached|01000 count
+00010 drice|00012 aahed|00010 coupe
+00002 giron|00110 abaca|00010 court
+00020 nidor|10010 chyme|20001 coven
+00020 nidor|00012 whomp|00100 corby|22100 cover
+00022 cerne|21000 abamp|00000 covet
+00020 nidor|00010 aargh|00000 covey
+00020 nidor|00012 whomp|10100 abaca|00010 cower
+00100 courd|22000 coyly
+01000 brond|02000 copay|20010 crack
+01002 courd|20010 craft
+01000 brond|02000 copay|20110 cramp
+01010 brede|02002 cezve|20002 crane
+01000 brond|02020 apace|00210 crank
+11000 crabs|22201 crash
+11000 crabs|22202 crass
+01011 chare|20212 crate
+01010 brede|02002 cezve|20022 crave
+01100 corni|20100 crawl
+01010 brede|02002 cezve|20102 craze
+01000 brond|02000 copay|20012 crazy
+01010 brede|02200 cawks|21010 creak
+01010 brede|02200 cawks|21000 cream
+00010 drice|12011 credo
+00020 nidor|00101 befog|01000 creed
+00020 nidor|00001 ampul|00000 creek
+00020 nidor|00001 ampul|00100 creep
+00010 drice|02012 abamp|00020 creme
+00010 drice|02012 abamp|00001 crepe
+00012 preif|12200 crept
+10010 rhone|10001 ached|01010 cress
+10012 quich|00010 crest
+00000 courd|20010 abaca|00020 crick
+00020 nidor|01101 decaf|11100 cried
+00020 nidor|01002 crier
+00010 drice|02212 crime
+00000 courd|20010 abaca|00010 crimp
+10000 crios|22201 crisp
+01000 brond|02200 aahed|10000 croak
+00000 courd|21010 anion|00010 crock
+00010 drice|02012 abamp|00000 crone
+00000 courd|21010 anion|01010 crony
+00000 courd|21010 anion|00020 crook
+10000 crios|22012 cross
+00000 courd|21110 aalii|00000 croup
+00000 courd|21012 crowd
+00000 courd|21010 anion|00012 crown
+00010 drice|12012 crude
+00120 bevor|01001 aargh|00100 cruel
+00000 courd|20210 abaca|01010 crumb
+00000 courd|20210 abaca|00010 crump
+10000 crios|22001 crush
+10002 boric|00101 crust
+00002 giron|00100 crypt
+00000 courd|20100 abaca|01010 cubic
+00000 courd|20100 abaca|00010 cumin
+00000 courd|21110 aalii|00020 curio
+00100 courd|20110 curly
+00000 courd|20120 curry
+10010 rhone|10002 abcee|00102 curse
+00010 drice|01012 aahed|00010 curve
+00000 courd|20110 curvy
+00011 crith|20110 cutie
+00020 nidor|00002 bevue|11000 cyber
+00110 deice|00012 aboon|00000 cycle
+00000 courd|20000 abrin|00021 cynic
+02000 corni|00000 midgy|00202 abamp|10000 daddy
+02100 bingy|01002 daily
+02000 corni|00101 bifid|01001 dairy
+12000 cissy|01022 daisy
+02200 ahold|10021 dally
+02010 brugh|00000 adown|11001 dance
+02000 corni|00010 aargh|02000 dandy
+02001 boric|00000 fands|02010 datum
+02002 teuch|10200 gadje|02100 daunt
+01112 repla|02021 dealt
+01011 chare|01201 aahed|10111 death
+01010 brede|11110 debar
+00012 preif|00120 debit
+00010 drice|20001 aargh|00010 debug
+00012 preif|00100 debut
+01110 gnarl|00102 bedim|02100 decal
+01010 brede|00110 aalii|10000 decay
+00010 drice|21011 abaya|00000 decor
+00010 drice|20011 decoy
+00010 drice|21011 abaya|00010 decry
+00020 nidor|00102 abaft|00010 defer
+00010 drice|20201 deign
+00011 crith|00220 aband|00001 deity
+01210 abray|00022 delay
+01211 delta
+00210 himbo|00000 aahed|00011 delve
+00010 drice|20001 aargh|00000 demon
+00010 drice|21001 aargh|00100 demur
+00010 drice|20101 denim
+10010 rhone|00012 aahed|00011 dense
+00012 preif|10100 depot
+00011 crith|00022 aband|00001 depth
+00010 drice|21001 aargh|00200 derby
+00021 mohur|00002 abrin|00100 deter
+00011 crith|00010 accoy|00020 detox
+00010 drice|20022 aband|00001 deuce
+00110 deice|22100 devil
+01000 brond|01001 aalii|10010 diary
+00020 nidor|02100 dicey
+00002 giron|12000 aswim|00020 digit
+00200 doily|20122 dilly
+00100 courd|00001 abamp|00010 dimly
+00020 nidor|12102 diner
+00000 courd|01001 ablow|00010 dingo
+00000 courd|00001 banda|00210 dingy
+00010 drice|20102 diode
+00010 drice|21102 dirge
+00001 routh|10020 aahed|00001 dirty
+10000 crios|10111 disco
+00001 routh|00012 wiped|02001 ditch
+00001 routh|01020 aahed|00001 ditto
+00001 routh|00020 aband|00001 ditty
+00020 nidor|02102 diver
+00000 courd|00001 banda|00010 dizzy
+00010 drice|20002 dodge
+00000 courd|02001 dawds|20010 dodgy
+01000 brond|00101 aargh|10010 dogma
+00000 courd|02001 dawds|20000 doing
+00200 doily|22022 dolly
+00000 courd|02011 abray|00100 donor
+00002 giron|00011 ached|00001 donut
+00020 nidor|00110 dopey
+00002 giron|00010 doubt
+00000 courd|02201 dough
+00000 courd|02001 dawds|20220 dowdy
+00120 bevor|01010 adman|01000 dowel
+00000 courd|02001 dawds|20200 downy
+00000 courd|02021 dowry
+00020 nidor|10110 dozen
+01002 courd|00011 draft
+01000 brond|02011 aalii|10020 drain
+01010 brede|02012 abaka|00220 drake
+01000 brond|02001 drama
+01000 brond|02021 drank
+01010 brede|02012 abaka|00200 drape
+01100 corni|00100 aahed|10001 drawl
+01000 brond|02011 aalii|10000 drawn
+01010 brede|02210 aahed|10012 dread
+01010 brede|02210 aahed|10011 dream
+10010 rhone|10001 ached|00011 dress
+00020 nidor|01101 decaf|21000 dried
+00020 nidor|01102 drier
+00002 giron|01100 aahed|00001 drift
+00100 courd|00011 aalii|00110 drill
+00000 courd|00011 drink
+00010 drice|22202 drive
+00002 giron|01110 aahed|00001 droit
+00100 courd|01011 abele|00020 droll
+00010 drice|22002 aband|00021 drone
+00100 courd|01011 abele|00010 drool
+00000 courd|01011 abamp|00002 droop
+10000 crios|02012 aahed|00001 dross
+00010 drice|22002 aband|00001 drove
+00000 courd|01011 abamp|00000 drown
+00000 courd|00212 druid
+00000 courd|00211 drunk
+00020 nidor|00102 abaft|00000 dryer
+00100 courd|00011 aalii|00100 dryly
+00000 courd|10101 duchy
+00200 doily|20022 dully
+00000 courd|00101 abamp|00020 dummy
+00000 courd|00101 abamp|00011 dumpy
+00010 drice|20022 aband|00011 dunce
+10000 crios|00001 hokum|00110 dusky
+10001 durgy|22002 dusty
+00001 routh|00112 aband|00001 dutch
+00022 cerne|01000 aahed|00021 duvet
+01000 brond|01001 aalii|10000 dwarf
+00110 deice|21000 dwell
+00112 aleck|01200 dwelt
+00000 courd|00001 banda|00110 dying
+02020 gormy|10100 abcee|10021 eager
+02110 cadge|02012 eagle
+02110 cadge|02001 early
+02011 aarti|02220 earth
+12120 easel
+02021 enmew|21020 eaten
+02021 enmew|20020 eater
+00010 drice|00001 banco|10101 ebony
+01212 eclat
+00012 preif|00110 aahed|00011 edict
+00010 drice|10201 edify
+00010 drice|01102 aalii|00020 eerie
+00022 cerne|01201 egret
+00012 preif|00110 aahed|00110 eight
+00012 preif|00200 abaca|00020 eject
+00010 drice|00201 fenny|01020 eking
+01111 abamp|00200 elate
+00110 deice|01000 abamp|01000 elbow
+00120 bevor|01002 bifid|00001 elder
+00112 aleck|02220 elect
+00110 deice|01001 elegy
+00110 deice|01100 elfin
+00110 deice|11202 elide
+00111 axile|00212 elite
+00110 deice|01002 elope
+00110 deice|11002 elude
+01110 gnarl|00202 email
+00020 nidor|00100 embed
+00020 nidor|00002 bevue|11001 ember
+00020 nidor|00000 aahed|00020 emcee
+00011 crith|00020 bapus|00200 empty
+01012 crena|10111 enact
+00010 drice|10001 ablow|00022 endow
+01010 brede|00201 enema
+00010 drice|00001 banco|00100 enemy
+00010 drice|00001 banco|00101 advew|00010 enjoy
+00010 drice|00101 abaci|00002 ennui
+10010 rhone|00012 aahed|00010 ensue
+00021 mohur|00002 abrin|00101 enter
+00011 crith|01010 amino|00010 entry
+00010 drice|00001 banco|00101 advew|00210 envoy
+00010 drice|00021 aboon|00200 epoch
+00010 drice|00001 banco|00001 epoxy
+01110 gnarl|00102 bedim|01000 equal
+00010 drice|00101 abaci|00001 equip
+11010 acari|00210 erase
+00012 preif|02200 erect
+00010 drice|12002 abamp|00000 erode
+00010 drice|02001 error
+00012 preif|12100 erupt
+11010 acari|10000 essay
+10021 ester
+00021 mohur|00202 ether
+00011 crith|10111 ethic
+10011 troth|10101 ethos
+00011 crith|00010 accoy|00000 etude
+01010 brede|00122 evade
+00012 preif|00200 abaca|00000 event
+00010 drice|01001 boeuf|00200 every
+00012 preif|00110 aahed|00010 evict
+00010 drice|00002 fount|01000 evoke
+01012 crena|10101 exact
+01112 repla|01021 exalt
+00120 bevor|01000 chimp|10000 excel
+00012 preif|01200 abcee|00011 exert
+00110 deice|01202 exile
+10012 quich|00200 exist
+00120 bevor|01000 chimp|00001 expel
+00111 axile|02011 extol
+01011 chare|00121 aargh|10100 extra
+00112 aleck|01100 exult
+00010 drice|00201 fenny|01021 eying
+02110 cadge|02002 abaca|11000 fable
+02022 aahed|02020 facet
+02002 teuch|10000 abaft|10012 faint
+02000 corni|00101 bifid|01100 fairy
+02001 boric|00010 faith
+12210 false
+02000 corni|10010 fancy
+02000 corni|00020 abaft|10010 fanny
+02010 brugh|01000 abaca|10020 farce
+02101 abaft|10111 fatal
+02001 boric|00000 fands|22000 fatty
+02102 abaft|10012 fault
+02000 corni|00020 abaft|10110 fauna
+02000 corni|01100 jivey|00200 favor
+11012 abaft|00212 feast
+01110 gnarl|00102 bedim|02000 fecal
+00010 drice|00201 fenny|22100 feign
+01210 abray|10000 fella
+00210 himbo|00001 felon
+00010 drice|00002 fount|20000 femme
+00010 drice|01001 boeuf|00121 femur
+00010 drice|00022 bumph|00000 fence
+01110 gnarl|00112 feral
+00010 drice|01001 boeuf|00101 ferry
+01111 abamp|10000 fetal
+00011 crith|10012 fetch
+00011 crith|00110 acted|00212 fetid
+10011 troth|10000 fetus
+00020 nidor|00002 bevue|02201 fever
+00020 nidor|00002 bevue|02001 ablow|00001 fewer
+00020 nidor|02002 parev|00120 abaca|01000 fiber
+00010 drice|01102 aalii|00010 fibre
+10000 crios|10102 ficus
+00110 deice|11100 alway|01000 field
+00010 drice|10101 fiend
+00010 drice|01101 fiery
+00001 routh|00022 aband|00000 fifth
+00001 routh|00020 aband|00000 awork|00000 fifty
+00002 giron|12000 aswim|00010 abaft|00012 fight
+00220 adsum|00000 filer
+00222 abaft|00012 filet
+00200 doily|00122 fowth|20000 filly
+00200 doily|00112 abaft|00010 filmy
+00201 aahed|00100 filth
+01100 corni|00011 aalii|10110 final
+00000 courd|10000 fawny|20010 finch
+00020 nidor|12002 abaft|00010 finer
+10002 boric|00210 first
+10000 crios|00101 aleph|00001 fishy
+00020 nidor|02002 parev|00120 abaca|00000 fixer
+00000 courd|00000 nippy|02002 abaft|00010 fizzy
+00000 courd|01022 fjord
+01100 corni|10000 abaca|00220 flack
+01100 corni|00001 adieu|10100 flail
+01100 corni|00101 afear|11002 flair
+01110 gnarl|00201 fehme|20002 flake
+01100 corni|00000 abamp|00200 flaky
+01110 gnarl|00201 fehme|20022 flame
+01100 corni|00020 bifid|00100 flank
+01110 gnarl|00221 abaca|00200 flare
+11100 chals|01211 flash
+11100 chals|00211 flask
+00110 deice|01020 fleck
+00122 fleet
+10110 aboon|00000 flesh
+00100 courd|10000 aalii|00110 flick
+00120 bevor|01002 bifid|01100 flier
+00100 courd|00000 algin|02111 fling
+00102 bling|02220 flint
+00102 bling|02200 flirt
+01102 flong|22200 float
+00100 courd|11000 abaca|00020 flock
+00100 courd|01002 aband|00002 flood
+00100 courd|01010 agios|00020 floor
+01100 corni|01100 flora
+10100 boeuf|01001 floss
+00100 courd|01110 flour
+00102 bling|02000 abaca|00000 flout
+00100 courd|01000 aboon|00202 flown
+00100 courd|00200 bumfs|01020 fluff
+00100 courd|00202 fluid
+00110 deice|00002 baulk|00211 fluke
+00110 deice|00002 baulk|00210 abaft|00010 flume
+00100 courd|00200 bumfs|01010 aargh|00010 flung
+00100 courd|00200 bumfs|01010 aargh|00000 flunk
+10100 boeuf|00011 flush
+00111 axile|00012 flute
+00120 bevor|01002 bifid|00100 flyer
+01000 brond|00100 abamp|00220 foamy
+01100 corni|12000 falls|21100 focal
+10000 crios|10012 focus
+00000 courd|02000 biogs|00120 foggy
+10002 boric|02010 fehme|20000 foist
+00200 doily|02110 folio
+00200 doily|02022 faugh|20000 folly
+01000 brond|01100 aargh|10200 foray
+00010 drice|01022 force
+00010 drice|01002 mungo|00021 abaft|00010 forge
+00000 courd|02010 aboon|00110 forgo
+00011 crith|01020 aargh|00200 forte
+00001 routh|12022 adown|00100 forth
+00001 routh|12020 forty
+00000 courd|02110 forum
+00000 courd|02202 bumph|01000 abaft|00010 found
+00020 nidor|00012 whomp|00100 corby|02101 foyer
+01100 corni|00101 afear|11001 frail
+01010 brede|02002 cezve|00002 aargh|10100 frame
+01000 brond|02020 apace|00200 frank
+01000 brond|02002 fraud
+01010 brede|02200 cawks|01010 freak
+00020 nidor|00101 befog|01100 freed
+00020 nidor|00002 bevue|01001 aahed|00020 freer
+10010 rhone|11001 fresh
+01000 brond|02000 copay|00020 friar
+00020 nidor|01101 decaf|11001 fried
+00100 courd|00010 aking|00200 frill
+10000 crios|02201 abaft|00010 frisk
+00001 routh|10020 aahed|00000 fritz
+00000 courd|11010 frock
+00000 courd|01012 abaca|00000 frond
+00002 giron|00111 front
+10002 boric|01100 frost
+00001 routh|11022 abaca|00000 froth
+00000 courd|01010 gimpy|00000 abaka|00000 frown
+00010 drice|02002 befog|01110 froze
+00002 giron|01100 aahed|00000 fruit
+00010 drice|10002 bundh|02010 abaft|00010 fudge
+00010 drice|00002 fount|20100 fugue
+00200 doily|00022 abaft|00010 fully
+00000 courd|00100 gimpy|11000 fungi
+00000 courd|00100 gimpy|00002 bhang|00010 funky
+00000 courd|00100 gimpy|00002 bhang|00020 funny
+00000 courd|01110 farer|20202 furor
+00000 courd|00120 aargh|00200 furry
+10000 crios|00001 hokum|00010 fussy
+00000 courd|00100 gimpy|00002 bhang|00000 fuzzy
+02010 brugh|00010 gaffe
+02100 bingy|01012 gaily
+02020 gormy|20110 gamer
+02000 corni|00000 midgy|10010 gamma
+02002 teuch|10100 gamut
+12000 cissy|00222 gassy
+02000 corni|00000 midgy|00112 gaudy
+02010 brugh|00220 gauge
+02002 teuch|10200 gadje|22000 gaunt
+02010 brugh|00210 gauze
+02120 genal|21012 gavel
+02000 corni|00000 midgy|00012 gawky
+02020 gormy|20101 gayer
+02100 bingy|00012 gayly
+02020 gormy|20100 gazer
+00010 drice|00011 gecko
+00010 drice|00001 banco|00000 geeky
+10010 rhone|00002 abies|00011 geese
+00010 drice|00102 bavin|00021 genie
+00010 drice|01002 mungo|00210 genre
+10002 boric|01000 ghost
+00100 courd|01100 ghoul
+01002 courd|00000 aahed|10000 giant
+00000 courd|00001 banda|00020 giddy
+10000 crios|00101 aleph|00010 gipsy
+00100 courd|00010 aking|00101 girly
+00001 routh|10022 abamp|00000 girth
+00020 nidor|12000 advew|00220 given
+00020 nidor|02002 parev|00121 aargh|00110 giver
+01110 gnarl|20201 aahed|10011 glade
+01100 corni|00020 bifid|00002 gland
+01110 gnarl|20221 glare
+11100 chals|00212 glass
+01110 gnarl|20201 aahed|10010 glaze
+01110 gnarl|20101 gleam
+01110 gnarl|21101 glean
+00110 deice|10202 glide
+00102 bling|02221 glint
+01102 flong|02201 gloat
+00110 deice|00002 baulk|10010 globe
+00100 courd|01000 aboon|00220 gloom
+00100 courd|01020 glory
+10100 boeuf|01000 gloss
+00110 deice|00002 baulk|00010 glove
+00100 courd|00000 algin|02100 glyph
+11000 crabs|00201 aargh|10012 gnash
+00010 drice|00002 fount|01010 gnome
+00100 courd|02001 godly
+00000 courd|02000 biogs|01110 going
+00220 adsum|00002 golem
+00200 doily|02022 faugh|00010 golly
+01000 brond|00112 aargh|10010 gonad
+00020 nidor|10012 aargh|00110 goner
+00000 courd|02001 dawds|00020 aargh|00010 goody
+00020 nidor|00010 aargh|00010 gooey
+00000 courd|02000 biogs|00210 goofy
+10010 rhone|00202 aargh|00010 goose
+00010 drice|01002 mungo|00021 abaft|00000 gorge
+00010 drice|00002 fount|02200 gouge
+00000 courd|02222 gourd
+01010 brede|02002 cezve|10002 grace
+01010 brede|02022 grade
+01002 courd|00010 abrin|10100 graft
+01100 corni|00101 afear|10001 grail
+01000 brond|02010 aalii|10020 grain
+01000 brond|02022 grand
+01002 courd|00010 abrin|10101 grant
+01010 brede|02002 cezve|00002 aargh|10110 grape
+01000 brond|02000 copay|00110 graph
+11000 crabs|02201 grasp
+11000 crabs|02202 grass
+01011 chare|00212 aarti|10120 grate
+01010 brede|02002 cezve|00022 grave
+01000 brond|02000 copay|00012 gravy
+01010 brede|02002 cezve|00102 graze
+01012 crena|02201 aargh|10110 great
+00020 nidor|00101 befog|01001 greed
+00020 nidor|10001 aegis|01100 green
+00022 cerne|01101 greet
+00020 nidor|01001 aargh|00110 grief
+00100 courd|00010 aking|00201 grill
+00010 drice|02202 pombe|00102 grime
+00000 courd|00010 beigy|00212 grimy
+00000 courd|00012 aalii|00010 grind
+00010 drice|02202 pombe|10002 gripe
+01000 brond|02210 groan
+00000 courd|01010 gimpy|21000 groin
+00000 courd|01010 gimpy|20100 groom
+00010 drice|02002 befog|01011 abamp|00001 grope
+10000 crios|02012 aahed|00000 gross
+00000 courd|01110 farer|00100 group
+00002 giron|20110 grout
+00010 drice|02002 befog|01011 abamp|00000 grove
+00100 courd|01010 agios|01010 growl
+00000 courd|01010 gimpy|20000 grown
+00120 bevor|01001 aargh|00110 gruel
+00000 courd|00210 abaft|00020 gruff
+00002 giron|20101 grunt
+01000 brond|01002 aahed|10002 guard
+01000 brond|00000 amuck|10100 guava
+10010 rhone|00001 aargh|00010 guess
+10012 quich|02000 guest
+00010 drice|10202 aargh|00010 guide
+00100 courd|00102 aargh|00010 guild
+00110 deice|00202 aargh|00010 guile
+00102 bling|01201 guilt
+10010 rhone|00002 abies|00211 guise
+00200 doily|00010 aargh|00012 gulch
+00200 doily|00022 abaft|00000 gully
+00000 courd|01100 agios|01010 gumbo
+00000 courd|00100 gimpy|20202 gummy
+00000 courd|00100 gimpy|20022 guppy
+10001 durgy|02010 gusto
+10001 durgy|02012 gusty
+10000 crios|00001 hokum|00000 gypsy
+02002 teuch|10001 habit
+02000 corni|00101 bifid|01000 hairy
+02210 ahull|11010 halve|01000 brond|10000 aback
+11010 acari|20200 abase
+01011 chare|00202 aargh|21000 abate
+01020 borna|10001 abbey
+01002 courd|01000 abaca|22000 abbot
+01000 brond|11100 aahed|20200 abhor
+01010 brede|10022 aalii|20010 abide
+01220 aahed|20022 abled
+01010 brede|10022 aalii|20000 abode
+01002 courd|01020 abort
+01002 courd|01100 about
+01010 brede|10002 above
+11010 acari|20000 abaca|22000 abuse
+11000 crabs|00112 abyss
+01000 brond|01210 acorn
+01000 brond|01002 aahed|20002 acrid
+01001 conia|11001 actor
+01011 chare|10102 acute
+01010 brede|00012 adage
+01002 courd|00001 aahed|21001 adapt
+01012 crena|00201 aahed|20011 adept
+01000 brond|00011 admin
+01002 courd|00001 aahed|20001 admit
+01010 brede|10012 adobe
+01002 courd|01001 adopt
+01010 brede|01012 adore
+01000 brond|01211 adorn
+01102 flong|01000 adult
+01000 brond|00000 amuck|20000 affix
+01010 brede|01002 aalii|20010 afire
+01002 courd|01000 abaca|20000 afoot
+01100 corni|01000 adbot|20010 afoul
+01021 after
+01000 brond|00010 abaca|20200 again
+01010 brede|00002 aguna|22001 agape
+01011 chare|00202 aargh|21010 agate
+01012 crena|00221 agent
+01110 gnarl|10101 aahed|20010 agile
+01000 brond|00020 abamp|20000 aging
+01200 aliya|21000 aglow
+01000 brond|00220 abamp|20000 agony
+01000 brond|01200 agora
+01020 borna|00201 agree
+01010 brede|00210 aahed|21112 ahead
+01020 borna|00101 aider
+11110 aahed|20010 aisle
+01100 corni|00100 aahed|21000 alarm
+01100 corni|00000 abamp|21010 album
+01112 repla|11011 alert
+01110 gnarl|10101 aahed|21010 algae
+01100 corni|00002 alibi
+01120 aalii|20110 alien
+01100 corni|00011 aalii|20110 align
+01110 gnarl|00101 kippa|11001 alike
+01110 gnarl|00101 kippa|01001 alive
+01200 aliya|22011 allay
+01220 aahed|20020 alley
+01202 allot
+01200 aliya|22000 allow
+01200 aliya|22010 alloy
+01102 flong|12200 aloft
+01110 gnarl|01101 aahed|20010 alone
+01100 corni|01020 along
+01100 corni|01000 adbot|20020 aloof
+01100 corni|01000 adbot|21010 aloud
+01100 corni|00000 abamp|20101 alpha
+01101 artic|21200 altar
+01121 alter
+11000 crabs|00202 amass
+01010 brede|00002 aguna|20001 abaka|20200 amaze
+01020 borna|10101 amber
+01110 gnarl|00101 kippa|00001 amble
+01010 brede|00210 aahed|20012 amend
+11000 crabs|00102 amiss
+01001 conia|00011 aahed|20000 amity
+01000 brond|00220 abamp|20010 among
+01110 gnarl|00101 kippa|00201 ample
+01100 corni|00000 abamp|20011 amply
+11010 acari|20000 abaca|20000 amuse
+01120 aalii|20100 angel
+01020 borna|00111 anger
+01110 gnarl|12101 angle
+01000 brond|01010 angry
+11002 acerb|20000 angst
+01010 brede|00002 aguna|20010 anime
+01110 gnarl|02101 ankle
+01020 borna|00011 annex
+01000 brond|00110 aalii|20000 annoy
+01100 corni|00010 annul
+01010 brede|00022 anode
+01001 conia|10121 antic
+01100 corni|00011 aalii|20120 anvil
+01001 conia|02002 aorta
+01002 courd|00020 apart
+01000 brond|00002 aphid
+01000 brond|00020 abamp|20001 aping
+01020 borna|00012 apnea
+01110 gnarl|00101 kippa|00211 apple
+01100 corni|00000 abamp|20001 apply
+01000 brond|01110 apron
+01101 artic|20200 aptly
+01000 brond|12100 arbor
+01000 brond|02101 ardor
+01010 brede|02200 cawks|01000 arena
+01010 brede|02002 cezve|00002 aargh|20110 argue
+11010 acari|20011 arise
+01000 brond|02100 aargh|20100 armor
+01000 brond|02200 aahed|21000 aroma
+11010 acari|20010 arose
+01000 brond|02000 copay|00022 array
+01000 brond|02100 aargh|20200 arrow
+11000 crabs|02101 arson
+11001 aahed|20000 artsy
+11002 acerb|21000 ascot
+11020 aahed|20220 ashen
+11010 acari|20001 aside
+11020 aahed|20020 askew
+11000 crabs|00101 assay
+11022 asset
+01101 artic|20100 atoll
+01011 chare|00102 atone
+01001 conia|10021 attic
+01000 brond|00101 aargh|20000 audio
+01002 courd|00101 audit
+01000 brond|01000 chara|00110 augur
+01001 conia|00201 aunty
+01100 corni|00001 adieu|20100 avail
+01012 crena|01201 avert
+01000 brond|00010 abaca|20100 avian
+01000 brond|00202 avoid
+01002 courd|00000 aahed|21000 await
+01010 brede|00002 aguna|20001 abaka|20220 awake
+01000 brond|01002 aahed|21002 award
+01010 brede|01002 aalii|21000 aware
+11000 crabs|00201 aargh|21002 awash
+01100 corni|00000 abamp|20000 awful
+01010 brede|00002 aguna|20000 awoke
+01100 corni|00001 adieu|20200 axial
+01000 brond|00100 abamp|20010 axiom
+01000 brond|00110 aalii|20010 axion
+01010 brede|01002 aalii|20000 azure
+02000 corni|11010 bacon
+02010 brugh|20020 badge
+02100 bingy|20002 badly
+02120 genal|11012 bagel
+02000 corni|00000 midgy|00022 baggy
+02020 gormy|00100 becap|21010 baker
+02220 abaca|11000 baler
+02200 ahold|10010 balmy
+02100 bingy|20200 banal
+02000 corni|01010 aargh|02000 banjo
+02010 brugh|21020 barge
+02000 corni|01210 baron
+12100 abaca|11100 basal
+12000 cissy|11200 basic
+12100 abaca|11000 basil
+12000 cissy|01200 basin
+12000 cissy|01210 basis
+12011 bacha|22000 baste
+02001 boric|20001 batch
+02011 aarti|02010 bathe
+02001 boric|21000 baton
+02001 boric|20000 batty
+02000 corni|00000 midgy|00102 bawdy
+02000 corni|01000 abamp|11000 bayou
+01010 brede|20100 aahed|10110 beach
+01010 brede|20120 beady
+01010 brede|21110 beard
+11012 abaft|01202 beast
+00010 drice|00021 aboon|01000 beech
+00010 drice|00001 banco|20000 beefy
+00012 preif|00121 befit
+01010 brede|20100 aahed|10010 began
+01012 crena|00101 begat
+00022 cerne|02001 beget
+00010 drice|00101 abaci|01001 begin
+00010 drice|00001 banco|20100 begun
+00010 drice|00201 fenny|02020 being
+00210 himbo|10010 belch
+00210 himbo|01010 belie
+00210 himbo|00010 abcee|01012 belle
+00210 himbo|00010 abcee|01010 belly
+00210 himbo|00011 below
+00010 drice|00021 aboon|01001 bench
+00022 cerne|02201 beret
+00010 drice|01001 boeuf|20100 berry
+00011 crith|01022 berth
+10022 abuna|01000 beset
+00121 abmho|01000 betel
+00120 bevor|22200 bevel
+00120 bevor|22000 bezel
+00110 deice|00102 aargh|00000 bible
+00020 nidor|02000 bicep
+00000 courd|00001 banda|20020 biddy
+00002 giron|12020 bigot
+00210 himbo|02010 bilge
+00200 doily|00122 fowth|00000 billy
+00010 drice|00102 bavin|20011 binge
+00000 courd|01000 aboon|01101 bingo
+00010 drice|00102 bavin|20010 biome
+00000 courd|10010 abaka|01000 birch
+00001 routh|10022 abamp|01000 birth
+10000 crios|00121 bison
+00001 routh|00020 aband|01000 bitty
+01100 corni|10000 abaca|01220 black
+01110 gnarl|00201 fehme|00002 aband|01201 blade
+01110 gnarl|00201 fehme|00022 blame
+01100 corni|00020 bifid|20002 bland
+01100 corni|00020 bifid|20000 blank
+01110 gnarl|00221 abaca|01200 blare
+11102 blast
+01110 gnarl|00201 fehme|00002 aband|01200 blaze
+01110 gnarl|00101 kippa|10001 bleak
+01112 repla|01011 abaca|11000 bleat
+00120 bevor|21000 aahed|00022 bleed
+00120 bevor|21000 aahed|00020 bleep
+00110 deice|11000 blend
+10110 aboon|01000 bless
+00100 courd|00000 algin|02010 blimp
+00100 courd|00002 abamp|01000 blind
+00100 courd|00000 algin|02011 blink
+10100 boeuf|20000 bliss
+00101 boils|20210 blitz
+01102 flong|02200 bloat
+00100 courd|11000 abaca|01020 block
+00110 deice|00002 baulk|20011 bloke
+00100 courd|01002 aband|01022 blond
+00100 courd|01002 aband|01002 blood
+00100 courd|01000 aboon|01220 bloom
+00100 courd|01000 aboon|01202 blown
+00120 bevor|21002 bluer
+00100 courd|00200 bumfs|21020 bluff
+00102 bling|22020 blunt
+00100 courd|00220 blurb
+00102 bling|22000 blurt
+10100 boeuf|20010 blush
+01000 brond|21102 board
+11002 acerb|10001 boast
+00000 courd|02000 biogs|20100 bobby
+00020 nidor|10010 chyme|00101 boney
+00000 courd|02000 biogs|20120 bongo
+10000 crios|00012 bonus
+00000 courd|02000 biogs|20200 abbas|01100 booby
+10002 boric|22000 boost
+00001 routh|02022 abamp|01000 booth
+00001 routh|02020 abaca|01000 booty
+00010 drice|00002 fount|02000 booze
+00000 courd|02000 biogs|20200 abbas|01000 boozy
+01000 brond|21100 borax
+00010 drice|01002 mungo|00101 borne
+10000 crios|00021 bosom
+10000 crios|00011 abaca|01000 bossy
+00001 routh|02012 abaca|01020 botch
+00000 courd|02200 aahed|00100 bough
+00110 deice|00002 baulk|20220 boule
+00000 courd|02202 bumph|21000 bound
+00120 bevor|21010 bowel
+00020 nidor|00012 whomp|00100 corby|02110 boxer
+01010 brede|22002 ackee|11002 brace
+01000 brond|22002 braid
+01000 brond|22010 aalii|10020 brain
+01010 brede|22002 ackee|10102 brake
+01000 brond|22022 brand
+11000 crabs|02211 brash
+11000 crabs|02212 brass
+01010 brede|22002 ackee|10002 brave
+01000 brond|22100 bravo
+01100 corni|00100 aahed|10000 brawl
+01000 brond|22010 aalii|10000 brawn
+01010 brede|22210 bread
+01010 brede|22200 break
+00020 nidor|00101 befog|21000 breed
+01000 brond|22000 briar
+00010 drice|02202 pombe|00022 bribe
+00000 courd|10010 abaka|01010 brick
+00010 drice|12202 abaca|01000 bride
+00020 nidor|01001 aargh|00100 brief
+00010 drice|02202 pombe|00012 brine
+00000 courd|00010 beigy|20210 bring
+00000 courd|00010 beigy|20200 brink
+00000 courd|00010 beigy|20202 briny
+10000 crios|02201 abaft|01000 brisk
+01000 brond|22202 broad
+00100 courd|01010 agios|00110 broil
+00010 drice|02002 befog|21010 broke
+00000 courd|01012 abaca|01000 brood
+00000 courd|01010 gimpy|00000 abaka|01010 brook
+00000 courd|01010 gimpy|00100 broom
+00001 routh|11022 abaca|01000 broth
+00000 courd|01010 gimpy|00000 abaka|01000 brown
+00002 giron|00101 brunt
+10000 crios|02001 brush
+00011 crith|02020 abaca|01000 brute
+00000 courd|00101 abamp|01000 buddy
+00010 drice|10002 bundh|22010 budge
+00000 courd|00100 gimpy|10002 buggy
+00110 deice|00002 baulk|20120 bugle
+00100 courd|00102 aargh|00000 build
+00102 bling|21200 built
+00210 himbo|00010 abcee|01002 bulge
+00200 doily|00012 abaca|01000 bulky
+00200 doily|00022 abaft|01000 bully
+00000 courd|10100 hempy|10000 bunch
+00000 courd|00100 gimpy|00002 bhang|20020 bunny
+00100 courd|00110 burly
+00002 giron|00201 burnt
+10002 boric|20200 burst
+10020 mhorr|00000 bused
+10000 crios|00001 hokum|10010 abaca|01000 bushy
+00001 routh|00112 aband|01000 butch
+00011 crith|00020 bapus|20010 butte
+00000 courd|01100 agios|00020 buxom
+00020 nidor|00002 bevue|21010 buyer
+01200 aliya|11010 bylaw
+02100 bingy|10000 aahed|12000 cabal
+02000 corni|20000 aahed|02000 cabby
+02000 corni|20011 cabin
+02110 cadge|22002 cable
+02000 corni|21000 cacao
+02010 brugh|00001 cache
+02001 boric|00011 cacti
+02000 corni|20000 aahed|02001 caddy
+02022 aahed|02021 cadet
+02020 gormy|10002 cagey
+02000 corni|20111 cairn
+02120 genal|01012 abamp|10010 camel
+02020 gormy|01010 cameo
+02100 bingy|00200 canal
+02000 corni|20010 candy
+02000 corni|20020 canny
+02010 brugh|00000 adown|10101 canoe
+02000 corni|21010 canon
+02020 gormy|00100 becap|01111 caper
+02002 teuch|10110 caput
+02002 teuch|10010 carat
+02000 corni|21200 cargo
+02100 bingy|00000 aargh|02200 carol
+02000 corni|20200 carry
+02010 brugh|01000 abaca|10010 carve
+12011 bacha|02100 caste
+02001 boric|00001 campy|22000 catch
+02021 enmew|00020 caphs|22000 cater
+02001 boric|00001 campy|22002 catty
+02100 bingy|00000 aargh|02000 caulk
+12010 ampul|10010 cause
+02100 bingy|01000 cavil
+11010 acari|01200 aahed|10010 cease
+01010 brede|01110 aahed|10011 cedar
+00210 himbo|00002 cello
+01010 brede|00002 aguna|10000 chafe
+01000 brond|00000 amuck|10010 chaff
+01000 brond|00010 abaca|00210 chain
+01000 brond|01000 chara|22210 chair
+01100 corni|20000 abmho|10010 chalk
+01000 brond|00000 amuck|11010 champ
+01002 courd|20000 chant
+11000 crabs|20202 chaos
+01000 brond|01002 aahed|10102 chard
+01000 brond|01000 chara|22220 charm
+01002 courd|20020 chart
+11010 acari|01200 aahed|10110 chase
+11000 crabs|20201 chasm
+01010 brede|00200 aboma|10000 cheap
+01012 crena|20201 cheat
+00010 drice|00021 aboon|00000 check
+00020 nidor|00000 aahed|00120 cheek
+00020 nidor|00002 bevue|01001 aahed|00120 cheer
+10010 rhone|02001 chess
+10012 quich|00011 chest
+00000 courd|20000 abrin|00010 chick
+00010 drice|10212 chide
+00020 nidor|01000 chief
+00100 courd|20002 child
+00100 courd|20000 knell|00020 chili
+00100 courd|20000 knell|00022 chill
+00010 drice|00212 chime
+01000 brond|00020 abamp|10000 china
+00000 courd|20020 chirp
+00000 courd|21000 chock
+00000 courd|21010 anion|00110 choir
+00010 drice|00012 aahed|00110 choke
+00000 courd|21022 chord
+00010 drice|01012 aahed|00110 chore
+10010 rhone|02202 abaca|00010 chose
+00000 courd|20200 acmic|01001 chuck
+00000 courd|20200 acmic|01100 chump
+00000 courd|20200 acmic|01000 chunk
+00000 courd|20220 churn
+00011 crith|20021 chute
+00020 nidor|02202 cahow|20000 cider
+01000 brond|01000 chara|20110 cigar
+00000 courd|20000 abrin|00011 cinch
+01000 brond|01000 chara|20012 circa
+00000 courd|20000 abrin|00020 civic
+00100 courd|20000 knell|00002 civil
+01100 corni|20000 abmho|10000 clack
+01100 corni|20001 claim
+01100 corni|20000 abmho|10100 clamp
+01100 corni|20020 aargh|10010 clang
+01100 corni|20020 aargh|10000 clank
+11100 chals|21211 clash
+11100 chals|20211 clasp
+11100 chals|20212 class
+01110 gnarl|01101 aahed|10010 clean
+01110 gnarl|00111 clear
+01112 repla|01011 abaca|10010 cleat
+00112 aleck|02210 cleft
+00110 deice|01010 clerk
+00100 courd|20000 knell|10010 click
+00100 courd|20000 knell|00010 abaca|00010 cliff
+00100 courd|20000 knell|00010 abaca|01010 climb
+00100 courd|20000 knell|01010 cling
+00100 courd|20000 knell|11010 clink
+01100 corni|21000 cloak
+00100 courd|21000 abaca|00020 clock
+00110 deice|00012 aboon|00201 clone
+10110 aboon|00200 close
+00101 boils|01010 cloth
+00100 courd|21102 cloud
+00102 bling|02000 abaca|00010 clout
+00110 deice|00012 aboon|00200 clove
+00100 courd|21000 abaca|00010 clown
+00100 courd|20200 acmic|01001 cluck
+00120 bevor|01000 chimp|20000 clued
+00100 courd|20200 acmic|01100 clump
+00100 courd|20200 acmic|01000 clung
+01000 brond|00100 abamp|00200 coach
+11002 acerb|11000 coast
+01000 brond|11100 aahed|10000 cobra
+01000 brond|00100 abamp|10000 cocoa
+00200 doily|02010 aargh|00000 colon
+00200 doily|02010 aargh|00100 color
+00022 cerne|21000 abamp|00010 comet
+00000 courd|22000 abrim|00001 comfy
+00000 courd|22000 abrim|00021 comic
+01000 brond|00100 abamp|10020 comma
+00000 courd|22000 abrim|00000 conch
+00000 courd|22001 condo
+00000 courd|22000 abrim|00020 conic
+10010 rhone|00102 appui|00200 copse
+01100 corni|22200 coral
+00020 nidor|00012 whomp|00100 corby|22200 corer
+00000 courd|22010 corny
+00000 courd|22200 aargh|00002 couch
+00000 courd|22200 aargh|00022 cough
+00100 courd|22202 could
+00002 giron|00011 ached|01000 count
+00010 drice|00012 aahed|00010 coupe
+00002 giron|00110 abaca|00010 court
+00020 nidor|10010 chyme|20001 coven
+00020 nidor|00012 whomp|00100 corby|22100 cover
+00022 cerne|21000 abamp|00000 covet
+00020 nidor|00010 aargh|00000 covey
+00020 nidor|00012 whomp|10100 abaca|00010 cower
+00100 courd|22000 coyly
+01000 brond|02000 copay|20010 crack
+01002 courd|20010 craft
+01000 brond|02000 copay|20110 cramp
+01010 brede|02002 cezve|20002 crane
+01000 brond|02020 apace|00210 crank
+11000 crabs|22201 crash
+11000 crabs|22202 crass
+01011 chare|20212 crate
+01010 brede|02002 cezve|20022 crave
+01100 corni|20100 crawl
+01010 brede|02002 cezve|20102 craze
+01000 brond|02000 copay|20012 crazy
+01010 brede|02200 cawks|21010 creak
+01010 brede|02200 cawks|21000 cream
+00010 drice|12011 credo
+00020 nidor|00101 befog|01000 creed
+00020 nidor|00001 ampul|00000 creek
+00020 nidor|00001 ampul|00100 creep
+00010 drice|02012 abamp|00020 creme
+00010 drice|02012 abamp|00001 crepe
+00012 preif|12200 crept
+10010 rhone|10001 ached|01010 cress
+10012 quich|00010 crest
+00000 courd|20010 abaca|00020 crick
+00020 nidor|01101 decaf|11100 cried
+00020 nidor|01002 crier
+00010 drice|02212 crime
+00000 courd|20010 abaca|00010 crimp
+10000 crios|22201 crisp
+01000 brond|02200 aahed|10000 croak
+00000 courd|21010 anion|00010 crock
+00010 drice|02012 abamp|00000 crone
+00000 courd|21010 anion|01010 crony
+00000 courd|21010 anion|00020 crook
+10000 crios|22012 cross
+00000 courd|21110 aalii|00000 croup
+00000 courd|21012 crowd
+00000 courd|21010 anion|00012 crown
+00010 drice|12012 crude
+00120 bevor|01001 aargh|00100 cruel
+00000 courd|20210 abaca|01010 crumb
+00000 courd|20210 abaca|00010 crump
+10000 crios|22001 crush
+10002 boric|00101 crust
+00002 giron|00100 crypt
+00000 courd|20100 abaca|01010 cubic
+00000 courd|20100 abaca|00010 cumin
+00000 courd|21110 aalii|00020 curio
+00100 courd|20110 curly
+00000 courd|20120 curry
+10010 rhone|10002 abcee|00102 curse
+00010 drice|01012 aahed|00010 curve
+00000 courd|20110 curvy
+00011 crith|20110 cutie
+00020 nidor|00002 bevue|11000 cyber
+00110 deice|00012 aboon|00000 cycle
+00000 courd|20000 abrin|00021 cynic
+02000 corni|00000 midgy|00202 abamp|10000 daddy
+02100 bingy|01002 daily
+02000 corni|00101 bifid|01001 dairy
+12000 cissy|01022 daisy
+02200 ahold|10021 dally
+02010 brugh|00000 adown|11001 dance
+02000 corni|00010 aargh|02000 dandy
+02001 boric|00000 fands|02010 datum
+02002 teuch|10200 gadje|02100 daunt
+01112 repla|02021 dealt
+01011 chare|01201 aahed|10111 death
+01010 brede|11110 debar
+00012 preif|00120 debit
+00010 drice|20001 aargh|00010 debug
+00012 preif|00100 debut
+01110 gnarl|00102 bedim|02100 decal
+01010 brede|00110 aalii|10000 decay
+00010 drice|21011 abaya|00000 decor
+00010 drice|20011 decoy
+00010 drice|21011 abaya|00010 decry
+00020 nidor|00102 abaft|00010 defer
+00010 drice|20201 deign
+00011 crith|00220 aband|00001 deity
+01210 abray|00022 delay
+01211 delta
+00210 himbo|00000 aahed|00011 delve
+00010 drice|20001 aargh|00000 demon
+00010 drice|21001 aargh|00100 demur
+00010 drice|20101 denim
+10010 rhone|00012 aahed|00011 dense
+00012 preif|10100 depot
+00011 crith|00022 aband|00001 depth
+00010 drice|21001 aargh|00200 derby
+00021 mohur|00002 abrin|00100 deter
+00011 crith|00010 accoy|00020 detox
+00010 drice|20022 aband|00001 deuce
+00110 deice|22100 devil
+01000 brond|01001 aalii|10010 diary
+00020 nidor|02100 dicey
+00002 giron|12000 aswim|00020 digit
+00200 doily|20122 dilly
+00100 courd|00001 abamp|00010 dimly
+00020 nidor|12102 diner
+00000 courd|01001 ablow|00010 dingo
+00000 courd|00001 banda|00210 dingy
+00010 drice|20102 diode
+00010 drice|21102 dirge
+00001 routh|10020 aahed|00001 dirty
+10000 crios|10111 disco
+00001 routh|00012 wiped|02001 ditch
+00001 routh|01020 aahed|00001 ditto
+00001 routh|00020 aband|00001 ditty
+00020 nidor|02102 diver
+00000 courd|00001 banda|00010 dizzy
+00010 drice|20002 dodge
+00000 courd|02001 dawds|20010 dodgy
+01000 brond|00101 aargh|10010 dogma
+00000 courd|02001 dawds|20000 doing
+00200 doily|22022 dolly
+00000 courd|02011 abray|00100 donor
+00002 giron|00011 ached|00001 donut
+00020 nidor|00110 dopey
+00002 giron|00010 doubt
+00000 courd|02201 dough
+00000 courd|02001 dawds|20220 dowdy
+00120 bevor|01010 adman|01000 dowel
+00000 courd|02001 dawds|20200 downy
+00000 courd|02021 dowry
+00020 nidor|10110 dozen
+01002 courd|00011 draft
+01000 brond|02011 aalii|10020 drain
+01010 brede|02012 abaka|00220 drake
+01000 brond|02001 drama
+01000 brond|02021 drank
+01010 brede|02012 abaka|00200 drape
+01100 corni|00100 aahed|10001 drawl
+01000 brond|02011 aalii|10000 drawn
+01010 brede|02210 aahed|10012 dread
+01010 brede|02210 aahed|10011 dream
+10010 rhone|10001 ached|00011 dress
+00020 nidor|01101 decaf|21000 dried
+00020 nidor|01102 drier
+00002 giron|01100 aahed|00001 drift
+00100 courd|00011 aalii|00110 drill
+00000 courd|00011 drink
+00010 drice|22202 drive
+00002 giron|01110 aahed|00001 droit
+00100 courd|01011 abele|00020 droll
+00010 drice|22002 aband|00021 drone
+00100 courd|01011 abele|00010 drool
+00000 courd|01011 abamp|00002 droop
+10000 crios|02012 aahed|00001 dross
+00010 drice|22002 aband|00001 drove
+00000 courd|01011 abamp|00000 drown
+00000 courd|00212 druid
+00000 courd|00211 drunk
+00020 nidor|00102 abaft|00000 dryer
+00100 courd|00011 aalii|00100 dryly
+00000 courd|10101 duchy
+00200 doily|20022 dully
+00000 courd|00101 abamp|00020 dummy
+00000 courd|00101 abamp|00011 dumpy
+00010 drice|20022 aband|00011 dunce
+10000 crios|00001 hokum|00110 dusky
+10001 durgy|22002 dusty
+00001 routh|00112 aband|00001 dutch
+00022 cerne|01000 aahed|00021 duvet
+01000 brond|01001 aalii|10000 dwarf
+00110 deice|21000 dwell
+00112 aleck|01200 dwelt
+00000 courd|00001 banda|00110 dying
+02020 gormy|10100 abcee|10021 eager
+02110 cadge|02012 eagle
+02110 cadge|02001 early
+02011 aarti|02220 earth
+12120 easel
+02021 enmew|21020 eaten
+02021 enmew|20020 eater
+00010 drice|00001 banco|10101 ebony
+01212 eclat
+00012 preif|00110 aahed|00011 edict
+00010 drice|10201 edify
+00010 drice|01102 aalii|00020 eerie
+00022 cerne|01201 egret
+00012 preif|00110 aahed|00110 eight
+00012 preif|00200 abaca|00020 eject
+00010 drice|00201 fenny|01020 eking
+01111 abamp|00200 elate
+00110 deice|01000 abamp|01000 elbow
+00120 bevor|01002 bifid|00001 elder
+00112 aleck|02220 elect
+00110 deice|01001 elegy
+00110 deice|01100 elfin
+00110 deice|11202 elide
+00111 axile|00212 elite
+00110 deice|01002 elope
+00110 deice|11002 elude
+01110 gnarl|00202 email
+00020 nidor|00100 embed
+00020 nidor|00002 bevue|11001 ember
+00020 nidor|00000 aahed|00020 emcee
+00011 crith|00020 bapus|00200 empty
+01012 crena|10111 enact
+00010 drice|10001 ablow|00022 endow
+01010 brede|00201 enema
+00010 drice|00001 banco|00100 enemy
+00010 drice|00001 banco|00101 advew|00010 enjoy
+00010 drice|00101 abaci|00002 ennui
+10010 rhone|00012 aahed|00010 ensue
+00021 mohur|00002 abrin|00101 enter
+00011 crith|01010 amino|00010 entry
+00010 drice|00001 banco|00101 advew|00210 envoy
+00010 drice|00021 aboon|00200 epoch
+00010 drice|00001 banco|00001 epoxy
+01110 gnarl|00102 bedim|01000 equal
+00010 drice|00101 abaci|00001 equip
+11010 acari|00210 erase
+00012 preif|02200 erect
+00010 drice|12002 abamp|00000 erode
+00010 drice|02001 error
+00012 preif|12100 erupt
+11010 acari|10000 essay
+10021 ester
+00021 mohur|00202 ether
+00011 crith|10111 ethic
+10011 troth|10101 ethos
+00011 crith|00010 accoy|00000 etude
+01010 brede|00122 evade
+00012 preif|00200 abaca|00000 event
+00010 drice|01001 boeuf|00200 every
+00012 preif|00110 aahed|00010 evict
+00010 drice|00002 fount|01000 evoke
+01012 crena|10101 exact
+01112 repla|01021 exalt
+00120 bevor|01000 chimp|10000 excel
+00012 preif|01200 abcee|00011 exert
+00110 deice|01202 exile
+10012 quich|00200 exist
+00120 bevor|01000 chimp|00001 expel
+00111 axile|02011 extol
+01011 chare|00121 aargh|10100 extra
+00112 aleck|01100 exult
+00010 drice|00201 fenny|01021 eying
+02110 cadge|02002 abaca|11000 fable
+02022 aahed|02020 facet
+02002 teuch|10000 abaft|10012 faint
+02000 corni|00101 bifid|01100 fairy
+02001 boric|00010 faith
+12210 false
+02000 corni|10010 fancy
+02000 corni|00020 abaft|10010 fanny
+02010 brugh|01000 abaca|10020 farce
+02101 abaft|10111 fatal
+02001 boric|00000 fands|22000 fatty
+02102 abaft|10012 fault
+02000 corni|00020 abaft|10110 fauna
+02000 corni|01100 jivey|00200 favor
+11012 abaft|00212 feast
+01110 gnarl|00102 bedim|02000 fecal
+00010 drice|00201 fenny|22100 feign
+01210 abray|10000 fella
+00210 himbo|00001 felon
+00010 drice|00002 fount|20000 femme
+00010 drice|01001 boeuf|00121 femur
+00010 drice|00022 bumph|00000 fence
+01110 gnarl|00112 feral
+00010 drice|01001 boeuf|00101 ferry
+01111 abamp|10000 fetal
+00011 crith|10012 fetch
+00011 crith|00110 acted|00212 fetid
+10011 troth|10000 fetus
+00020 nidor|00002 bevue|02201 fever
+00020 nidor|00002 bevue|02001 ablow|00001 fewer
+00020 nidor|02002 parev|00120 abaca|01000 fiber
+00010 drice|01102 aalii|00010 fibre
+10000 crios|10102 ficus
+00110 deice|11100 alway|01000 field
+00010 drice|10101 fiend
+00010 drice|01101 fiery
+00001 routh|00022 aband|00000 fifth
+00001 routh|00020 aband|00000 awork|00000 fifty
+00002 giron|12000 aswim|00010 abaft|00012 fight
+00220 adsum|00000 filer
+00222 abaft|00012 filet
+00200 doily|00122 fowth|20000 filly
+00200 doily|00112 abaft|00010 filmy
+00201 aahed|00100 filth
+01100 corni|00011 aalii|10110 final
+00000 courd|10000 fawny|20010 finch
+00020 nidor|12002 abaft|00010 finer
+10002 boric|00210 first
+10000 crios|00101 aleph|00001 fishy
+00020 nidor|02002 parev|00120 abaca|00000 fixer
+00000 courd|00000 nippy|02002 abaft|00010 fizzy
+00000 courd|01022 fjord
+01100 corni|10000 abaca|00220 flack
+01100 corni|00001 adieu|10100 flail
+01100 corni|00101 afear|11002 flair
+01110 gnarl|00201 fehme|20002 flake
+01100 corni|00000 abamp|00200 flaky
+01110 gnarl|00201 fehme|20022 flame
+01100 corni|00020 bifid|00100 flank
+01110 gnarl|00221 abaca|00200 flare
+11100 chals|01211 flash
+11100 chals|00211 flask
+00110 deice|01020 fleck
+00122 fleet
+10110 aboon|00000 flesh
+00100 courd|10000 aalii|00110 flick
+00120 bevor|01002 bifid|01100 flier
+00100 courd|00000 algin|02111 fling
+00102 bling|02220 flint
+00102 bling|02200 flirt
+01102 flong|22200 float
+00100 courd|11000 abaca|00020 flock
+00100 courd|01002 aband|00002 flood
+00100 courd|01010 agios|00020 floor
+01100 corni|01100 flora
+10100 boeuf|01001 floss
+00100 courd|01110 flour
+00102 bling|02000 abaca|00000 flout
+00100 courd|01000 aboon|00202 flown
+00100 courd|00200 bumfs|01020 fluff
+00100 courd|00202 fluid
+00110 deice|00002 baulk|00211 fluke
+00110 deice|00002 baulk|00210 abaft|00010 flume
+00100 courd|00200 bumfs|01010 aargh|00010 flung
+00100 courd|00200 bumfs|01010 aargh|00000 flunk
+10100 boeuf|00011 flush
+00111 axile|00012 flute
+00120 bevor|01002 bifid|00100 flyer
+01000 brond|00100 abamp|00220 foamy
+01100 corni|12000 falls|21100 focal
+10000 crios|10012 focus
+00000 courd|02000 biogs|00120 foggy
+10002 boric|02010 fehme|20000 foist
+00200 doily|02110 folio
+00200 doily|02022 faugh|20000 folly
+01000 brond|01100 aargh|10200 foray
+00010 drice|01022 force
+00010 drice|01002 mungo|00021 abaft|00010 forge
+00000 courd|02010 aboon|00110 forgo
+00011 crith|01020 aargh|00200 forte
+00001 routh|12022 adown|00100 forth
+00001 routh|12020 forty
+00000 courd|02110 forum
+00000 courd|02202 bumph|01000 abaft|00010 found
+00020 nidor|00012 whomp|00100 corby|02101 foyer
+01100 corni|00101 afear|11001 frail
+01010 brede|02002 cezve|00002 aargh|10100 frame
+01000 brond|02020 apace|00200 frank
+01000 brond|02002 fraud
+01010 brede|02200 cawks|01010 freak
+00020 nidor|00101 befog|01100 freed
+00020 nidor|00002 bevue|01001 aahed|00020 freer
+10010 rhone|11001 fresh
+01000 brond|02000 copay|00020 friar
+00020 nidor|01101 decaf|11001 fried
+00100 courd|00010 aking|00200 frill
+10000 crios|02201 abaft|00010 frisk
+00001 routh|10020 aahed|00000 fritz
+00000 courd|11010 frock
+00000 courd|01012 abaca|00000 frond
+00002 giron|00111 front
+10002 boric|01100 frost
+00001 routh|11022 abaca|00000 froth
+00000 courd|01010 gimpy|00000 abaka|00000 frown
+00010 drice|02002 befog|01110 froze
+00002 giron|01100 aahed|00000 fruit
+00010 drice|10002 bundh|02010 abaft|00010 fudge
+00010 drice|00002 fount|20100 fugue
+00200 doily|00022 abaft|00010 fully
+00000 courd|00100 gimpy|11000 fungi
+00000 courd|00100 gimpy|00002 bhang|00010 funky
+00000 courd|00100 gimpy|00002 bhang|00020 funny
+00000 courd|01110 farer|20202 furor
+00000 courd|00120 aargh|00200 furry
+10000 crios|00001 hokum|00010 fussy
+00000 courd|00100 gimpy|00002 bhang|00000 fuzzy
+02010 brugh|00010 gaffe
+02100 bingy|01012 gaily
+02020 gormy|20110 gamer
+02000 corni|00000 midgy|10010 gamma
+02002 teuch|10100 gamut
+12000 cissy|00222 gassy
+02000 corni|00000 midgy|00112 gaudy
+02010 brugh|00220 gauge
+02002 teuch|10200 gadje|22000 gaunt
+02010 brugh|00210 gauze
+02120 genal|21012 gavel
+02000 corni|00000 midgy|00012 gawky
+02020 gormy|20101 gayer
+02100 bingy|00012 gayly
+02020 gormy|20100 gazer
+00010 drice|00011 gecko
+00010 drice|00001 banco|00000 geeky
+10010 rhone|00002 abies|00011 geese
+00010 drice|00102 bavin|00021 genie
+00010 drice|01002 mungo|00210 genre
+10002 boric|01000 ghost
+00100 courd|01100 ghoul
+01002 courd|00000 aahed|10000 giant
+00000 courd|00001 banda|00020 giddy
+10000 crios|00101 aleph|00010 gipsy
+00100 courd|00010 aking|00101 girly
+00001 routh|10022 abamp|00000 girth
+00020 nidor|12000 advew|00220 given
+00020 nidor|02002 parev|00121 aargh|00110 giver
+01110 gnarl|20201 aahed|10011 glade
+01100 corni|00020 bifid|00002 gland
+01110 gnarl|20221 glare
+11100 chals|00212 glass
+01110 gnarl|20201 aahed|10010 glaze
+01110 gnarl|20101 gleam
+01110 gnarl|21101 glean
+00110 deice|10202 glide
+00102 bling|02221 glint
+01102 flong|02201 gloat
+00110 deice|00002 baulk|10010 globe
+00100 courd|01000 aboon|00220 gloom
+00100 courd|01020 glory
+10100 boeuf|01000 gloss
+00110 deice|00002 baulk|00010 glove
+00100 courd|00000 algin|02100 glyph
+11000 crabs|00201 aargh|10012 gnash
+00010 drice|00002 fount|01010 gnome
+00100 courd|02001 godly
+00000 courd|02000 biogs|01110 going
+00220 adsum|00002 golem
+00200 doily|02022 faugh|00010 golly
+01000 brond|00112 aargh|10010 gonad
+00020 nidor|10012 aargh|00110 goner
+00000 courd|02001 dawds|00020 aargh|00010 goody
+00020 nidor|00010 aargh|00010 gooey
+00000 courd|02000 biogs|00210 goofy
+10010 rhone|00202 aargh|00010 goose
+00010 drice|01002 mungo|00021 abaft|00000 gorge
+00010 drice|00002 fount|02200 gouge
+00000 courd|02222 gourd
+01010 brede|02002 cezve|10002 grace
+01010 brede|02022 grade
+01002 courd|00010 abrin|10100 graft
+01100 corni|00101 afear|10001 grail
+01000 brond|02010 aalii|10020 grain
+01000 brond|02022 grand
+01002 courd|00010 abrin|10101 grant
+01010 brede|02002 cezve|00002 aargh|10110 grape
+01000 brond|02000 copay|00110 graph
+11000 crabs|02201 grasp
+11000 crabs|02202 grass
+01011 chare|00212 aarti|10120 grate
+01010 brede|02002 cezve|00022 grave
+01000 brond|02000 copay|00012 gravy
+01010 brede|02002 cezve|00102 graze
+01012 crena|02201 aargh|10110 great
+00020 nidor|00101 befog|01001 greed
+00020 nidor|10001 aegis|01100 green
+00022 cerne|01101 greet
+00020 nidor|01001 aargh|00110 grief
+00100 courd|00010 aking|00201 grill
+00010 drice|02202 pombe|00102 grime
+00000 courd|00010 beigy|00212 grimy
+00000 courd|00012 aalii|00010 grind
+00010 drice|02202 pombe|10002 gripe
+01000 brond|02210 groan
+00000 courd|01010 gimpy|21000 groin
+00000 courd|01010 gimpy|20100 groom
+00010 drice|02002 befog|01011 abamp|00001 grope
+10000 crios|02012 aahed|00000 gross
+00000 courd|01110 farer|00100 group
+00002 giron|20110 grout
+00010 drice|02002 befog|01011 abamp|00000 grove
+00100 courd|01010 agios|01010 growl
+00000 courd|01010 gimpy|20000 grown
+00120 bevor|01001 aargh|00110 gruel
+00000 courd|00210 abaft|00020 gruff
+00002 giron|20101 grunt
+01000 brond|01002 aahed|10002 guard
+01000 brond|00000 amuck|10100 guava
+10010 rhone|00001 aargh|00010 guess
+10012 quich|02000 guest
+00010 drice|10202 aargh|00010 guide
+00100 courd|00102 aargh|00010 guild
+00110 deice|00202 aargh|00010 guile
+00102 bling|01201 guilt
+10010 rhone|00002 abies|00211 guise
+00200 doily|00010 aargh|00012 gulch
+00200 doily|00022 abaft|00000 gully
+00000 courd|01100 agios|01010 gumbo
+00000 courd|00100 gimpy|20202 gummy
+00000 courd|00100 gimpy|20022 guppy
+10001 durgy|02010 gusto
+10001 durgy|02012 gusty
+10000 crios|00001 hokum|00000 gypsy
+02002 teuch|10001 habit
+02000 corni|00101 bifid|01000 hairy
+02210 ahull|11010 halve
+02000 corni|00010 aargh|02001 handy
+02000 corni|00000 midgy|00002 aahed|02100 happy
+02000 corni|00200 dampy|12002 hardy
+02020 gormy|00210 harem
+02000 corni|00200 dampy|02022 harpy
+02000 corni|00200 dampy|02002 harry
+12000 cissy|00020 abamp|10000 harsh
+12011 bacha|02010 haste
+12001 attap|11000 aahed|02100 hasty
+02001 boric|00001 campy|12000 ablow|10000 hatch
+02021 enmew|00020 caphs|02010 hater
+02002 teuch|10201 haunt
+02011 aarti|02020 haute
+02020 gormy|00000 aahed|02120 haven
+02000 corni|11000 abamp|10000 havoc
+02120 genal|01012 abamp|10000 hazel
+01010 brede|00120 heady
+01010 brede|01110 aahed|10112 heard
+01012 crena|01101 heart
+01011 chare|01201 aahed|10110 heath
+01010 brede|00102 achar|10100 heave
+01010 brede|00100 abaca|00200 heavy
+00010 drice|10002 bundh|00011 hedge
+00011 crith|00021 hefty
+10012 quich|00201 heist
+00210 himbo|21000 helix
+00210 himbo|20002 hello
+00010 drice|00022 bumph|00001 hence
+00010 drice|01001 boeuf|01100 heron
+00200 doily|00122 fowth|00001 hilly
+00010 drice|00102 bavin|00011 hinge
+00000 courd|01000 aboon|00100 hippo
+00000 courd|00000 nippy|02222 hippy
+00001 routh|00012 wiped|02000 hitch
+01000 brond|01102 hoard
+00000 courd|02000 biogs|10100 hobby
+10002 boric|02010 fehme|00100 hoist
+00200 doily|02022 faugh|00001 holly
+00020 nidor|00012 whomp|01110 homer
+00020 nidor|10010 chyme|01101 honey
+00000 courd|02010 aboon|00121 honor
+00010 drice|11002 horde
+00000 courd|02010 aboon|00101 horny
+10010 rhone|11102 horse
+00121 abmho|00011 hotel
+00101 boils|02020 hotly
+00000 courd|02202 bumph|01001 hound
+10010 rhone|01102 house
+00120 bevor|01210 aahed|00120 hovel
+00020 nidor|00012 whomp|01100 hover
+00000 courd|02001 dawds|00220 howdy
+01000 brond|00010 abaca|10000 human
+00000 courd|00102 aahed|00102 humid
+00000 courd|01110 farer|00002 humor
+00000 courd|00100 gimpy|00220 humph
+10000 crios|00002 humus
+00000 courd|10100 hempy|20000 hunch
+00000 courd|00100 gimpy|00002 bhang|01010 hunky
+00000 courd|00120 aargh|00201 hurry
+10000 crios|00001 hokum|20110 husky
+10000 crios|00001 hokum|20010 hussy
+00001 routh|00112 aband|00000 hutch
+00000 courd|01021 hydro
+01010 brede|00200 aboma|00002 hyena
+00020 nidor|10000 aahed|00120 hymen
+00020 nidor|00002 bevue|01000 hyper
+00100 courd|10000 aalii|00111 icily
+00000 courd|10000 fawny|00020 icing
+01110 gnarl|00102 bedim|01110 ideal
+00000 courd|01001 ablow|00020 idiom
+00002 giron|01020 idiot
+00220 adsum|02000 idler
+00100 courd|00001 abamp|00000 idyll
+00200 doily|01110 igloo
+01100 corni|10001 iliac
+01010 brede|00002 aguna|11000 image
+00010 drice|00102 bavin|10010 imbue
+00120 bevor|01000 chimp|00111 impel
+00100 courd|00000 algin|01010 imply
+01010 brede|00002 aguna|10020 inane
+00000 courd|01000 aboon|01021 inbox
+00000 courd|10110 incur
+00020 nidor|11200 index
+00012 preif|10210 inept
+00012 preif|01210 inert
+00020 nidor|11002 abaft|00010 infer
+00002 giron|11021 ingot
+01200 aliya|11110 inlay
+00222 abaft|00002 inlet
+00020 nidor|11002 abaft|00000 inner
+00002 giron|01001 aalii|00010 input
+00021 mohur|00002 abrin|00111 inter
+00001 routh|11010 aalii|00010 intro
+00000 courd|12000 aahed|00000 ionic
+01011 chare|00212 aarti|10121 irate
+00000 courd|01010 gimpy|01002 irony
+10222 islet
+10010 rhone|00002 abies|00111 issue
+00001 routh|00011 acing|01100 itchy
+00000 courd|01020 ivory
+02002 teuch|10200 gadje|02010 jaunt
+02000 corni|00000 midgy|00002 aahed|02000 jazzy
+00210 himbo|00000 aahed|00010 jelly
+00010 drice|01001 boeuf|00100 abamp|00000 jerky
+00011 crith|00020 bapus|00000 jetty
+00120 bevor|02000 jewel
+00000 courd|00000 nippy|02002 abaft|00020 jiffy
+00002 giron|01011 abamp|00000 joint
+10002 boric|02010 fehme|00000 joist
+00020 nidor|00012 whomp|00100 corby|02100 agave|00001 joker
+00200 doily|02022 faugh|00000 jolly
+10002 boric|02000 joust
+00010 drice|10002 bundh|02010 abaft|00000 judge
+00010 drice|00222 ablow|00000 juice
+00000 courd|10100 hempy|00002 juicy
+00000 courd|01100 agios|00010 jumbo
+00000 courd|00100 gimpy|00222 jumpy
+01001 conia|00202 junta
+00001 routh|01120 junto
+00000 courd|01110 farer|00202 juror
+02000 corni|00000 midgy|00000 kappa
+02000 corni|00200 dampy|02100 karma
+02000 corni|00000 midgy|00001 kayak
+01010 brede|10100 kebab
+01000 brond|00000 amuck|10001 khaki
+00000 courd|00000 nippy|12002 kinky
+10000 crios|00111 kiosk
+00001 routh|00020 aband|00000 awork|00001 kitty
+01000 brond|00010 abaca|00220 knack
+01010 brede|00002 aguna|10010 knave
+01010 brede|00210 aahed|10012 knead
+00020 nidor|10100 afear|00200 kneed
+00120 bevor|01000 chimp|00000 kneel
+00112 aleck|01201 knelt
+00010 drice|00202 avows|00000 knife
+00000 courd|11000 knock
+00100 courd|01000 aboon|00201 knoll
+00000 courd|01000 aboon|00202 known
+01100 corni|02000 abamp|10200 koala
+00100 courd|00010 aking|01200 krill
+02120 genal|01012 abamp|11000 label
+02100 bingy|10000 aahed|02000 labor
+02120 genal|01111 laden
+02110 cadge|02202 ladle
+02120 genal|11011 lager
+02110 cadge|12002 lance
+02100 bingy|00202 abaka|10020 lanky
+02120 genal|01012 abamp|10001 lapel
+12110 lapse
+02110 cadge|02022 large
+02100 bingy|00000 aargh|12200 larva
+12100 abaca|10000 lasso
+02101 abaft|10001 latch
+02121 later
+02111 abash|10001 lathe
+02111 abash|10000 latte
+02100 bingy|00020 laugh
+02120 genal|01011 layer
+01110 gnarl|00201 fehme|02100 leach
+01110 gnarl|00201 fehme|12000 leafy
+01110 gnarl|00201 fehme|02000 leaky
+01112 repla|02011 leant
+01112 repla|02111 leapt
+01110 gnarl|01221 learn
+11110 aahed|10010 lease
+11110 aahed|10110 leash
+11112 least
+01110 gnarl|00201 fehme|02002 leave
+00110 deice|12002 ledge
+00110 deice|02021 leech
+00110 deice|02001 leery
+00111 axile|00011 lefty
+01110 gnarl|10102 legal
+00110 deice|02000 aggry|01202 leggy
+00110 deice|02000 aggry|00000 lemon
+00110 deice|02000 aggry|00010 lemur
+00120 bevor|02002 leper
+00120 bevor|02200 level
+00120 bevor|02202 lever
+00120 bevor|11000 libel
+00110 deice|01102 liege
+00102 bling|01101 light
+00120 bevor|01000 chimp|00100 abaka|00010 liken
+01200 aliya|11100 lilac
+00100 courd|01000 aboon|01100 limbo
+00102 bling|01100 limit
+00120 bevor|01000 chimp|00100 abaka|00000 linen
+00120 bevor|01002 bifid|02000 liner
+00100 courd|01000 aboon|00101 lingo
+00100 courd|00002 abamp|00001 lipid
+00111 axile|00112 lithe
+00120 bevor|01202 liver
+00100 courd|00002 abamp|00000 livid
+01100 corni|00000 abamp|10220 llama
+01100 corni|02000 abamp|00220 loamy
+01101 artic|10100 abaca|00200 loath
+00100 courd|02000 adown|00100 lobby
+01100 corni|12000 falls|01110 local
+10100 boeuf|02020 locus
+00110 deice|10002 lodge
+00101 boils|02010 lofty
+00100 courd|12000 logic
+00100 courd|02000 adown|00102 login
+00100 courd|02000 adown|00200 loopy
+10110 aboon|00210 loose
+00100 courd|02020 lorry
+10120 loser
+10110 aboon|00100 louse
+10100 boeuf|02010 lousy
+00120 bevor|01212 lover
+00120 bevor|01012 aahed|00020 lower
+00100 courd|02000 adown|00110 lowly
+01100 corni|02000 abamp|10000 loyal
+00100 courd|10102 lucid
+00100 courd|10100 aahed|00000 lucky
+00120 bevor|01000 chimp|00010 lumen
+00100 courd|00100 aalii|00100 lumpy
+01100 corni|00110 lunar
+00100 courd|10100 aahed|00100 lunch
+00110 deice|00002 baulk|00110 lunge
+10100 boeuf|00020 lupus
+00100 courd|10110 lurch
+00100 courd|00112 lurid
+10101 lusty
+00100 courd|00000 algin|01111 lying
+00100 courd|00000 algin|01000 lymph
+00100 courd|10000 aalii|00100 lynch
+00100 courd|10010 lyric
+02000 corni|10000 aahed|12000 macaw
+02000 corni|11000 abamp|10010 macho
+02000 corni|11100 macro
+02000 corni|00000 midgy|20200 madam
+02100 bingy|00002 madly
+02000 corni|00001 aahed|12000 mafia
+02000 corni|10001 magic
+02000 corni|00000 midgy|20010 magma
+02010 brugh|00000 adown|10000 maize
+02000 corni|01100 jivey|10000 major
+02020 gormy|00110 abaka|10010 maker
+02000 corni|01000 abamp|11010 mambo
+02000 corni|00000 midgy|20000 mamma
+02000 corni|00000 midgy|20002 mammy
+02000 corni|00010 aargh|12020 manga
+02010 brugh|00020 mange
+02000 corni|01010 aargh|02020 mango
+02000 corni|00010 aargh|02020 mangy
+02000 corni|00011 mania
+02000 corni|10011 abamp|10010 manic
+02100 bingy|00202 abaka|10000 manly
+02000 corni|01110 abamp|10010 manor
+02110 cadge|02002 abaca|10000 maple
+02000 corni|10200 march
+02000 corni|00200 dampy|02102 marry
+12000 cissy|00020 abamp|10010 marsh
+12000 cissy|00200 mason
+12010 ampul|11000 masse
+02001 boric|00001 campy|12100 match
+02021 enmew|00120 matey
+02010 brugh|00200 mauve
+02000 corni|00001 aahed|02000 maxim
+02010 brugh|10000 maybe
+02000 corni|01100 jivey|00001 mayor
+01110 gnarl|00201 fehme|02010 mealy
+01012 crena|00121 meant
+01011 chare|00201 meaty
+01010 brede|00100 abaca|00022 mecca
+01110 gnarl|00102 bedim|02201 medal
+01010 brede|00110 aalii|10020 media
+00010 drice|10111 medic
+00220 adsum|00001 melee
+00210 himbo|00101 melon
+00010 drice|01021 aahed|00010 mercy
+00010 drice|01002 mungo|20020 merge
+00012 preif|01120 aargh|00200 merit
+00010 drice|01001 boeuf|00100 abamp|00010 merry
+01111 abamp|10010 metal
+00021 mohur|20002 meter
+00011 crith|01010 amino|01002 metro
+00000 courd|11020 micro
+00010 drice|10102 midge
+10002 boric|00010 aahed|00001 midst
+00002 giron|12000 aswim|00011 might
+00200 doily|00112 abaft|00000 milky
+00000 courd|10000 fawny|00000 mimic
+00010 drice|00122 amene|01012 mince
+00020 nidor|12002 abaft|00000 miner
+00000 courd|00000 nippy|12000 minim
+00000 courd|01010 gimpy|02100 minor
+00001 routh|00020 aband|00010 minty
+10000 crios|00102 minus
+00001 routh|10022 abamp|00010 mirth
+10020 mhorr|20002 miser
+10000 crios|00101 aleph|00000 missy
+01000 brond|00100 abamp|10010 mocha
+01100 corni|02000 abamp|10010 modal
+00120 bevor|01010 adman|01100 model
+00020 nidor|00210 modem
+00100 courd|02100 mogul
+10002 boric|02010 fehme|00010 moist
+01200 aliya|11000 abamp|10010 molar
+00200 doily|12012 moldy
+00020 nidor|10010 chyme|00111 money
+00001 routh|02022 abamp|00010 month
+00000 courd|02001 dawds|00020 aargh|00000 moody
+10010 rhone|00202 aargh|00000 moose
+01100 corni|02200 moral
+00000 courd|02010 aboon|00122 moron
+00000 courd|02010 aboon|00100 morph
+10000 crios|00011 abaca|00000 mossy
+00121 abmho|00101 motel
+00001 routh|02010 enfix|00120 motif
+00001 routh|12010 motor
+00001 routh|02020 abaca|00000 motto
+00102 bling|01000 moult
+00000 courd|02202 bumph|01100 mound
+00002 giron|00011 ached|00000 mount
+00000 courd|02220 mourn
+10010 rhone|00102 appui|00010 mouse
+00001 routh|02222 abamp|00010 mouth
+00020 nidor|00012 whomp|00110 mover
+00010 drice|00102 bavin|00220 movie
+00020 nidor|00012 whomp|10110 mower
+00000 courd|10100 hempy|00102 mucky
+10000 crios|10002 mucus
+00000 courd|00101 abamp|00010 muddy
+00200 doily|00010 aargh|00002 mulch
+00000 courd|00100 gimpy|00202 mummy
+00000 courd|10100 hempy|10100 munch
+01100 corni|00200 abamp|10010 mural
+00000 courd|00110 aargh|00200 murky
+10000 crios|00001 hokum|10011 mushy
+10000 crios|10101 music
+10000 crios|00001 hokum|00111 musky
+10001 durgy|02002 musty
+00000 courd|00020 myrrh
+02000 corni|00111 nadir
+02010 brugh|00000 adown|10001 naive
+02000 corni|00020 abaft|10000 nanny
+12100 abaca|10100 nasal
+12001 attap|11000 aahed|02000 nasty
+02101 abaft|10101 natal
+02100 bingy|00100 naval
+02120 genal|01112 navel
+00010 drice|10001 ablow|00000 needy
+00010 drice|00201 fenny|02100 neigh
+00010 drice|11001 aargh|00200 nerdy
+00010 drice|01002 mungo|00100 nerve
+00020 nidor|20002 ablow|00000 never
+00020 nidor|20002 ablow|00001 newer
+00110 deice|02000 aggry|00002 newly
+00020 nidor|22002 nicer
+00010 drice|00112 niche
+00010 drice|00122 amene|00212 niece
+00002 giron|12001 night
+01000 brond|00010 abaca|00002 ninja
+00000 courd|00000 nippy|22002 ninny
+00001 routh|00022 aband|00010 ninth
+00110 deice|00002 baulk|10020 noble
+00100 courd|02000 adown|00101 nobly
+10010 rhone|00112 noise
+10000 crios|00211 noisy
+01000 brond|00112 aargh|10000 nomad
+10010 rhone|00212 noose
+00001 routh|12022 adown|00101 north
+10020 mhorr|00100 nosey
+00001 routh|02012 abaca|00020 notch
+00120 bevor|01210 aahed|00020 novel
+00010 drice|10002 bundh|02110 nudge
+10010 rhone|10012 nurse
+00001 routh|00120 abrin|00001 nutty
+00200 doily|01011 nylon
+00000 courd|00000 nippy|20021 nymph
+02020 gormy|01000 oaken
+10010 rhone|00102 appui|00000 obese
+00000 courd|11110 occur
+01010 brede|00200 aboma|10100 ocean
+01101 artic|10201 octal
+00022 cerne|11000 octet
+00020 nidor|00212 adaws|02000 odder
+00100 courd|01001 oddly
+01100 corni|01000 adbot|10010 offal
+00020 nidor|00012 whomp|00100 corby|01100 offer
+00021 mohur|01000 often
+00120 bevor|01010 adman|01002 olden
+00120 bevor|01012 aahed|00021 older
+00110 deice|00202 aargh|00000 olive
+00010 drice|01002 mungo|10001 ombre
+01010 brede|00200 aboma|00112 omega
+00000 courd|01000 aboon|00122 onion
+10022 abuna|00010 onset
+01010 brede|01200 opera
+00010 drice|00202 avows|00100 opine
+00000 courd|01100 agios|00210 opium
+00001 routh|01010 optic
+00002 giron|01110 aahed|00000 orbit
+00020 nidor|00212 adaws|01000 order
+01000 brond|02110 organ
+00021 mohur|01202 other
+00021 mohur|01002 otter
+00002 giron|10010 ought
+00010 drice|00022 bumph|02000 ounce
+00001 routh|01110 aahed|00001 outdo
+00021 mohur|01012 outer
+00001 routh|01110 aahed|00000 outgo
+01000 brond|01100 aargh|10100 ovary
+01011 chare|00202 aargh|10000 ovate
+00012 preif|01200 abcee|00010 overt
+00010 drice|00202 avows|02100 ovine
+00000 courd|01002 ovoid
+00000 courd|01000 aboon|00101 owing
+00020 nidor|10012 aargh|00100 owner
+00010 drice|10202 aargh|00000 oxide
+00010 drice|00002 fount|01020 aahed|00010 ozone
+02000 corni|00000 midgy|00202 abamp|10001 paddy
+02000 corni|00010 aargh|12010 pagan
+02002 teuch|10000 abaft|10002 paint
+02220 abaca|10000 paler
+12200 palsy
+02120 genal|01212 panel
+02000 corni|10011 abamp|10001 panic
+12000 cissy|00022 pansy
+02100 bingy|00000 aargh|12000 papal
+02020 gormy|00100 becap|01011 paper
+02020 gormy|00200 abamp|10001 parer
+02000 corni|00200 dampy|02010 parka
+02000 corni|00200 dampy|02012 parry
+12010 ampul|10100 parse
+02001 boric|00200 adaws|10000 party
+12001 attap|11011 pasta
+12011 bacha|02000 attap|11001 paste
+12001 attap|11001 pasty
+02001 boric|00001 campy|12010 patch
+02001 boric|01020 patio
+12001 attap|10201 patsy
+02001 boric|00000 fands|02000 abamp|10001 patty
+12010 ampul|10110 pause
+02020 gormy|00001 payee
+02020 gormy|00101 payer
+01010 brede|00102 achar|11000 peace
+01010 brede|00100 abaca|00220 peach
+01110 gnarl|00222 pearl
+01010 brede|00100 abaca|10010 pecan
+01110 gnarl|00102 bedim|02200 pedal
+01110 gnarl|01102 penal
+00010 drice|00022 bumph|00010 pence
+00010 drice|00002 fount|00020 penne
+00010 drice|00001 banco|00200 penny
+00010 drice|01021 aahed|00110 perch
+00110 deice|02100 peril
+00010 drice|01001 boeuf|00100 abamp|00001 perky
+10010 rhone|00001 aargh|00000 pesky
+10011 troth|00120 pesto
+01111 abamp|10001 petal
+00011 crith|00020 bapus|00100 petty
+11010 acari|00200 aahed|10110 phase
+00010 drice|00002 fount|01020 aahed|00110 phone
+00000 courd|01000 aboon|00201 phony
+00001 routh|01021 photo
+01000 brond|00120 piano
+00000 courd|10000 fawny|00002 picky
+00010 drice|00122 amene|00202 piece
+00011 crith|00120 piety
+00000 courd|00000 nippy|02102 piggy
+00202 aalii|00210 pilot
+00000 courd|10000 fawny|00010 pinch
+00020 nidor|12000 advew|00020 piney
+00000 courd|00000 nippy|12102 pinky
+00001 routh|01020 aahed|00000 pinto
+00020 nidor|02002 parev|20120 piper
+00010 drice|00102 bavin|00010 pique
+00001 routh|00012 wiped|02100 pitch
+00001 routh|00011 acing|00100 pithy
+00002 giron|02020 pivot
+00120 bevor|01000 chimp|00101 pixel
+00010 drice|00102 bavin|00020 pixie
+01000 brond|00000 amuck|10000 pizza
+01110 gnarl|00201 fehme|00002 aband|00200 place
+01100 corni|00001 adieu|11100 plaid
+01100 corni|00011 aalii|10120 plain
+01102 flong|02000 plait
+01110 gnarl|01201 plane
+01100 corni|00020 bifid|00000 plank
+01102 flong|02020 plant
+01111 abamp|00201 plate
+01100 corni|00000 abamp|10201 plaza
+01110 gnarl|00101 kippa|00101 plead
+01112 repla|01111 pleat
+00120 bevor|01000 chimp|00201 plied
+00120 bevor|01002 bifid|01000 plier
+00100 courd|10200 pluck
+00100 courd|00200 bumfs|11100 plumb
+00110 deice|00002 baulk|00210 abaft|00000 plume
+00100 courd|00200 bumfs|01100 plump
+00100 courd|00200 bumfs|01000 plunk
+10100 boeuf|00010 plush
+10010 rhone|00101 poesy
+00002 giron|01011 abamp|00001 point
+10010 rhone|00102 appui|01001 poise
+00020 nidor|00012 whomp|00101 poker
+01200 aliya|11000 abamp|10001 polar
+01200 aliya|01002 polka
+00200 doily|02011 polyp
+00000 courd|12000 aahed|00100 pooch
+00000 courd|02000 biogs|00100 poppy
+00000 courd|12010 aahed|00100 porch
+10020 mhorr|00102 poser
+10002 boric|02020 posit
+10010 rhone|00102 appui|01000 posse
+00000 courd|12200 abamp|00001 pouch
+00000 courd|02202 bumph|01010 pound
+00001 routh|02220 pouty
+00020 nidor|00012 whomp|10101 power
+01000 brond|02020 apace|01200 prank
+01000 brond|02010 aalii|10000 prawn
+00020 nidor|10001 aegis|01000 preen
+10010 rhone|10001 ached|00010 press
+00010 drice|02222 price
+00000 courd|10010 abaka|00010 prick
+00010 drice|12202 abaca|00000 pride
+00020 nidor|01101 decaf|11000 pried
+00010 drice|02202 pombe|20102 prime
+00000 courd|01010 gimpy|01110 primo
+00002 giron|01101 print
+00000 courd|01010 gimpy|01010 prior
+10000 crios|02201 abaft|00000 prism
+00000 courd|00010 beigy|00202 privy
+00010 drice|02202 pombe|20002 prize
+00010 drice|02002 befog|11010 probe
+00010 drice|02002 befog|01010 aband|00020 prone
+00000 courd|01010 gimpy|10010 prong
+00000 courd|01010 gimpy|00010 proof
+10010 rhone|10202 prose
+00000 courd|01112 proud
+00010 drice|02002 befog|01010 aband|00000 prove
+00100 courd|01010 agios|00010 prowl
+00000 courd|01010 gimpy|00012 proxy
+00010 drice|12002 abamp|00001 prude
+00010 drice|02002 befog|01000 prune
+11100 chals|00221 psalm
+00000 courd|10100 hempy|00010 pubic
+00000 courd|00101 abamp|00001 pudgy
+00000 courd|00100 gimpy|00012 puffy
+00200 doily|00012 abaca|00000 pulpy
+10210 aahed|00010 pulse
+00000 courd|10100 hempy|10010 punch
+01100 corni|00000 abamp|10001 pupal
+00100 courd|00100 aalii|00120 pupil
+00000 courd|00100 gimpy|00022 puppy
+00020 nidor|00001 ampul|00110 puree
+00020 nidor|00002 bevue|01010 aargh|00200 purer
+00010 drice|01002 mungo|02020 purge
+10010 rhone|10002 abcee|00002 purse
+10000 crios|00001 hokum|10010 abaca|00000 pushy
+00001 routh|00120 abrin|00000 putty
+00000 courd|00000 nippy|00102 pygmy
+01000 brond|00000 amuck|10122 quack
+01100 corni|00001 adieu|10101 quail
+01010 brede|00002 aguna|10100 quake
+01100 corni|00000 abamp|00210 qualm
+01000 brond|01000 chara|00220 quark
+01002 courd|00120 quart
+11000 crabs|00201 aargh|10002 quash
+11000 crabs|00201 aargh|10000 quasi
+00020 nidor|10000 aahed|00020 queen
+00020 nidor|00002 bevue|01011 queer
+00110 deice|01000 abamp|00000 quell
+00010 drice|01001 boeuf|00210 query
+10012 quich|22000 quest
+00010 drice|00002 fount|00100 queue
+00000 courd|10100 hempy|00000 quick
+00022 cerne|01000 aahed|00020 quiet
+00100 courd|00100 aalii|00110 quill
+00102 bling|01200 quilt
+00000 courd|00120 aargh|00100 quirk
+00011 crith|00220 aband|00000 quite
+01001 conia|01002 quota
+00011 crith|00020 bapus|00010 quote
+00001 routh|01122 quoth
+02000 corni|00102 aahed|02000 rabbi
+02000 corni|00101 bifid|10022 rabid
+02020 gormy|00100 becap|01210 racer
+02000 corni|00100 aahed|12001 radar
+02000 corni|00102 aahed|02001 radii
+02000 corni|01101 radio
+02000 corni|00121 rainy
+12010 ampul|10000 raise
+02000 corni|00100 aahed|12100 rajah
+02200 ahold|10020 rally
+02200 ahold|11010 ralph
+02020 gormy|00110 abaka|10000 ramen
+02000 corni|10110 ranch
+02000 corni|00110 randy
+02010 brugh|01020 range
+02000 corni|00101 bifid|00022 rapid
+02020 gormy|00200 abamp|10000 rarer
+12000 cissy|00202 raspy
+02001 boric|01120 ratio
+02001 boric|00100 ratty
+02020 gormy|00100 becap|01010 advew|10220 raven
+02000 corni|01110 abamp|10000 rayon
+02000 corni|01100 jivey|00000 razor
+01010 brede|01100 alary|00210 reach
+01012 crena|11101 react
+01010 brede|01120 ready
+01110 gnarl|00211 realm
+01010 brede|01100 alary|00220 rearm
+01010 brede|11100 abbas|00220 rebar
+00120 bevor|12001 rebel
+10010 rhone|20001 rebus
+00012 preif|01100 abaca|01000 rebut
+01010 brede|01100 alary|10010 recap
+00010 drice|01011 recur
+00012 preif|01100 abaca|00010 recut
+00010 drice|11001 aargh|00100 reedy
+00020 nidor|00002 bevue|02001 ablow|00000 refer
+00012 preif|01121 refit
+01110 gnarl|10112 regal
+01010 brede|11100 abbas|01020 rehab
+00010 drice|01201 reign
+01210 abray|00120 relax
+01210 abray|00122 relay
+00210 himbo|01000 relic
+00012 preif|01120 aargh|00100 remit
+01110 gnarl|01112 renal
+00020 nidor|10001 aegis|02000 renew
+01010 brede|01100 alary|10012 repay
+00120 bevor|02001 repel
+00110 deice|02000 aggry|00012 reply
+00010 drice|01001 boeuf|00120 rerun
+10022 abuna|00000 reset
+10010 rhone|20011 resin
+00011 crith|11012 retch
+00011 crith|01010 amino|00002 retro
+00011 crith|01010 amino|00000 retry
+10010 rhone|20002 reuse
+00120 bevor|02201 revel
+00010 drice|01002 mungo|01000 revue
+00000 courd|01010 gimpy|01000 rhino
+00010 drice|01002 mungo|10000 rhyme
+00020 nidor|02202 cahow|00000 rider
+00010 drice|11102 ridge
+00110 deice|00102 aargh|00100 rifle
+00002 giron|12100 right
+00000 courd|00012 aalii|00021 rigid
+00000 courd|01010 gimpy|12000 advew|00000 rigor
+10010 rhone|20012 rinse
+00020 nidor|12001 ripen
+00020 nidor|02002 parev|10120 riper
+10020 mhorr|00010 risen
+10020 mhorr|00012 riser
+10000 crios|01101 risky
+01100 corni|00101 afear|00021 rival
+00020 nidor|02002 parev|00121 aargh|00100 river
+00022 cerne|01100 rivet
+01000 brond|01100 aargh|10102 roach
+11002 acerb|10010 roast
+00000 courd|02010 aboon|01102 robin
+00002 giron|00120 robot
+00000 courd|12010 aahed|00000 rocky
+00020 nidor|00211 rodeo
+00020 nidor|00012 whomp|00100 corby|02100 agave|01001 roger
+00010 drice|01002 mungo|01011 rogue
+00000 courd|02010 aboon|00210 roomy
+10002 boric|02100 roost
+00001 routh|22010 rotor
+00010 drice|01002 mungo|01021 rouge
+00000 courd|02210 rough
+00000 courd|02212 round
+10010 rhone|20102 rouse
+00011 crith|01020 aargh|00100 route
+00020 nidor|00012 whomp|00100 corby|02100 agave|00011 rover
+00000 courd|02011 abray|00102 rowdy
+00020 nidor|00012 whomp|10100 abaca|00000 rower
+01100 corni|02100 royal
+00000 courd|00111 ruddy
+00020 nidor|00202 adaws|01000 ruder
+00000 courd|00110 aargh|00110 rugby
+00220 adsum|00010 ruler
+01000 brond|11000 abbas|11000 rumba
+00000 courd|01110 farer|00102 rumor
+00020 nidor|00001 ampul|00210 rupee
+01100 corni|00200 abamp|10000 rural
+10001 durgy|02102 rusty
+22100 sadly
+22020 abaft|10010 safer
+22002 saint
+22200 aldol|11100 salad
+22200 aldol|11001 sally
+22200 aldol|11020 salon
+22200 aldol|11000 salsa
+22201 salty
+22210 salve
+22200 aldol|11010 salvo
+22000 copsy|00012 aahed|02001 sandy
+22020 abaft|10000 saner
+22000 copsy|00212 sappy
+22000 copsy|00022 sassy
+22001 aalii|02020 satin
+22001 aalii|02000 satyr
+22010 sauce
+22000 copsy|10012 saucy
+22000 copsy|00010 sauna
+22011 saute
+22000 copsy|01010 savor
+22000 copsy|01012 savoy
+22000 copsy|00012 aahed|02000 savvy
+21100 choli|10020 acidy|12010 scald
+21110 achar|12000 scale
+21100 choli|10020 acidy|12000 scalp
+21100 choli|10020 acidy|12002 scaly
+21000 chark|10200 scamp
+21002 atman|11001 scant
+21010 hepar|01011 abaca|00210 scare
+21000 chark|10220 abaft|00210 scarf
+21000 chark|10220 abaft|00200 scary
+20010 prink|00020 abcee|00112 scene
+20012 acing|02020 scent
+20000 unrip|01010 aargh|00000 scion
+20000 unrip|00000 chack|10000 scoff
+20100 plink|01000 abord|00202 scold
+20010 prink|00020 abcee|00102 scone
+20000 unrip|00002 abaca|00010 scoop
+20010 prink|10000 scope
+20010 prink|01000 chere|10022 score
+20000 unrip|01100 achar|02001 scorn
+20000 unrip|10100 scour
+20002 chiro|10001 scout
+20100 plink|01000 abord|00200 scowl
+21000 chark|10110 abamp|10010 scram
+21000 chark|10110 abamp|10002 scrap
+20020 hewer|01021 abaca|00010 scree
+20020 hewer|00121 screw
+20000 unrip|10200 abaca|01010 scrub
+20000 unrip|10200 abaca|00010 scrum
+21000 chark|10100 abaca|01012 scuba
+21010 hepar|02020 sedan
+20010 prink|00000 aahed|00011 seedy
+20010 prink|00000 aahed|00010 segue
+20010 prink|00200 seize
+20020 hewer|02020 abamp|00010 semen
+20010 prink|00010 sense
+21010 hepar|02210 sepia
+20010 prink|01100 serif
+20010 prink|01000 chere|00110 serum
+20010 prink|01000 chere|00112 serve
+20011 korun|00020 setup
+20020 hewer|02020 abamp|00000 seven
+20020 hewer|02022 sever
+20020 hewer|02222 sewer
+21000 chark|12202 shack
+21010 hepar|11010 dumka|10001 shade
+21000 chark|02200 shady
+21002 atman|11000 shaft
+21010 hepar|11010 dumka|00021 shake
+21000 chark|02201 shaky
+21110 achar|10100 shale
+21100 choli|02020 shall
+21102 aahed|10100 shalt
+21010 hepar|11010 dumka|00101 shame
+21000 chark|02202 shank
+21010 hepar|11110 shape
+21000 chark|02220 aahed|10102 shard
+21010 hepar|11011 share
+21000 chark|02222 shark
+21000 chark|02220 aahed|10100 sharp
+21010 hepar|11010 dumka|00001 shave
+21100 choli|02010 shawl
+21010 hepar|11022 shear
+20020 hewer|11020 abamp|00000 sheen
+20020 hewer|11020 abamp|00002 sheep
+20020 hewer|11022 sheer
+20022 aahed|00120 sheet
+20010 prink|00102 sheik
+20110 chemo|02200 abaft|00010 shelf
+20110 chemo|02200 abaft|00000 shell
+20020 hewer|10020 shied
+20002 chiro|02200 shift
+20010 prink|00220 aahed|00110 shine
+20000 unrip|01010 aargh|00001 shiny
+20010 prink|01200 shire
+20000 unrip|00110 aahed|00100 shirk
+20002 chiro|02220 shirt
+21100 choli|02210 shoal
+20000 unrip|00000 chack|02022 shock
+20010 prink|00020 abcee|00002 shone
+20000 unrip|00000 chack|02002 shook
+20002 chiro|02001 ablow|00020 shoot
+20010 prink|01000 chere|02022 shore
+20000 unrip|01100 achar|00101 shorn
+20002 chiro|02021 short
+20002 chiro|02001 ablow|00010 shout
+20010 prink|00000 aahed|00110 shove
+20000 unrip|01000 aahed|00100 shown
+20000 unrip|00000 chack|02000 showy
+20020 hewer|10121 shrew
+20000 unrip|10200 abaca|01000 shrub
+20000 unrip|10200 abaca|00000 shrug
+20000 unrip|10000 aargh|00001 shuck
+20002 chiro|02000 shunt
+20000 unrip|10000 aargh|00002 shush
+20100 plink|01000 abord|00000 shyly
+20010 prink|00100 aargh|00020 siege
+20010 prink|00100 aargh|00000 sieve
+20002 chiro|01100 sight
+21000 chark|00100 aahed|10000 sigma
+20200 aduki|00021 silky
+20200 aduki|00001 silly
+20010 prink|00110 aargh|00000 since
+20020 hewer|00120 sinew
+20010 prink|00110 aargh|00020 singe
+20020 hewer|00021 siren
+20000 unrip|00010 abash|00020 sissy
+20001 goyim|00010 acing|00100 sixth
+20001 goyim|00110 sixty
+21011 dirke|00012 skate
+20020 hewer|00022 abrim|00110 skier
+20000 unrip|00010 abash|00010 skiff
+20100 plink|01201 skill
+20000 unrip|00012 skimp
+20002 chiro|00220 skirt
+20100 plink|01002 skulk
+20100 plink|01001 skull
+20000 unrip|11000 aduki|00210 skunk
+21100 choli|10010 slack
+21100 choli|00011 aboil|10021 slain
+21100 choli|00010 aargh|10010 slang
+21102 aahed|10000 slant
+21100 choli|01010 slash
+21111 abele|10012 slate
+21110 achar|10000 slave
+20120 abamp|00000 sleek
+20120 abamp|00002 sleep
+20122 sleet
+20112 alaap|02001 slept
+20110 chemo|10100 slice
+20100 plink|02202 slick
+20110 chemo|00100 slide
+20110 chemo|00120 slime
+20100 plink|02200 slimy
+20100 plink|02220 sling
+20100 plink|02222 slink
+20100 plink|12000 abmho|00001 sloop
+20110 chemo|00101 slope
+20100 plink|02000 abmho|00011 slosh
+20101 aarti|00020 sloth
+20100 plink|12000 abmho|00100 slump
+20100 plink|02020 slung
+20100 plink|02022 slunk
+20100 plink|12000 abmho|00000 slurp
+20100 plink|02000 abmho|00010 slush
+20100 plink|02000 abmho|00000 slyly
+21000 chark|10202 abamp|00210 smack
+21100 choli|00020 small
+21002 atman|11100 smart
+21000 chark|01200 abamp|00210 smash
+21010 hepar|01022 abamp|10010 smear
+20110 chemo|00210 smell
+20112 alaap|01000 smelt
+20110 chemo|00110 smile
+20000 unrip|00110 aahed|00000 smirk
+20011 korun|00000 abamp|00010 smite
+20001 goyim|00011 smith
+20000 unrip|00000 chack|00022 smock
+20010 prink|00001 smoke
+20000 unrip|00000 chack|00001 smoky
+20011 korun|01000 aarti|00020 smote
+21000 chark|10202 abamp|00200 snack
+21100 choli|00011 aboil|10022 snail
+21010 hepar|01010 abaka|00220 snake
+21000 chark|00201 snaky
+21010 hepar|01011 abaca|00200 snare
+21100 choli|00010 aargh|10100 snarl
+21010 hepar|01020 sneak
+20020 hewer|01022 sneer
+20010 prink|00210 snide
+20000 unrip|02010 sniff
+20010 prink|10210 snipe
+20000 unrip|02002 snoop
+20010 prink|01010 snore
+20002 chiro|00021 abamp|00000 snort
+20002 chiro|00001 apian|00001 snout
+20000 unrip|02000 snowy
+20000 unrip|12000 abaca|00020 snuck
+20000 unrip|12000 abaca|00000 snuff
+21000 chark|00200 anima|10000 soapy
+20020 hewer|00022 abrim|01100 sober
+20000 unrip|00000 chack|00000 soggy
+21200 solar
+20200 aduki|01001 solid
+20210 solve
+21000 chark|00110 aargh|10100 sonar
+20000 unrip|01020 sonic
+20001 goyim|02000 abohm|00210 sooth
+20001 goyim|02100 sooty
+20000 unrip|00200 sorry
+20000 unrip|11000 aduki|01200 sound
+20001 goyim|02000 abohm|00110 south
+20020 hewer|00222 sower
+21010 hepar|01110 aahed|10010 space
+21010 hepar|01110 aahed|10011 spade
+21000 chark|00202 spank
+21010 hepar|01111 spare
+21000 chark|00222 spark
+21000 chark|00200 anima|10010 spasm
+21000 chark|00200 anima|11000 spawn
+21010 hepar|01120 speak
+21010 hepar|01122 spear
+20010 prink|10002 speck
+20020 hewer|01020 speed
+20110 chemo|00200 abamp|00001 spell
+20112 alaap|01001 spelt
+20010 prink|10020 spend
+20012 acing|00020 spent
+20010 prink|11000 abamp|00011 sperm
+20010 prink|10200 spice
+20000 unrip|00011 abaca|00020 spicy
+20020 hewer|00020 spied
+20120 abamp|00001 spiel
+20010 prink|10201 spike
+20000 unrip|00011 abaca|00000 spiky
+20100 plink|11200 spill
+20102 abamp|00001 spilt
+20010 prink|10220 spine
+20000 unrip|01011 spiny
+20010 prink|11200 spire
+20011 korun|00000 abamp|00001 spite
+21202 splat
+20202 split
+20100 plink|11100 spoil
+20010 prink|10001 spoke
+20000 unrip|00001 abaft|00010 spoof
+20000 unrip|00001 abaft|00000 spook
+20100 plink|11000 spool
+20000 unrip|01001 spoon
+20010 prink|11000 abamp|00001 spore
+20002 chiro|00021 abamp|00001 sport
+20002 chiro|00001 apian|02000 spout
+21000 chark|00110 aargh|10200 spray
+20020 hewer|01021 abaca|00000 spree
+20000 unrip|00221 sprig
+20000 unrip|11001 spunk
+20000 unrip|11101 spurn
+20002 chiro|00020 spurt
+21000 chark|00100 aahed|10002 squad
+21002 atman|01020 squat
+20000 unrip|10020 squib
+21001 prink|00002 stack
+21001 prink|00000 abash|00210 staff
+21011 dirke|00002 agave|01202 stage
+21001 prink|00100 staid
+21001 prink|00110 stain
+21001 prink|01100 stair
+21011 dirke|00022 stake
+21111 abele|10022 stale
+21101 abaka|00210 stalk
+21101 abaka|00200 stall
+21001 prink|10000 stamp
+21001 prink|00020 stand
+21001 prink|00022 stank
+21011 dirke|00102 stare
+21001 prink|01002 stark
+21002 atman|12000 start
+21001 prink|00000 abash|00222 stash
+21011 dirke|00002 agave|00202 state
+21011 dirke|00002 agave|00222 stave
+21011 dirke|10001 stead
+21011 dirke|00011 steak
+21111 abele|10210 steal
+21011 dirke|00001 steam
+20021 abord|00002 steed
+20121 steel
+20021 abord|00000 steep
+20021 abord|00010 steer
+20011 korun|00002 stein
+20011 korun|00102 stern
+20001 goyim|00010 acing|01200 stick
+20001 goyim|00010 acing|00200 stiff
+20101 aarti|00011 still
+20102 abamp|00000 stilt
+20001 goyim|10010 sting
+20001 goyim|00010 acing|00220 stink
+20002 chiro|00200 abaft|00002 stint
+20001 goyim|01000 acred|01000 stock
+20001 goyim|01020 stoic
+20011 korun|11000 stoke
+20111 abaya|00000 stole
+20001 goyim|01001 stomp
+20011 korun|01001 stone
+20001 goyim|01100 aargh|00000 stony
+20001 goyim|01000 acred|00002 stood
+20101 aarti|00010 stool
+20001 goyim|01000 acred|00000 stoop
+20011 korun|01100 store
+20001 goyim|01000 acred|00100 stork
+20001 goyim|01002 storm
+20001 goyim|01100 aargh|00100 story
+20002 chiro|00001 apian|00000 stout
+20011 korun|01000 aarti|00010 stove
+21001 prink|11000 strap
+21001 prink|01000 abaya|10000 straw
+21001 prink|01000 abaya|10010 stray
+20001 goyim|00020 strip
+20002 chiro|00010 strut
+20001 goyim|00000 acing|01000 stuck
+20001 goyim|00100 study
+20001 goyim|00000 acing|00000 stuff
+20001 goyim|00001 stump
+20001 goyim|10000 stung
+20001 goyim|00000 acing|00020 stunk
+20002 chiro|00000 stunt
+20111 abaya|00010 style
+21010 hepar|01010 abaka|00200 suave
+21000 chark|00110 aargh|10110 sugar
+20000 unrip|11010 suing
+20011 korun|00010 suite
+20200 aduki|00120 sulky
+20200 aduki|00100 sully
+21000 chark|10100 abaca|10010 sumac
+20000 unrip|11000 aduki|00100 sunny
+20020 hewer|00022 abrim|00100 super
+20020 hewer|00022 abrim|00200 surer
+20010 prink|01000 chere|00012 surge
+20100 plink|01000 abord|00010 surly
+20000 unrip|10010 sushi
+21000 chark|00200 anima|10120 swami
+21000 chark|00200 anima|10020 swamp
+21000 chark|00220 swarm
+21000 chark|01200 abamp|00200 swash
+21001 prink|00000 abash|00212 swath
+21010 hepar|01022 abamp|10000 swear
+21012 sweat
+20020 hewer|01120 sweep
+20022 aahed|00020 sweet
+20110 chemo|00200 abamp|00000 swell
+20012 acing|00000 swept
+20002 chiro|00200 abaft|00022 swift
+20100 plink|01200 aargh|00000 swill
+20010 prink|00220 aahed|00010 swine
+20000 unrip|01010 aargh|00010 swing
+20100 plink|01200 aargh|00100 swirl
+20000 unrip|00010 abash|00022 swish
+20000 unrip|01000 aahed|00000 swoon
+20000 unrip|00002 abaca|00000 swoop
+20000 unrip|00100 sword
+20010 prink|01000 chere|00022 swore
+20000 unrip|01100 achar|00001 sworn
+20000 unrip|11000 aduki|00200 swung
+20000 unrip|01000 aahed|00002 synod
+20000 unrip|10202 syrup
+02001 boric|10000 tabby
+02111 abash|11000 table
+02001 boric|11000 taboo
+02002 teuch|20010 tacit
+02001 boric|00001 campy|12002 tacky
+02001 boric|00000 fands|12000 taffy
+02002 teuch|20000 aalii|02010 taint
+02021 enmew|01020 taken
+02021 enmew|00020 caphs|02000 taker
+02201 ablow|10200 tally
+02201 ablow|10220 talon
+02021 enmew|00220 tamer
+02001 boric|01000 tango
+02001 boric|00000 fands|02200 tangy
+02021 enmew|00020 caphs|02200 taper
+02001 boric|00120 tapir
+02001 boric|00200 adaws|11000 tardy
+02002 teuch|20000 aalii|02000 tarot
+12011 bacha|02000 attap|11100 taste
+12001 attap|11100 tasty
+02001 boric|00000 fands|02000 abamp|10000 tatty
+02002 teuch|20200 taunt
+02001 boric|00000 fands|02100 tawny
+01011 chare|11201 teach
+01011 chare|00221 teary
+11011 tease
+00011 crith|00010 accoy|00002 teddy
+00011 crith|00022 aband|00000 teeth
+00011 crith|00010 accoy|00010 tempo
+00022 cerne|02011 tenet
+00011 crith|01010 amino|00011 tenor
+10011 troth|20000 tense
+00011 crith|00022 aband|00010 tenth
+00021 mohur|00000 aahed|00020 tepee
+00011 crith|00110 acted|00112 tepid
+01011 chare|00121 aargh|10200 terra
+10011 troth|21000 terse
+10011 troth|20020 testy
+01001 conia|00101 aahed|10100 thank
+00012 preif|00201 theft
+00011 crith|01111 their
+00011 crith|00011 abaya|00000 theme
+00011 crith|01011 there
+10011 troth|20001 these
+01011 chare|02101 theta
+00001 routh|00011 acing|01200 thick
+00021 mohur|00100 thief
+00001 routh|00012 wiped|01000 thigh
+00001 routh|00011 acing|00222 thing
+00001 routh|00011 acing|00220 think
+00001 routh|10011 third
+00001 routh|01011 thong
+00001 routh|11011 aband|00010 thorn
+10011 troth|20201 those
+00021 mohur|00101 abcee|00022 three
+00021 mohur|00101 abcee|00020 threw
+00001 routh|11011 aband|01000 throb
+00001 routh|11011 aband|00000 throw
+00001 routh|10111 thrum
+00001 routh|00211 abaca|01000 thumb
+00001 routh|00211 abaca|00000 thump
+00011 crith|00011 abaya|00010 thyme
+01001 conia|00012 tiara
+01001 conia|00022 tibia
+01101 artic|10110 tidal
+00021 mohur|00002 abrin|00110 tiger
+00002 giron|12000 aswim|00010 abaft|00002 tight
+00211 aahed|00011 tilde
+00021 mohur|10002 timer
+00001 routh|00010 aahed|00002 timid
+10001 durgy|00002 tipsy
+01001 conia|00111 titan
+00011 crith|00111 tithe
+00111 axile|00122 title
+11002 acerb|10000 toast
+01001 conia|02001 aahed|10001 today
+00001 routh|02010 enfix|00000 toddy
+00021 mohur|02000 token
+01101 artic|10100 abaca|10000 tonal
+01001 conia|02202 tonga
+00001 routh|02010 enfix|01020 tonic
+00001 routh|02022 abamp|00000 tooth
+01001 conia|02001 aahed|10000 topaz
+00001 routh|02010 enfix|00020 topic
+00001 routh|12012 torch
+10001 durgy|00200 torso
+10001 durgy|01200 torus
+01101 artic|10200 total
+00021 mohur|12000 totem
+00001 routh|02212 aargh|00002 touch
+00001 routh|02212 aargh|00022 tough
+00121 abmho|00001 towel
+00021 mohur|02002 ablow|00011 tower
+00001 routh|02010 enfix|00021 toxic
+00001 routh|02010 enfix|01021 toxin
+01011 chare|10212 trace
+01001 conia|10001 track
+01002 courd|10010 tract
+01011 chare|00212 aarti|10110 trade
+01101 artic|12120 trail
+01001 conia|00121 train
+01002 courd|00010 abrin|10120 trait
+01001 conia|00001 aahed|10000 tramp
+11001 aahed|10100 trash
+01101 artic|12100 trawl
+01011 chare|00111 tread
+01012 crena|02201 aargh|10100 treat
+00011 crith|02010 advew|01010 trend
+01001 conia|00011 aahed|10002 triad
+01101 artic|12110 trial
+00011 crith|02210 abaca|01000 tribe
+00011 crith|12210 trice
+00001 routh|10010 trick
+00021 mohur|00001 tried
+00011 crith|02210 abaca|00000 tripe
+00011 crith|02220 ablow|00000 trite
+00101 boils|01020 troll
+00001 routh|11010 aalii|00000 troop
+00011 crith|02010 advew|00010 trope
+00002 giron|00110 abaca|00000 trout
+00011 crith|02010 advew|00110 trove
+00011 crith|12010 truce
+00001 routh|10210 acing|01000 truck
+00021 mohur|00012 abuna|00200 truer
+00101 boils|00020 truly
+00001 routh|10210 acing|00000 trump
+00001 routh|10210 acing|00020 trunk
+10001 durgy|01100 truss
+10002 boric|00100 abaya|00000 trust
+00001 routh|10222 truth
+10002 boric|00100 abaya|00010 tryst
+01101 artic|10100 abaca|11000 tubal
+00021 mohur|00012 abuna|01100 tuber
+00201 aahed|00000 tulip
+00211 aahed|00010 tulle
+00001 routh|11110 abamp|00010 tumor
+00001 routh|00110 tunic
+00001 routh|11110 abamp|01000 turbo
+00001 routh|11110 abamp|00000 tutor
+01001 conia|00101 aahed|10000 twang
+01011 chare|00101 tweak
+00021 mohur|00000 aahed|00022 tweed
+00022 cerne|01001 tweet
+00011 crith|10210 twice
+00011 crith|00210 twine
+00101 boils|00210 twirl
+10002 boric|00010 aahed|00000 twist
+00002 giron|01000 twixt
+00001 routh|00010 aahed|00000 tying
+00020 nidor|00202 adaws|02000 udder
+00120 bevor|01002 bifid|00000 ulcer
+01101 artic|11200 ultra
+01000 brond|11000 abbas|10200 umbra
+00110 deice|00012 aboon|00001 uncle
+00002 giron|00001 uncut
+00020 nidor|10202 under
+00000 courd|00102 aahed|00002 undid
+00010 drice|10002 bundh|01110 undue
+00020 nidor|10100 afear|01100 unfed
+00002 giron|01001 aalii|00020 unfit
+00000 courd|00100 gimpy|01002 unify
+00000 courd|01100 agios|00220 union
+00011 crith|00220 aband|00010 unite
+00001 routh|00120 abrin|00011 unity
+00202 aalii|00220 unlit
+00022 cerne|01010 unmet
+10022 abuna|00110 unset
+00011 crith|00110 acted|00210 untie
+00101 boils|00110 until
+00020 nidor|10100 afear|00100 unwed
+00000 courd|00100 gimpy|01010 unzip
+00020 nidor|00002 bevue|01010 aargh|00100 upper
+10022 abuna|00100 upset
+01000 brond|12010 urban
+00010 drice|02202 pombe|00002 urine
+11010 acari|00200 aahed|10010 usage
+10020 mhorr|01002 usher
+10000 crios|00201 aahed|00000 using
+11100 chals|00111 usual
+10000 crios|01001 usurp
+00111 axile|00222 utile
+00021 mohur|00012 abuna|00100 utter
+02010 brugh|00110 vague
+02222 valet
+02200 ahold|10012 valid
+02200 ahold|10110 valor
+02210 ahull|10110 value
+02210 ahull|10010 valve
+02000 corni|00001 aahed|02002 vapid
+02000 corni|01100 jivey|00100 vapor
+02102 abaft|10002 vault
+02002 teuch|10200 gadje|02000 vaunt
+01010 brede|00100 abaca|10000 vegan
+00010 drice|00001 banco|00201 venom
+00010 drice|00002 fount|00110 venue
+00010 drice|01002 mungo|00020 verge
+10010 rhone|10002 abcee|00012 verse
+10010 rhone|10101 verso
+00010 drice|01002 mungo|00000 aahed|00010 verve
+01000 brond|01000 chara|10110 vicar
+00020 nidor|02210 video
+00100 courd|00000 algin|01220 vigil
+00000 courd|01010 gimpy|12000 advew|00100 vigor
+01200 aliya|01102 villa
+00100 courd|00000 algin|01011 vinyl
+01100 corni|01001 viola
+00020 nidor|02002 parev|10121 viper
+01100 corni|00201 viral
+10000 crios|01102 virus
+10002 boric|00020 visit
+10000 crios|01121 visor
+11001 aahed|10000 vista
+01101 artic|10210 vital
+00000 courd|00002 vivid
+00020 nidor|12000 advew|00120 vixen
+01100 corni|12000 falls|01100 vocal
+01000 brond|00101 aargh|10000 vodka
+00010 drice|00002 fount|02100 vogue
+00010 drice|00222 ablow|00010 voice
+01100 corni|02001 voila
+00002 giron|01010 vomit
+00021 mohur|02002 ablow|00010 voter
+00000 courd|12200 abamp|00000 vouch
+00120 bevor|01110 vowel
+00000 courd|00000 nippy|11001 vying
+02000 corni|10000 aahed|02000 wacky
+02020 gormy|00100 becap|01010 advew|10021 wafer
+02020 gormy|10100 abcee|10020 wager
+02000 corni|01010 aargh|02010 wagon
+12002 waist
+02010 brugh|00000 adown|10010 waive
+02201 ablow|10201 waltz
+02001 boric|00200 adaws|10010 warty
+12011 bacha|02000 attap|11000 waste
+02001 boric|00001 campy|12000 ablow|10001 watch
+02021 enmew|00021 water
+02020 gormy|00100 becap|01010 advew|10221 waver
+02020 gormy|00000 aahed|02020 waxen
+01010 brede|01100 alary|00222 weary
+01010 brede|00102 achar|10000 weave
+00010 drice|10002 bundh|00010 wedge
+00010 drice|10001 ablow|00001 weedy
+00010 drice|00201 fenny|02000 weigh
+00010 drice|11201 weird
+00210 himbo|10000 welch
+10210 aahed|00110 welsh
+00010 drice|00021 aboon|00001 wench
+01000 brond|00000 amuck|10022 whack
+01110 gnarl|00201 fehme|00102 whale
+01000 brond|01000 chara|02220 wharf
+01012 crena|00201 aahed|10110 wheat
+00120 bevor|01000 chimp|02000 wheel
+00110 deice|01000 abamp|00002 whelp
+00010 drice|01002 mungo|00000 aahed|00110 where
+00000 courd|10000 fawny|00100 which
+00000 courd|00000 nippy|01000 whiff
+00110 deice|00202 aargh|00001 while
+00010 drice|00202 avows|00010 whine
+00000 courd|00000 nippy|11002 whiny
+00100 courd|00020 whirl
+10000 crios|00201 aahed|00100 whisk
+00011 crith|00221 white
+00110 deice|00002 baulk|00020 whole
+00000 courd|01000 aboon|00220 whoop
+10010 rhone|02202 abaca|00000 whose
+00020 nidor|12200 widen
+00020 nidor|02202 cahow|00001 wider
+00000 courd|01001 ablow|00022 widow
+00001 routh|00022 aband|00001 width
+00110 deice|11100 alway|01100 wield
+00002 giron|12000 aswim|00110 wight
+00200 doily|00122 fowth|00100 willy
+00000 courd|00000 nippy|02022 wimpy
+00010 drice|00122 amene|00012 wince
+00000 courd|10000 fawny|00110 winch
+00000 courd|00001 banda|00220 windy
+10020 mhorr|00002 wiser
+10000 crios|00101 aleph|00020 wispy
+00001 routh|00012 wiped|22000 witch
+00001 routh|00020 aband|00000 awork|01000 witty
+00020 nidor|10010 chyme|00001 abaka|00010 woken
+01000 brond|00110 aalii|10000 woman
+00020 nidor|10010 chyme|00011 women
+00000 courd|02001 dawds|00120 woody
+00020 nidor|00012 whomp|20200 wooer
+00100 courd|02000 adown|00210 wooly
+00000 courd|02000 biogs|00200 woozy
+00000 courd|02011 abray|00202 wordy
+00100 courd|02012 world
+00000 courd|02020 worry
+10010 rhone|10102 worse
+10002 boric|02200 worst
+00001 routh|12022 adown|00110 worth
+00100 courd|02202 would
+00000 courd|02202 bumph|01000 abaft|00000 wound
+00020 nidor|10010 chyme|00001 abaka|00000 woven
+01000 brond|02000 copay|10010 wrack
+01001 conia|00001 aahed|10100 wrath
+01010 brede|02200 cawks|01110 wreak
+00010 drice|02021 wreck
+10012 quich|00000 wrest
+00000 courd|00010 beigy|00210 wring
+10002 boric|00110 wrist
+00011 crith|02220 ablow|00001 write
+00000 courd|01010 gimpy|10000 wrong
+00011 crith|02020 abaca|00000 wrote
+00000 courd|00210 abaft|00000 wrung
+00100 courd|00010 aking|00000 wryly
+02002 teuch|10011 yacht
+01010 brede|01100 alary|00221 yearn
+11012 abaft|00202 yeast
+00110 deice|11100 alway|01001 yield
+00000 courd|02200 aahed|00000 young
+00001 routh|02222 abamp|00000 youth
+01010 brede|11100 abbas|10200 zebra
+10011 troth|00020 zesty
+01100 corni|02010 zonal
+02000 corni|00010 aargh|02001 handy
+02000 corni|00000 midgy|00002 aahed|02100 happy
+02000 corni|00200 dampy|12002 hardy
+02020 gormy|00210 harem
+02000 corni|00200 dampy|02022 harpy
+02000 corni|00200 dampy|02002 harry
+12000 cissy|00020 abamp|10000 harsh
+12011 bacha|02010 haste
+12001 attap|11000 aahed|02100 hasty
+02001 boric|00001 campy|12000 ablow|10000 hatch
+02021 enmew|00020 caphs|02010 hater
+02002 teuch|10201 haunt
+02011 aarti|02020 haute
+02020 gormy|00000 aahed|02120 haven
+02000 corni|11000 abamp|10000 havoc
+02120 genal|01012 abamp|10000 hazel
+01010 brede|00120 heady
+01010 brede|01110 aahed|10112 heard
+01012 crena|01101 heart
+01011 chare|01201 aahed|10110 heath
+01010 brede|00102 achar|10100 heave
+01010 brede|00100 abaca|00200 heavy
+00010 drice|10002 bundh|00011 hedge
+00011 crith|00021 hefty
+10012 quich|00201 heist
+00210 himbo|21000 helix
+00210 himbo|20002 hello
+00010 drice|00022 bumph|00001 hence
+00010 drice|01001 boeuf|01100 heron
+00200 doily|00122 fowth|00001 hilly
+00010 drice|00102 bavin|00011 hinge
+00000 courd|01000 aboon|00100 hippo
+00000 courd|00000 nippy|02222 hippy
+00001 routh|00012 wiped|02000 hitch
+01000 brond|01102 hoard
+00000 courd|02000 biogs|10100 hobby
+10002 boric|02010 fehme|00100 hoist
+00200 doily|02022 faugh|00001 holly
+00020 nidor|00012 whomp|01110 homer
+00020 nidor|10010 chyme|01101 honey
+00000 courd|02010 aboon|00121 honor
+00010 drice|11002 horde
+00000 courd|02010 aboon|00101 horny
+10010 rhone|11102 horse
+00121 abmho|00011 hotel
+00101 boils|02020 hotly
+00000 courd|02202 bumph|01001 hound
+10010 rhone|01102 house
+00120 bevor|01210 aahed|00120 hovel
+00020 nidor|00012 whomp|01100 hover
+00000 courd|02001 dawds|00220 howdy
+01000 brond|00010 abaca|10000 human
+00000 courd|00102 aahed|00102 humid
+00000 courd|01110 farer|00002 humor
+00000 courd|00100 gimpy|00220 humph
+10000 crios|00002 humus
+00000 courd|10100 hempy|20000 hunch
+00000 courd|00100 gimpy|00002 bhang|01010 hunky
+00000 courd|00120 aargh|00201 hurry
+10000 crios|00001 hokum|20110 husky
+10000 crios|00001 hokum|20010 hussy
+00001 routh|00112 aband|00000 hutch
+00000 courd|01021 hydro
+01010 brede|00200 aboma|00002 hyena
+00020 nidor|10000 aahed|00120 hymen
+00020 nidor|00002 bevue|01000 hyper
+00100 courd|10000 aalii|00111 icily
+00000 courd|10000 fawny|00020 icing
+01110 gnarl|00102 bedim|01110 ideal
+00000 courd|01001 ablow|00020 idiom
+00002 giron|01020 idiot
+00220 adsum|02000 idler
+00100 courd|00001 abamp|00000 idyll
+00200 doily|01110 igloo
+01100 corni|10001 iliac
+01010 brede|00002 aguna|11000 image
+00010 drice|00102 bavin|10010 imbue
+00120 bevor|01000 chimp|00111 impel
+00100 courd|00000 algin|01010 imply
+01010 brede|00002 aguna|10020 inane
+00000 courd|01000 aboon|01021 inbox
+00000 courd|10110 incur
+00020 nidor|11200 index
+00012 preif|10210 inept
+00012 preif|01210 inert
+00020 nidor|11002 abaft|00010 infer
+00002 giron|11021 ingot
+01200 aliya|11110 inlay
+00222 abaft|00002 inlet
+00020 nidor|11002 abaft|00000 inner
+00002 giron|01001 aalii|00010 input
+00021 mohur|00002 abrin|00111 inter
+00001 routh|11010 aalii|00010 intro
+00000 courd|12000 aahed|00000 ionic
+01011 chare|00212 aarti|10121 irate
+00000 courd|01010 gimpy|01002 irony
+10222 islet
+10010 rhone|00002 abies|00111 issue
+00001 routh|00011 acing|01100 itchy
+00000 courd|01020 ivory
+02002 teuch|10200 gadje|02010 jaunt
+02000 corni|00000 midgy|00002 aahed|02000 jazzy
+00210 himbo|00000 aahed|00010 jelly
+00010 drice|01001 boeuf|00100 abamp|00000 jerky
+00011 crith|00020 bapus|00000 jetty
+00120 bevor|02000 jewel
+00000 courd|00000 nippy|02002 abaft|00020 jiffy
+00002 giron|01011 abamp|00000 joint
+10002 boric|02010 fehme|00000 joist
+00020 nidor|00012 whomp|00100 corby|02100 agave|00001 joker
+00200 doily|02022 faugh|00000 jolly
+10002 boric|02000 joust
+00010 drice|10002 bundh|02010 abaft|00000 judge
+00010 drice|00222 ablow|00000 juice
+00000 courd|10100 hempy|00002 juicy
+00000 courd|01100 agios|00010 jumbo
+00000 courd|00100 gimpy|00222 jumpy
+01001 conia|00202 junta
+00001 routh|01120 junto
+00000 courd|01110 farer|00202 juror
+02000 corni|00000 midgy|00000 kappa
+02000 corni|00200 dampy|02100 karma
+02000 corni|00000 midgy|00001 kayak
+01010 brede|10100 kebab
+01000 brond|00000 amuck|10001 khaki
+00000 courd|00000 nippy|12002 kinky
+10000 crios|00111 kiosk
+00001 routh|00020 aband|00000 awork|00001 kitty
+01000 brond|00010 abaca|00220 knack
+01010 brede|00002 aguna|10010 knave
+01010 brede|00210 aahed|10012 knead
+00020 nidor|10100 afear|00200 kneed
+00120 bevor|01000 chimp|00000 kneel
+00112 aleck|01201 knelt
+00010 drice|00202 avows|00000 knife
+00000 courd|11000 knock
+00100 courd|01000 aboon|00201 knoll
+00000 courd|01000 aboon|00202 known
+01100 corni|02000 abamp|10200 koala
+00100 courd|00010 aking|01200 krill
+02120 genal|01012 abamp|11000 label
+02100 bingy|10000 aahed|02000 labor
+02120 genal|01111 laden
+02110 cadge|02202 ladle
+02120 genal|11011 lager
+02110 cadge|12002 lance
+02100 bingy|00202 abaka|10020 lanky
+02120 genal|01012 abamp|10001 lapel
+12110 lapse
+02110 cadge|02022 large
+02100 bingy|00000 aargh|12200 larva
+12100 abaca|10000 lasso
+02101 abaft|10001 latch
+02121 later
+02111 abash|10001 lathe
+02111 abash|10000 latte
+02100 bingy|00020 laugh
+02120 genal|01011 layer
+01110 gnarl|00201 fehme|02100 leach
+01110 gnarl|00201 fehme|12000 leafy
+01110 gnarl|00201 fehme|02000 leaky
+01112 repla|02011 leant
+01112 repla|02111 leapt
+01110 gnarl|01221 learn
+11110 aahed|10010 lease
+11110 aahed|10110 leash
+11112 least
+01110 gnarl|00201 fehme|02002 leave
+00110 deice|12002 ledge
+00110 deice|02021 leech
+00110 deice|02001 leery
+00111 axile|00011 lefty
+01110 gnarl|10102 legal
+00110 deice|02000 aggry|01202 leggy
+00110 deice|02000 aggry|00000 lemon
+00110 deice|02000 aggry|00010 lemur
+00120 bevor|02002 leper
+00120 bevor|02200 level
+00120 bevor|02202 lever
+00120 bevor|11000 libel
+00110 deice|01102 liege
+00102 bling|01101 light
+00120 bevor|01000 chimp|00100 abaka|00010 liken
+01200 aliya|11100 lilac
+00100 courd|01000 aboon|01100 limbo
+00102 bling|01100 limit
+00120 bevor|01000 chimp|00100 abaka|00000 linen
+00120 bevor|01002 bifid|02000 liner
+00100 courd|01000 aboon|00101 lingo
+00100 courd|00002 abamp|00001 lipid
+00111 axile|00112 lithe
+00120 bevor|01202 liver
+00100 courd|00002 abamp|00000 livid
+01100 corni|00000 abamp|10220 llama
+01100 corni|02000 abamp|00220 loamy
+01101 artic|10100 abaca|00200 loath
+00100 courd|02000 adown|00100 lobby
+01100 corni|12000 falls|01110 local
+10100 boeuf|02020 locus
+00110 deice|10002 lodge
+00101 boils|02010 lofty
+00100 courd|12000 logic
+00100 courd|02000 adown|00102 login
+00100 courd|02000 adown|00200 loopy
+10110 aboon|00210 loose
+00100 courd|02020 lorry
+10120 loser
+10110 aboon|00100 louse
+10100 boeuf|02010 lousy
+00120 bevor|01212 lover
+00120 bevor|01012 aahed|00020 lower
+00100 courd|02000 adown|00110 lowly
+01100 corni|02000 abamp|10000 loyal
+00100 courd|10102 lucid
+00100 courd|10100 aahed|00000 lucky
+00120 bevor|01000 chimp|00010 lumen
+00100 courd|00100 aalii|00100 lumpy
+01100 corni|00110 lunar
+00100 courd|10100 aahed|00100 lunch
+00110 deice|00002 baulk|00110 lunge
+10100 boeuf|00020 lupus
+00100 courd|10110 lurch
+00100 courd|00112 lurid
+10101 lusty
+00100 courd|00000 algin|01111 lying
+00100 courd|00000 algin|01000 lymph
+00100 courd|10000 aalii|00100 lynch
+00100 courd|10010 lyric
+02000 corni|10000 aahed|12000 macaw
+02000 corni|11000 abamp|10010 macho
+02000 corni|11100 macro
+02000 corni|00000 midgy|20200 madam
+02100 bingy|00002 madly
+02000 corni|00001 aahed|12000 mafia
+02000 corni|10001 magic
+02000 corni|00000 midgy|20010 magma
+02010 brugh|00000 adown|10000 maize
+02000 corni|01100 jivey|10000 major
+02020 gormy|00110 abaka|10010 maker
+02000 corni|01000 abamp|11010 mambo
+02000 corni|00000 midgy|20000 mamma
+02000 corni|00000 midgy|20002 mammy
+02000 corni|00010 aargh|12020 manga
+02010 brugh|00020 mange
+02000 corni|01010 aargh|02020 mango
+02000 corni|00010 aargh|02020 mangy
+02000 corni|00011 mania
+02000 corni|10011 abamp|10010 manic
+02100 bingy|00202 abaka|10000 manly
+02000 corni|01110 abamp|10010 manor
+02110 cadge|02002 abaca|10000 maple
+02000 corni|10200 march
+02000 corni|00200 dampy|02102 marry
+12000 cissy|00020 abamp|10010 marsh
+12000 cissy|00200 mason
+12010 ampul|11000 masse
+02001 boric|00001 campy|12100 match
+02021 enmew|00120 matey
+02010 brugh|00200 mauve
+02000 corni|00001 aahed|02000 maxim
+02010 brugh|10000 maybe
+02000 corni|01100 jivey|00001 mayor
+01110 gnarl|00201 fehme|02010 mealy
+01012 crena|00121 meant
+01011 chare|00201 meaty
+01010 brede|00100 abaca|00022 mecca
+01110 gnarl|00102 bedim|02201 medal
+01010 brede|00110 aalii|10020 media
+00010 drice|10111 medic
+00220 adsum|00001 melee
+00210 himbo|00101 melon
+00010 drice|01021 aahed|00010 mercy
+00010 drice|01002 mungo|20020 merge
+00012 preif|01120 aargh|00200 merit
+00010 drice|01001 boeuf|00100 abamp|00010 merry
+01111 abamp|10010 metal
+00021 mohur|20002 meter
+00011 crith|01010 amino|01002 metro
+00000 courd|11020 micro
+00010 drice|10102 midge
+10002 boric|00010 aahed|00001 midst
+00002 giron|12000 aswim|00011 might
+00200 doily|00112 abaft|00000 milky
+00000 courd|10000 fawny|00000 mimic
+00010 drice|00122 amene|01012 mince
+00020 nidor|12002 abaft|00000 miner
+00000 courd|00000 nippy|12000 minim
+00000 courd|01010 gimpy|02100 minor
+00001 routh|00020 aband|00010 minty
+10000 crios|00102 minus
+00001 routh|10022 abamp|00010 mirth
+10020 mhorr|20002 miser
+10000 crios|00101 aleph|00000 missy
+01000 brond|00100 abamp|10010 mocha
+01100 corni|02000 abamp|10010 modal
+00120 bevor|01010 adman|01100 model
+00020 nidor|00210 modem
+00100 courd|02100 mogul
+10002 boric|02010 fehme|00010 moist
+01200 aliya|11000 abamp|10010 molar
+00200 doily|12012 moldy
+00020 nidor|10010 chyme|00111 money
+00001 routh|02022 abamp|00010 month
+00000 courd|02001 dawds|00020 aargh|00000 moody
+10010 rhone|00202 aargh|00000 moose
+01100 corni|02200 moral
+00000 courd|02010 aboon|00122 moron
+00000 courd|02010 aboon|00100 morph
+10000 crios|00011 abaca|00000 mossy
+00121 abmho|00101 motel
+00001 routh|02010 enfix|00120 motif
+00001 routh|12010 motor
+00001 routh|02020 abaca|00000 motto
+00102 bling|01000 moult
+00000 courd|02202 bumph|01100 mound
+00002 giron|00011 ached|00000 mount
+00000 courd|02220 mourn
+10010 rhone|00102 appui|00010 mouse
+00001 routh|02222 abamp|00010 mouth
+00020 nidor|00012 whomp|00110 mover
+00010 drice|00102 bavin|00220 movie
+00020 nidor|00012 whomp|10110 mower
+00000 courd|10100 hempy|00102 mucky
+10000 crios|10002 mucus
+00000 courd|00101 abamp|00010 muddy
+00200 doily|00010 aargh|00002 mulch
+00000 courd|00100 gimpy|00202 mummy
+00000 courd|10100 hempy|10100 munch
+01100 corni|00200 abamp|10010 mural
+00000 courd|00110 aargh|00200 murky
+10000 crios|00001 hokum|10011 mushy
+10000 crios|10101 music
+10000 crios|00001 hokum|00111 musky
+10001 durgy|02002 musty
+00000 courd|00020 myrrh
+02000 corni|00111 nadir
+02010 brugh|00000 adown|10001 naive
+02000 corni|00020 abaft|10000 nanny
+12100 abaca|10100 nasal
+12001 attap|11000 aahed|02000 nasty
+02101 abaft|10101 natal
+02100 bingy|00100 naval
+02120 genal|01112 navel
+00010 drice|10001 ablow|00000 needy
+00010 drice|00201 fenny|02100 neigh
+00010 drice|11001 aargh|00200 nerdy
+00010 drice|01002 mungo|00100 nerve
+00020 nidor|20002 ablow|00000 never
+00020 nidor|20002 ablow|00001 newer
+00110 deice|02000 aggry|00002 newly
+00020 nidor|22002 nicer
+00010 drice|00112 niche
+00010 drice|00122 amene|00212 niece
+00002 giron|12001 night
+01000 brond|00010 abaca|00002 ninja
+00000 courd|00000 nippy|22002 ninny
+00001 routh|00022 aband|00010 ninth
+00110 deice|00002 baulk|10020 noble
+00100 courd|02000 adown|00101 nobly
+10010 rhone|00112 noise
+10000 crios|00211 noisy
+01000 brond|00112 aargh|10000 nomad
+10010 rhone|00212 noose
+00001 routh|12022 adown|00101 north
+10020 mhorr|00100 nosey
+00001 routh|02012 abaca|00020 notch
+00120 bevor|01210 aahed|00020 novel
+00010 drice|10002 bundh|02110 nudge
+10010 rhone|10012 nurse
+00001 routh|00120 abrin|00001 nutty
+00200 doily|01011 nylon
+00000 courd|00000 nippy|20021 nymph
+02020 gormy|01000 oaken
+10010 rhone|00102 appui|00000 obese
+00000 courd|11110 occur
+01010 brede|00200 aboma|10100 ocean
+01101 artic|10201 octal
+00022 cerne|11000 octet
+00020 nidor|00212 adaws|02000 odder
+00100 courd|01001 oddly
+01100 corni|01000 adbot|10010 offal
+00020 nidor|00012 whomp|00100 corby|01100 offer
+00021 mohur|01000 often
+00120 bevor|01010 adman|01002 olden
+00120 bevor|01012 aahed|00021 older
+00110 deice|00202 aargh|00000 olive
+00010 drice|01002 mungo|10001 ombre
+01010 brede|00200 aboma|00112 omega
+00000 courd|01000 aboon|00122 onion
+10022 abuna|00010 onset
+01010 brede|01200 opera
+00010 drice|00202 avows|00100 opine
+00000 courd|01100 agios|00210 opium
+00001 routh|01010 optic
+00002 giron|01110 aahed|00000 orbit
+00020 nidor|00212 adaws|01000 order
+01000 brond|02110 organ
+00021 mohur|01202 other
+00021 mohur|01002 otter
+00002 giron|10010 ought
+00010 drice|00022 bumph|02000 ounce
+00001 routh|01110 aahed|00001 outdo
+00021 mohur|01012 outer
+00001 routh|01110 aahed|00000 outgo
+01000 brond|01100 aargh|10100 ovary
+01011 chare|00202 aargh|10000 ovate
+00012 preif|01200 abcee|00010 overt
+00010 drice|00202 avows|02100 ovine
+00000 courd|01002 ovoid
+00000 courd|01000 aboon|00101 owing
+00020 nidor|10012 aargh|00100 owner
+00010 drice|10202 aargh|00000 oxide
+00010 drice|00002 fount|01020 aahed|00010 ozone
+02000 corni|00000 midgy|00202 abamp|10001 paddy
+02000 corni|00010 aargh|12010 pagan
+02002 teuch|10000 abaft|10002 paint
+02220 abaca|10000 paler
+12200 palsy
+02120 genal|01212 panel
+02000 corni|10011 abamp|10001 panic
+12000 cissy|00022 pansy
+02100 bingy|00000 aargh|12000 papal
+02020 gormy|00100 becap|01011 paper
+02020 gormy|00200 abamp|10001 parer
+02000 corni|00200 dampy|02010 parka
+02000 corni|00200 dampy|02012 parry
+12010 ampul|10100 parse
+02001 boric|00200 adaws|10000 party
+12001 attap|11011 pasta
+12011 bacha|02000 attap|11001 paste
+12001 attap|11001 pasty
+02001 boric|00001 campy|12010 patch
+02001 boric|01020 patio
+12001 attap|10201 patsy
+02001 boric|00000 fands|02000 abamp|10001 patty
+12010 ampul|10110 pause
+02020 gormy|00001 payee
+02020 gormy|00101 payer
+01010 brede|00102 achar|11000 peace
+01010 brede|00100 abaca|00220 peach
+01110 gnarl|00222 pearl
+01010 brede|00100 abaca|10010 pecan
+01110 gnarl|00102 bedim|02200 pedal
+01110 gnarl|01102 penal
+00010 drice|00022 bumph|00010 pence
+00010 drice|00002 fount|00020 penne
+00010 drice|00001 banco|00200 penny
+00010 drice|01021 aahed|00110 perch
+00110 deice|02100 peril
+00010 drice|01001 boeuf|00100 abamp|00001 perky
+10010 rhone|00001 aargh|00000 pesky
+10011 troth|00120 pesto
+01111 abamp|10001 petal
+00011 crith|00020 bapus|00100 petty
+11010 acari|00200 aahed|10110 phase
+00010 drice|00002 fount|01020 aahed|00110 phone
+00000 courd|01000 aboon|00201 phony
+00001 routh|01021 photo
+01000 brond|00120 piano
+00000 courd|10000 fawny|00002 picky
+00010 drice|00122 amene|00202 piece
+00011 crith|00120 piety
+00000 courd|00000 nippy|02102 piggy
+00202 aalii|00210 pilot
+00000 courd|10000 fawny|00010 pinch
+00020 nidor|12000 advew|00020 piney
+00000 courd|00000 nippy|12102 pinky
+00001 routh|01020 aahed|00000 pinto
+00020 nidor|02002 parev|20120 piper
+00010 drice|00102 bavin|00010 pique
+00001 routh|00012 wiped|02100 pitch
+00001 routh|00011 acing|00100 pithy
+00002 giron|02020 pivot
+00120 bevor|01000 chimp|00101 pixel
+00010 drice|00102 bavin|00020 pixie
+01000 brond|00000 amuck|10000 pizza
+01110 gnarl|00201 fehme|00002 aband|00200 place
+01100 corni|00001 adieu|11100 plaid
+01100 corni|00011 aalii|10120 plain
+01102 flong|02000 plait
+01110 gnarl|01201 plane
+01100 corni|00020 bifid|00000 plank
+01102 flong|02020 plant
+01111 abamp|00201 plate
+01100 corni|00000 abamp|10201 plaza
+01110 gnarl|00101 kippa|00101 plead
+01112 repla|01111 pleat
+00120 bevor|01000 chimp|00201 plied
+00120 bevor|01002 bifid|01000 plier
+00100 courd|10200 pluck
+00100 courd|00200 bumfs|11100 plumb
+00110 deice|00002 baulk|00210 abaft|00000 plume
+00100 courd|00200 bumfs|01100 plump
+00100 courd|00200 bumfs|01000 plunk
+10100 boeuf|00010 plush
+10010 rhone|00101 poesy
+00002 giron|01011 abamp|00001 point
+10010 rhone|00102 appui|01001 poise
+00020 nidor|00012 whomp|00101 poker
+01200 aliya|11000 abamp|10001 polar
+01200 aliya|01002 polka
+00200 doily|02011 polyp
+00000 courd|12000 aahed|00100 pooch
+00000 courd|02000 biogs|00100 poppy
+00000 courd|12010 aahed|00100 porch
+10020 mhorr|00102 poser
+10002 boric|02020 posit
+10010 rhone|00102 appui|01000 posse
+00000 courd|12200 abamp|00001 pouch
+00000 courd|02202 bumph|01010 pound
+00001 routh|02220 pouty
+00020 nidor|00012 whomp|10101 power
+01000 brond|02020 apace|01200 prank
+01000 brond|02010 aalii|10000 prawn
+00020 nidor|10001 aegis|01000 preen
+10010 rhone|10001 ached|00010 press
+00010 drice|02222 price
+00000 courd|10010 abaka|00010 prick
+00010 drice|12202 abaca|00000 pride
+00020 nidor|01101 decaf|11000 pried
+00010 drice|02202 pombe|20102 prime
+00000 courd|01010 gimpy|01110 primo
+00002 giron|01101 print
+00000 courd|01010 gimpy|01010 prior
+10000 crios|02201 abaft|00000 prism
+00000 courd|00010 beigy|00202 privy
+00010 drice|02202 pombe|20002 prize
+00010 drice|02002 befog|11010 probe
+00010 drice|02002 befog|01010 aband|00020 prone
+00000 courd|01010 gimpy|10010 prong
+00000 courd|01010 gimpy|00010 proof
+10010 rhone|10202 prose
+00000 courd|01112 proud
+00010 drice|02002 befog|01010 aband|00000 prove
+00100 courd|01010 agios|00010 prowl
+00000 courd|01010 gimpy|00012 proxy
+00010 drice|12002 abamp|00001 prude
+00010 drice|02002 befog|01000 prune
+11100 chals|00221 psalm
+00000 courd|10100 hempy|00010 pubic
+00000 courd|00101 abamp|00001 pudgy
+00000 courd|00100 gimpy|00012 puffy
+00200 doily|00012 abaca|00000 pulpy
+10210 aahed|00010 pulse
+00000 courd|10100 hempy|10010 punch
+01100 corni|00000 abamp|10001 pupal
+00100 courd|00100 aalii|00120 pupil
+00000 courd|00100 gimpy|00022 puppy
+00020 nidor|00001 ampul|00110 puree
+00020 nidor|00002 bevue|01010 aargh|00200 purer
+00010 drice|01002 mungo|02020 purge
+10010 rhone|10002 abcee|00002 purse
+10000 crios|00001 hokum|10010 abaca|00000 pushy
+00001 routh|00120 abrin|00000 putty
+00000 courd|00000 nippy|00102 pygmy
+01000 brond|00000 amuck|10122 quack
+01100 corni|00001 adieu|10101 quail
+01010 brede|00002 aguna|10100 quake
+01100 corni|00000 abamp|00210 qualm
+01000 brond|01000 chara|00220 quark
+01002 courd|00120 quart
+11000 crabs|00201 aargh|10002 quash
+11000 crabs|00201 aargh|10000 quasi
+00020 nidor|10000 aahed|00020 queen
+00020 nidor|00002 bevue|01011 queer
+00110 deice|01000 abamp|00000 quell
+00010 drice|01001 boeuf|00210 query
+10012 quich|22000 quest
+00010 drice|00002 fount|00100 queue
+00000 courd|10100 hempy|00000 quick
+00022 cerne|01000 aahed|00020 quiet
+00100 courd|00100 aalii|00110 quill
+00102 bling|01200 quilt
+00000 courd|00120 aargh|00100 quirk
+00011 crith|00220 aband|00000 quite
+01001 conia|01002 quota
+00011 crith|00020 bapus|00010 quote
+00001 routh|01122 quoth
+02000 corni|00102 aahed|02000 rabbi
+02000 corni|00101 bifid|10022 rabid
+02020 gormy|00100 becap|01210 racer
+02000 corni|00100 aahed|12001 radar
+02000 corni|00102 aahed|02001 radii
+02000 corni|01101 radio
+02000 corni|00121 rainy
+12010 ampul|10000 raise
+02000 corni|00100 aahed|12100 rajah
+02200 ahold|10020 rally
+02200 ahold|11010 ralph
+02020 gormy|00110 abaka|10000 ramen
+02000 corni|10110 ranch
+02000 corni|00110 randy
+02010 brugh|01020 range
+02000 corni|00101 bifid|00022 rapid
+02020 gormy|00200 abamp|10000 rarer
+12000 cissy|00202 raspy
+02001 boric|01120 ratio
+02001 boric|00100 ratty
+02020 gormy|00100 becap|01010 advew|10220 raven
+02000 corni|01110 abamp|10000 rayon
+02000 corni|01100 jivey|00000 razor
+01010 brede|01100 alary|00210 reach
+01012 crena|11101 react
+01010 brede|01120 ready
+01110 gnarl|00211 realm
+01010 brede|01100 alary|00220 rearm
+01010 brede|11100 abbas|00220 rebar
+00120 bevor|12001 rebel
+10010 rhone|20001 rebus
+00012 preif|01100 abaca|01000 rebut
+01010 brede|01100 alary|10010 recap
+00010 drice|01011 recur
+00012 preif|01100 abaca|00010 recut
+00010 drice|11001 aargh|00100 reedy
+00020 nidor|00002 bevue|02001 ablow|00000 refer
+00012 preif|01121 refit
+01110 gnarl|10112 regal
+01010 brede|11100 abbas|01020 rehab
+00010 drice|01201 reign
+01210 abray|00120 relax
+01210 abray|00122 relay
+00210 himbo|01000 relic
+00012 preif|01120 aargh|00100 remit
+01110 gnarl|01112 renal
+00020 nidor|10001 aegis|02000 renew
+01010 brede|01100 alary|10012 repay
+00120 bevor|02001 repel
+00110 deice|02000 aggry|00012 reply
+00010 drice|01001 boeuf|00120 rerun
+10022 abuna|00000 reset
+10010 rhone|20011 resin
+00011 crith|11012 retch
+00011 crith|01010 amino|00002 retro
+00011 crith|01010 amino|00000 retry
+10010 rhone|20002 reuse
+00120 bevor|02201 revel
+00010 drice|01002 mungo|01000 revue
+00000 courd|01010 gimpy|01000 rhino
+00010 drice|01002 mungo|10000 rhyme
+00020 nidor|02202 cahow|00000 rider
+00010 drice|11102 ridge
+00110 deice|00102 aargh|00100 rifle
+00002 giron|12100 right
+00000 courd|00012 aalii|00021 rigid
+00000 courd|01010 gimpy|12000 advew|00000 rigor
+10010 rhone|20012 rinse
+00020 nidor|12001 ripen
+00020 nidor|02002 parev|10120 riper
+10020 mhorr|00010 risen
+10020 mhorr|00012 riser
+10000 crios|01101 risky
+01100 corni|00101 afear|00021 rival
+00020 nidor|02002 parev|00121 aargh|00100 river
+00022 cerne|01100 rivet
+01000 brond|01100 aargh|10102 roach
+11002 acerb|10010 roast
+00000 courd|02010 aboon|01102 robin
+00002 giron|00120 robot
+00000 courd|12010 aahed|00000 rocky
+00020 nidor|00211 rodeo
+00020 nidor|00012 whomp|00100 corby|02100 agave|01001 roger
+00010 drice|01002 mungo|01011 rogue
+00000 courd|02010 aboon|00210 roomy
+10002 boric|02100 roost
+00001 routh|22010 rotor
+00010 drice|01002 mungo|01021 rouge
+00000 courd|02210 rough
+00000 courd|02212 round
+10010 rhone|20102 rouse
+00011 crith|01020 aargh|00100 route
+00020 nidor|00012 whomp|00100 corby|02100 agave|00011 rover
+00000 courd|02011 abray|00102 rowdy
+00020 nidor|00012 whomp|10100 abaca|00000 rower
+01100 corni|02100 royal
+00000 courd|00111 ruddy
+00020 nidor|00202 adaws|01000 ruder
+00000 courd|00110 aargh|00110 rugby
+00220 adsum|00010 ruler
+01000 brond|11000 abbas|11000 rumba
+00000 courd|01110 farer|00102 rumor
+00020 nidor|00001 ampul|00210 rupee
+01100 corni|00200 abamp|10000 rural
+10001 durgy|02102 rusty
+22100 sadly
+22020 abaft|10010 safer
+22002 saint
+22200 aldol|11100 salad
+22200 aldol|11001 sally
+22200 aldol|11020 salon
+22200 aldol|11000 salsa
+22201 salty
+22210 salve
+22200 aldol|11010 salvo
+22000 copsy|00012 aahed|02001 sandy
+22020 abaft|10000 saner
+22000 copsy|00212 sappy
+22000 copsy|00022 sassy
+22001 aalii|02020 satin
+22001 aalii|02000 satyr
+22010 sauce
+22000 copsy|10012 saucy
+22000 copsy|00010 sauna
+22011 saute
+22000 copsy|01010 savor
+22000 copsy|01012 savoy
+22000 copsy|00012 aahed|02000 savvy
+21100 choli|10020 acidy|12010 scald
+21110 achar|12000 scale
+21100 choli|10020 acidy|12000 scalp
+21100 choli|10020 acidy|12002 scaly
+21000 chark|10200 scamp
+21002 atman|11001 scant
+21010 hepar|01011 abaca|00210 scare
+21000 chark|10220 abaft|00210 scarf
+21000 chark|10220 abaft|00200 scary
+20010 prink|00020 abcee|00112 scene
+20012 acing|02020 scent
+20000 unrip|01010 aargh|00000 scion
+20000 unrip|00000 chack|10000 scoff
+20100 plink|01000 abord|00202 scold
+20010 prink|00020 abcee|00102 scone
+20000 unrip|00002 abaca|00010 scoop
+20010 prink|10000 scope
+20010 prink|01000 chere|10022 score
+20000 unrip|01100 achar|02001 scorn
+20000 unrip|10100 scour
+20002 chiro|10001 scout
+20100 plink|01000 abord|00200 scowl
+21000 chark|10110 abamp|10010 scram
+21000 chark|10110 abamp|10002 scrap
+20020 hewer|01021 abaca|00010 scree
+20020 hewer|00121 screw
+20000 unrip|10200 abaca|01010 scrub
+20000 unrip|10200 abaca|00010 scrum
+21000 chark|10100 abaca|01012 scuba
+21010 hepar|02020 sedan
+20010 prink|00000 aahed|00011 seedy
+20010 prink|00000 aahed|00010 segue
+20010 prink|00200 seize
+20020 hewer|02020 abamp|00010 semen
+20010 prink|00010 sense
+21010 hepar|02210 sepia
+20010 prink|01100 serif
+20010 prink|01000 chere|00110 serum
+20010 prink|01000 chere|00112 serve
+20011 korun|00020 setup
+20020 hewer|02020 abamp|00000 seven
+20020 hewer|02022 sever
+20020 hewer|02222 sewer
+21000 chark|12202 shack
+21010 hepar|11010 dumka|10001 shade
+21000 chark|02200 shady
+21002 atman|11000 shaft
+21010 hepar|11010 dumka|00021 shake
+21000 chark|02201 shaky
+21110 achar|10100 shale
+21100 choli|02020 shall
+21102 aahed|10100 shalt
+21010 hepar|11010 dumka|00101 shame
+21000 chark|02202 shank
+21010 hepar|11110 shape
+21000 chark|02220 aahed|10102 shard
+21010 hepar|11011 share
+21000 chark|02222 shark
+21000 chark|02220 aahed|10100 sharp
+21010 hepar|11010 dumka|00001 shave
+21100 choli|02010 shawl
+21010 hepar|11022 shear
+20020 hewer|11020 abamp|00000 sheen
+20020 hewer|11020 abamp|00002 sheep
+20020 hewer|11022 sheer
+20022 aahed|00120 sheet
+20010 prink|00102 sheik
+20110 chemo|02200 abaft|00010 shelf
+20110 chemo|02200 abaft|00000 shell
+20020 hewer|10020 shied
+20002 chiro|02200 shift
+20010 prink|00220 aahed|00110 shine
+20000 unrip|01010 aargh|00001 shiny
+20010 prink|01200 shire
+20000 unrip|00110 aahed|00100 shirk
+20002 chiro|02220 shirt
+21100 choli|02210 shoal
+20000 unrip|00000 chack|02022 shock
+20010 prink|00020 abcee|00002 shone
+20000 unrip|00000 chack|02002 shook
+20002 chiro|02001 ablow|00020 shoot
+20010 prink|01000 chere|02022 shore
+20000 unrip|01100 achar|00101 shorn
+20002 chiro|02021 short
+20002 chiro|02001 ablow|00010 shout
+20010 prink|00000 aahed|00110 shove
+20000 unrip|01000 aahed|00100 shown
+20000 unrip|00000 chack|02000 showy
+20020 hewer|10121 shrew
+20000 unrip|10200 abaca|01000 shrub
+20000 unrip|10200 abaca|00000 shrug
+20000 unrip|10000 aargh|00001 shuck
+20002 chiro|02000 shunt
+20000 unrip|10000 aargh|00002 shush
+20100 plink|01000 abord|00000 shyly
+20010 prink|00100 aargh|00020 siege
+20010 prink|00100 aargh|00000 sieve
+20002 chiro|01100 sight
+21000 chark|00100 aahed|10000 sigma
+20200 aduki|00021 silky
+20200 aduki|00001 silly
+20010 prink|00110 aargh|00000 since
+20020 hewer|00120 sinew
+20010 prink|00110 aargh|00020 singe
+20020 hewer|00021 siren
+20000 unrip|00010 abash|00020 sissy
+20001 goyim|00010 acing|00100 sixth
+20001 goyim|00110 sixty
+21011 dirke|00012 skate
+20020 hewer|00022 abrim|00110 skier
+20000 unrip|00010 abash|00010 skiff
+20100 plink|01201 skill
+20000 unrip|00012 skimp
+20002 chiro|00220 skirt
+20100 plink|01002 skulk
+20100 plink|01001 skull
+20000 unrip|11000 aduki|00210 skunk
+21100 choli|10010 slack
+21100 choli|00011 aboil|10021 slain
+21100 choli|00010 aargh|10010 slang
+21102 aahed|10000 slant
+21100 choli|01010 slash
+21111 abele|10012 slate
+21110 achar|10000 slave
+20120 abamp|00000 sleek
+20120 abamp|00002 sleep
+20122 sleet
+20112 alaap|02001 slept
+20110 chemo|10100 slice
+20100 plink|02202 slick
+20110 chemo|00100 slide
+20110 chemo|00120 slime
+20100 plink|02200 slimy
+20100 plink|02220 sling
+20100 plink|02222 slink
+20100 plink|12000 abmho|00001 sloop
+20110 chemo|00101 slope
+20100 plink|02000 abmho|00011 slosh
+20101 aarti|00020 sloth
+20100 plink|12000 abmho|00100 slump
+20100 plink|02020 slung
+20100 plink|02022 slunk
+20100 plink|12000 abmho|00000 slurp
+20100 plink|02000 abmho|00010 slush
+20100 plink|02000 abmho|00000 slyly
+21000 chark|10202 abamp|00210 smack
+21100 choli|00020 small
+21002 atman|11100 smart
+21000 chark|01200 abamp|00210 smash
+21010 hepar|01022 abamp|10010 smear
+20110 chemo|00210 smell
+20112 alaap|01000 smelt
+20110 chemo|00110 smile
+20000 unrip|00110 aahed|00000 smirk
+20011 korun|00000 abamp|00010 smite
+20001 goyim|00011 smith
+20000 unrip|00000 chack|00022 smock
+20010 prink|00001 smoke
+20000 unrip|00000 chack|00001 smoky
+20011 korun|01000 aarti|00020 smote
+21000 chark|10202 abamp|00200 snack
+21100 choli|00011 aboil|10022 snail
+21010 hepar|01010 abaka|00220 snake
+21000 chark|00201 snaky
+21010 hepar|01011 abaca|00200 snare
+21100 choli|00010 aargh|10100 snarl
+21010 hepar|01020 sneak
+20020 hewer|01022 sneer
+20010 prink|00210 snide
+20000 unrip|02010 sniff
+20010 prink|10210 snipe
+20000 unrip|02002 snoop
+20010 prink|01010 snore
+20002 chiro|00021 abamp|00000 snort
+20002 chiro|00001 apian|00001 snout
+20000 unrip|02000 snowy
+20000 unrip|12000 abaca|00020 snuck
+20000 unrip|12000 abaca|00000 snuff
+21000 chark|00200 anima|10000 soapy
+20020 hewer|00022 abrim|01100 sober
+20000 unrip|00000 chack|00000 soggy
+21200 solar
+20200 aduki|01001 solid
+20210 solve
+21000 chark|00110 aargh|10100 sonar
+20000 unrip|01020 sonic
+20001 goyim|02000 abohm|00210 sooth
+20001 goyim|02100 sooty
+20000 unrip|00200 sorry
+20000 unrip|11000 aduki|01200 sound
+20001 goyim|02000 abohm|00110 south
+20020 hewer|00222 sower
+21010 hepar|01110 aahed|10010 space
+21010 hepar|01110 aahed|10011 spade
+21000 chark|00202 spank
+21010 hepar|01111 spare
+21000 chark|00222 spark
+21000 chark|00200 anima|10010 spasm
+21000 chark|00200 anima|11000 spawn
+21010 hepar|01120 speak
+21010 hepar|01122 spear
+20010 prink|10002 speck
+20020 hewer|01020 speed
+20110 chemo|00200 abamp|00001 spell
+20112 alaap|01001 spelt
+20010 prink|10020 spend
+20012 acing|00020 spent
+20010 prink|11000 abamp|00011 sperm
+20010 prink|10200 spice
+20000 unrip|00011 abaca|00020 spicy
+20020 hewer|00020 spied
+20120 abamp|00001 spiel
+20010 prink|10201 spike
+20000 unrip|00011 abaca|00000 spiky
+20100 plink|11200 spill
+20102 abamp|00001 spilt
+20010 prink|10220 spine
+20000 unrip|01011 spiny
+20010 prink|11200 spire
+20011 korun|00000 abamp|00001 spite
+21202 splat
+20202 split
+20100 plink|11100 spoil
+20010 prink|10001 spoke
+20000 unrip|00001 abaft|00010 spoof
+20000 unrip|00001 abaft|00000 spook
+20100 plink|11000 spool
+20000 unrip|01001 spoon
+20010 prink|11000 abamp|00001 spore
+20002 chiro|00021 abamp|00001 sport
+20002 chiro|00001 apian|02000 spout
+21000 chark|00110 aargh|10200 spray
+20020 hewer|01021 abaca|00000 spree
+20000 unrip|00221 sprig
+20000 unrip|11001 spunk
+20000 unrip|11101 spurn
+20002 chiro|00020 spurt
+21000 chark|00100 aahed|10002 squad
+21002 atman|01020 squat
+20000 unrip|10020 squib
+21001 prink|00002 stack
+21001 prink|00000 abash|00210 staff
+21011 dirke|00002 agave|01202 stage
+21001 prink|00100 staid
+21001 prink|00110 stain
+21001 prink|01100 stair
+21011 dirke|00022 stake
+21111 abele|10022 stale
+21101 abaka|00210 stalk
+21101 abaka|00200 stall
+21001 prink|10000 stamp
+21001 prink|00020 stand
+21001 prink|00022 stank
+21011 dirke|00102 stare
+21001 prink|01002 stark
+21002 atman|12000 start
+21001 prink|00000 abash|00222 stash
+21011 dirke|00002 agave|00202 state
+21011 dirke|00002 agave|00222 stave
+21011 dirke|10001 stead
+21011 dirke|00011 steak
+21111 abele|10210 steal
+21011 dirke|00001 steam
+20021 abord|00002 steed
+20121 steel
+20021 abord|00000 steep
+20021 abord|00010 steer
+20011 korun|00002 stein
+20011 korun|00102 stern
+20001 goyim|00010 acing|01200 stick
+20001 goyim|00010 acing|00200 stiff
+20101 aarti|00011 still
+20102 abamp|00000 stilt
+20001 goyim|10010 sting
+20001 goyim|00010 acing|00220 stink
+20002 chiro|00200 abaft|00002 stint
+20001 goyim|01000 acred|01000 stock
+20001 goyim|01020 stoic
+20011 korun|11000 stoke
+20111 abaya|00000 stole
+20001 goyim|01001 stomp
+20011 korun|01001 stone
+20001 goyim|01100 aargh|00000 stony
+20001 goyim|01000 acred|00002 stood
+20101 aarti|00010 stool
+20001 goyim|01000 acred|00000 stoop
+20011 korun|01100 store
+20001 goyim|01000 acred|00100 stork
+20001 goyim|01002 storm
+20001 goyim|01100 aargh|00100 story
+20002 chiro|00001 apian|00000 stout
+20011 korun|01000 aarti|00010 stove
+21001 prink|11000 strap
+21001 prink|01000 abaya|10000 straw
+21001 prink|01000 abaya|10010 stray
+20001 goyim|00020 strip
+20002 chiro|00010 strut
+20001 goyim|00000 acing|01000 stuck
+20001 goyim|00100 study
+20001 goyim|00000 acing|00000 stuff
+20001 goyim|00001 stump
+20001 goyim|10000 stung
+20001 goyim|00000 acing|00020 stunk
+20002 chiro|00000 stunt
+20111 abaya|00010 style
+21010 hepar|01010 abaka|00200 suave
+21000 chark|00110 aargh|10110 sugar
+20000 unrip|11010 suing
+20011 korun|00010 suite
+20200 aduki|00120 sulky
+20200 aduki|00100 sully
+21000 chark|10100 abaca|10010 sumac
+20000 unrip|11000 aduki|00100 sunny
+20020 hewer|00022 abrim|00100 super
+20020 hewer|00022 abrim|00200 surer
+20010 prink|01000 chere|00012 surge
+20100 plink|01000 abord|00010 surly
+20000 unrip|10010 sushi
+21000 chark|00200 anima|10120 swami
+21000 chark|00200 anima|10020 swamp
+21000 chark|00220 swarm
+21000 chark|01200 abamp|00200 swash
+21001 prink|00000 abash|00212 swath
+21010 hepar|01022 abamp|10000 swear
+21012 sweat
+20020 hewer|01120 sweep
+20022 aahed|00020 sweet
+20110 chemo|00200 abamp|00000 swell
+20012 acing|00000 swept
+20002 chiro|00200 abaft|00022 swift
+20100 plink|01200 aargh|00000 swill
+20010 prink|00220 aahed|00010 swine
+20000 unrip|01010 aargh|00010 swing
+20100 plink|01200 aargh|00100 swirl
+20000 unrip|00010 abash|00022 swish
+20000 unrip|01000 aahed|00000 swoon
+20000 unrip|00002 abaca|00000 swoop
+20000 unrip|00100 sword
+20010 prink|01000 chere|00022 swore
+20000 unrip|01100 achar|00001 sworn
+20000 unrip|11000 aduki|00200 swung
+20000 unrip|01000 aahed|00002 synod
+20000 unrip|10202 syrup
+02001 boric|10000 tabby
+02111 abash|11000 table
+02001 boric|11000 taboo
+02002 teuch|20010 tacit
+02001 boric|00001 campy|12002 tacky
+02001 boric|00000 fands|12000 taffy
+02002 teuch|20000 aalii|02010 taint
+02021 enmew|01020 taken
+02021 enmew|00020 caphs|02000 taker
+02201 ablow|10200 tally
+02201 ablow|10220 talon
+02021 enmew|00220 tamer
+02001 boric|01000 tango
+02001 boric|00000 fands|02200 tangy
+02021 enmew|00020 caphs|02200 taper
+02001 boric|00120 tapir
+02001 boric|00200 adaws|11000 tardy
+02002 teuch|20000 aalii|02000 tarot
+12011 bacha|02000 attap|11100 taste
+12001 attap|11100 tasty
+02001 boric|00000 fands|02000 abamp|10000 tatty
+02002 teuch|20200 taunt
+02001 boric|00000 fands|02100 tawny
+01011 chare|11201 teach
+01011 chare|00221 teary
+11011 tease
+00011 crith|00010 accoy|00002 teddy
+00011 crith|00022 aband|00000 teeth
+00011 crith|00010 accoy|00010 tempo
+00022 cerne|02011 tenet
+00011 crith|01010 amino|00011 tenor
+10011 troth|20000 tense
+00011 crith|00022 aband|00010 tenth
+00021 mohur|00000 aahed|00020 tepee
+00011 crith|00110 acted|00112 tepid
+01011 chare|00121 aargh|10200 terra
+10011 troth|21000 terse
+10011 troth|20020 testy
+01001 conia|00101 aahed|10100 thank
+00012 preif|00201 theft
+00011 crith|01111 their
+00011 crith|00011 abaya|00000 theme
+00011 crith|01011 there
+10011 troth|20001 these
+01011 chare|02101 theta
+00001 routh|00011 acing|01200 thick
+00021 mohur|00100 thief
+00001 routh|00012 wiped|01000 thigh
+00001 routh|00011 acing|00222 thing
+00001 routh|00011 acing|00220 think
+00001 routh|10011 third
+00001 routh|01011 thong
+00001 routh|11011 aband|00010 thorn
+10011 troth|20201 those
+00021 mohur|00101 abcee|00022 three
+00021 mohur|00101 abcee|00020 threw
+00001 routh|11011 aband|01000 throb
+00001 routh|11011 aband|00000 throw
+00001 routh|10111 thrum
+00001 routh|00211 abaca|01000 thumb
+00001 routh|00211 abaca|00000 thump
+00011 crith|00011 abaya|00010 thyme
+01001 conia|00012 tiara
+01001 conia|00022 tibia
+01101 artic|10110 tidal
+00021 mohur|00002 abrin|00110 tiger
+00002 giron|12000 aswim|00010 abaft|00002 tight
+00211 aahed|00011 tilde
+00021 mohur|10002 timer
+00001 routh|00010 aahed|00002 timid
+10001 durgy|00002 tipsy
+01001 conia|00111 titan
+00011 crith|00111 tithe
+00111 axile|00122 title
+11002 acerb|10000 toast
+01001 conia|02001 aahed|10001 today
+00001 routh|02010 enfix|00000 toddy
+00021 mohur|02000 token
+01101 artic|10100 abaca|10000 tonal
+01001 conia|02202 tonga
+00001 routh|02010 enfix|01020 tonic
+00001 routh|02022 abamp|00000 tooth
+01001 conia|02001 aahed|10000 topaz
+00001 routh|02010 enfix|00020 topic
+00001 routh|12012 torch
+10001 durgy|00200 torso
+10001 durgy|01200 torus
+01101 artic|10200 total
+00021 mohur|12000 totem
+00001 routh|02212 aargh|00002 touch
+00001 routh|02212 aargh|00022 tough
+00121 abmho|00001 towel
+00021 mohur|02002 ablow|00011 tower
+00001 routh|02010 enfix|00021 toxic
+00001 routh|02010 enfix|01021 toxin
+01011 chare|10212 trace
+01001 conia|10001 track
+01002 courd|10010 tract
+01011 chare|00212 aarti|10110 trade
+01101 artic|12120 trail
+01001 conia|00121 train
+01002 courd|00010 abrin|10120 trait
+01001 conia|00001 aahed|10000 tramp
+11001 aahed|10100 trash
+01101 artic|12100 trawl
+01011 chare|00111 tread
+01012 crena|02201 aargh|10100 treat
+00011 crith|02010 advew|01010 trend
+01001 conia|00011 aahed|10002 triad
+01101 artic|12110 trial
+00011 crith|02210 abaca|01000 tribe
+00011 crith|12210 trice
+00001 routh|10010 trick
+00021 mohur|00001 tried
+00011 crith|02210 abaca|00000 tripe
+00011 crith|02220 ablow|00000 trite
+00101 boils|01020 troll
+00001 routh|11010 aalii|00000 troop
+00011 crith|02010 advew|00010 trope
+00002 giron|00110 abaca|00000 trout
+00011 crith|02010 advew|00110 trove
+00011 crith|12010 truce
+00001 routh|10210 acing|01000 truck
+00021 mohur|00012 abuna|00200 truer
+00101 boils|00020 truly
+00001 routh|10210 acing|00000 trump
+00001 routh|10210 acing|00020 trunk
+10001 durgy|01100 truss
+10002 boric|00100 abaya|00000 trust
+00001 routh|10222 truth
+10002 boric|00100 abaya|00010 tryst
+01101 artic|10100 abaca|11000 tubal
+00021 mohur|00012 abuna|01100 tuber
+00201 aahed|00000 tulip
+00211 aahed|00010 tulle
+00001 routh|11110 abamp|00010 tumor
+00001 routh|00110 tunic
+00001 routh|11110 abamp|01000 turbo
+00001 routh|11110 abamp|00000 tutor
+01001 conia|00101 aahed|10000 twang
+01011 chare|00101 tweak
+00021 mohur|00000 aahed|00022 tweed
+00022 cerne|01001 tweet
+00011 crith|10210 twice
+00011 crith|00210 twine
+00101 boils|00210 twirl
+10002 boric|00010 aahed|00000 twist
+00002 giron|01000 twixt
+00001 routh|00010 aahed|00000 tying
+00020 nidor|00202 adaws|02000 udder
+00120 bevor|01002 bifid|00000 ulcer
+01101 artic|11200 ultra
+01000 brond|11000 abbas|10200 umbra
+00110 deice|00012 aboon|00001 uncle
+00002 giron|00001 uncut
+00020 nidor|10202 under
+00000 courd|00102 aahed|00002 undid
+00010 drice|10002 bundh|01110 undue
+00020 nidor|10100 afear|01100 unfed
+00002 giron|01001 aalii|00020 unfit
+00000 courd|00100 gimpy|01002 unify
+00000 courd|01100 agios|00220 union
+00011 crith|00220 aband|00010 unite
+00001 routh|00120 abrin|00011 unity
+00202 aalii|00220 unlit
+00022 cerne|01010 unmet
+10022 abuna|00110 unset
+00011 crith|00110 acted|00210 untie
+00101 boils|00110 until
+00020 nidor|10100 afear|00100 unwed
+00000 courd|00100 gimpy|01010 unzip
+00020 nidor|00002 bevue|01010 aargh|00100 upper
+10022 abuna|00100 upset
+01000 brond|12010 urban
+00010 drice|02202 pombe|00002 urine
+11010 acari|00200 aahed|10010 usage
+10020 mhorr|01002 usher
+10000 crios|00201 aahed|00000 using
+11100 chals|00111 usual
+10000 crios|01001 usurp
+00111 axile|00222 utile
+00021 mohur|00012 abuna|00100 utter
+02010 brugh|00110 vague
+02222 valet
+02200 ahold|10012 valid
+02200 ahold|10110 valor
+02210 ahull|10110 value
+02210 ahull|10010 valve
+02000 corni|00001 aahed|02002 vapid
+02000 corni|01100 jivey|00100 vapor
+02102 abaft|10002 vault
+02002 teuch|10200 gadje|02000 vaunt
+01010 brede|00100 abaca|10000 vegan
+00010 drice|00001 banco|00201 venom
+00010 drice|00002 fount|00110 venue
+00010 drice|01002 mungo|00020 verge
+10010 rhone|10002 abcee|00012 verse
+10010 rhone|10101 verso
+00010 drice|01002 mungo|00000 aahed|00010 verve
+01000 brond|01000 chara|10110 vicar
+00020 nidor|02210 video
+00100 courd|00000 algin|01220 vigil
+00000 courd|01010 gimpy|12000 advew|00100 vigor
+01200 aliya|01102 villa
+00100 courd|00000 algin|01011 vinyl
+01100 corni|01001 viola
+00020 nidor|02002 parev|10121 viper
+01100 corni|00201 viral
+10000 crios|01102 virus
+10002 boric|00020 visit
+10000 crios|01121 visor
+11001 aahed|10000 vista
+01101 artic|10210 vital
+00000 courd|00002 vivid
+00020 nidor|12000 advew|00120 vixen
+01100 corni|12000 falls|01100 vocal
+01000 brond|00101 aargh|10000 vodka
+00010 drice|00002 fount|02100 vogue
+00010 drice|00222 ablow|00010 voice
+01100 corni|02001 voila
+00002 giron|01010 vomit
+00021 mohur|02002 ablow|00010 voter
+00000 courd|12200 abamp|00000 vouch
+00120 bevor|01110 vowel
+00000 courd|00000 nippy|11001 vying
+02000 corni|10000 aahed|02000 wacky
+02020 gormy|00100 becap|01010 advew|10021 wafer
+02020 gormy|10100 abcee|10020 wager
+02000 corni|01010 aargh|02010 wagon
+12002 waist
+02010 brugh|00000 adown|10010 waive
+02201 ablow|10201 waltz
+02001 boric|00200 adaws|10010 warty
+12011 bacha|02000 attap|11000 waste
+02001 boric|00001 campy|12000 ablow|10001 watch
+02021 enmew|00021 water
+02020 gormy|00100 becap|01010 advew|10221 waver
+02020 gormy|00000 aahed|02020 waxen
+01010 brede|01100 alary|00222 weary
+01010 brede|00102 achar|10000 weave
+00010 drice|10002 bundh|00010 wedge
+00010 drice|10001 ablow|00001 weedy
+00010 drice|00201 fenny|02000 weigh
+00010 drice|11201 weird
+00210 himbo|10000 welch
+10210 aahed|00110 welsh
+00010 drice|00021 aboon|00001 wench
+01000 brond|00000 amuck|10022 whack
+01110 gnarl|00201 fehme|00102 whale
+01000 brond|01000 chara|02220 wharf
+01012 crena|00201 aahed|10110 wheat
+00120 bevor|01000 chimp|02000 wheel
+00110 deice|01000 abamp|00002 whelp
+00010 drice|01002 mungo|00000 aahed|00110 where
+00000 courd|10000 fawny|00100 which
+00000 courd|00000 nippy|01000 whiff
+00110 deice|00202 aargh|00001 while
+00010 drice|00202 avows|00010 whine
+00000 courd|00000 nippy|11002 whiny
+00100 courd|00020 whirl
+10000 crios|00201 aahed|00100 whisk
+00011 crith|00221 white
+00110 deice|00002 baulk|00020 whole
+00000 courd|01000 aboon|00220 whoop
+10010 rhone|02202 abaca|00000 whose
+00020 nidor|12200 widen
+00020 nidor|02202 cahow|00001 wider
+00000 courd|01001 ablow|00022 widow
+00001 routh|00022 aband|00001 width
+00110 deice|11100 alway|01100 wield
+00002 giron|12000 aswim|00110 wight
+00200 doily|00122 fowth|00100 willy
+00000 courd|00000 nippy|02022 wimpy
+00010 drice|00122 amene|00012 wince
+00000 courd|10000 fawny|00110 winch
+00000 courd|00001 banda|00220 windy
+10020 mhorr|00002 wiser
+10000 crios|00101 aleph|00020 wispy
+00001 routh|00012 wiped|22000 witch
+00001 routh|00020 aband|00000 awork|01000 witty
+00020 nidor|10010 chyme|00001 abaka|00010 woken
+01000 brond|00110 aalii|10000 woman
+00020 nidor|10010 chyme|00011 women
+00000 courd|02001 dawds|00120 woody
+00020 nidor|00012 whomp|20200 wooer
+00100 courd|02000 adown|00210 wooly
+00000 courd|02000 biogs|00200 woozy
+00000 courd|02011 abray|00202 wordy
+00100 courd|02012 world
+00000 courd|02020 worry
+10010 rhone|10102 worse
+10002 boric|02200 worst
+00001 routh|12022 adown|00110 worth
+00100 courd|02202 would
+00000 courd|02202 bumph|01000 abaft|00000 wound
+00020 nidor|10010 chyme|00001 abaka|00000 woven
+01000 brond|02000 copay|10010 wrack
+01001 conia|00001 aahed|10100 wrath
+01010 brede|02200 cawks|01110 wreak
+00010 drice|02021 wreck
+10012 quich|00000 wrest
+00000 courd|00010 beigy|00210 wring
+10002 boric|00110 wrist
+00011 crith|02220 ablow|00001 write
+00000 courd|01010 gimpy|10000 wrong
+00011 crith|02020 abaca|00000 wrote
+00000 courd|00210 abaft|00000 wrung
+00100 courd|00010 aking|00000 wryly
+02002 teuch|10011 yacht
+01010 brede|01100 alary|00221 yearn
+11012 abaft|00202 yeast
+00110 deice|11100 alway|01001 yield
+00000 courd|02200 aahed|00000 young
+00001 routh|02222 abamp|00000 youth
+01010 brede|11100 abbas|10200 zebra
+10011 troth|00020 zesty
+01100 corni|02010 zonal

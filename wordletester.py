@@ -1,9 +1,9 @@
 from math import floor
 
-answers = open('answers.txt').readlines()
+answers = open('data/answers.txt').readlines()
 answers = [answer.replace('\n', '') for answer in answers]
 
-allowed = open('allowed.txt').readlines()
+allowed = open('data/allowed.txt').readlines()
 allowed = [word.replace('\n', '') for word in allowed]
 
 def assess_guess(guess, correct):
@@ -47,6 +47,7 @@ for index, correct in enumerate(answers):
 	result = assess_guess('salet', correct)
 	set_of_answers = assess_move(set_of_answers, 'salet')[result]
 	num_guesses = 2
+	print('salet ' + result)
 	
 	while len(set_of_answers) > 1:
 		rankings = {}
@@ -61,10 +62,12 @@ for index, correct in enumerate(answers):
 		result = assess_guess(rankings[0][0], correct)
 		set_of_answers = assess_move(set_of_answers, rankings[0][0])[result]
 		num_guesses += 1
+		print(f'{rankings[0][0]} {result}')
 
 	total += num_guesses
-	
-	if answers:
-		print(f'Solved {correct} in {num_guesses} guesses       |  Average: ' + '{:.2f}'.format(total / (index + 1)) + f'  | {index + 1}/{len(answers)}')
-	else:
-		print('Could not find an answer!')
+	print(f'{correct} 22222')
+	print()
+	#if answers:
+		#print(f'Solved {correct} in {num_guesses} guesses       |  Average: ' + '{:.2f}'.format(total / (index + 1)) + f'  | {index + 1}/{len(answers)}')
+	#else:
+		#print('Could not find an answer!')

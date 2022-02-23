@@ -1,7 +1,7 @@
-answers = open('answers.txt').readlines()
+answers = open('data/answers.txt').readlines()
 answers = [answer.replace('\n', '') for answer in answers]
 
-allowed = open('allowed.txt').readlines()
+allowed = open('data/allowed.txt').readlines()
 allowed = [word.replace('\n', '') for word in allowed]
 
 def assess_guess(guess, correct):
@@ -27,7 +27,6 @@ def assess_guess(guess, correct):
 def assess_move(move):
 	dist = {}
 	chars = '012'
-	# this may be the worst code i've written in my life.
 	for first in chars:
 		for second in chars:
 			for third in chars:
@@ -40,7 +39,7 @@ def assess_move(move):
 	return dist
 
 
-print('Starting word: "SALET"')
+print('Enter "SALET"')
 result = input('Enter the result: ')
 answers = assess_move('salet')[result]
 
